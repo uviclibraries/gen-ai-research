@@ -3,12 +3,27 @@ layout: default
 title: Pre-Workshop Activities
 nav_order: 2
 ---
-## UPDATE BELOW: Pre-Workshop Videos & Activities
-This workshop is primarily hands-on practice with **UPDATE** in order to learn to use key features of the software. To participate fully please do the following **before the workshop**:
+## Pre-Workshop Videos & Activities
+This workshop is primarily hands-on practice with various Generative AI (GenAI) tools to learn to use key features of this class of software for research purposes and indirectly for general productivity. Some of the GenAI tools include:
+- Microsoft CoPilot (UVic licensed version)
+- ChatGPT 
+- Google Gemini
+- Perplexity
+- Semantic Scholar
+- Elicit
+- Research Rabbit
+
+To participate fully please do the following **before the workshop**:
 
 **UPDATE BELOW: 5-10 minutes.**<br>
-- OPTIONAL - [Introduction to Spreadsheets for Beginners](https://www.youtube.com/watch?v=rJbf-2XXsuY){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/lYzhgMZii3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Generative AI Overview](https://www.youtube.com/watch?v=unPKJJjQP0A){:target="_blank"} (3 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/unPKJJjQP0A" title="Generative AI Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Generative AI & Academic Integrity at Texas A&M University](https://www.youtube.com/watch?v=0O93IdzBijo){:target="_blank"} (5 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/unPKJJjQP0A" title="Generative AI & Academic Integrity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [Generative AI in Education](https://www.youtube.com/watch?v=kpjqxalCKdg&t=10s){:target="_blank"} (7 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/kpjqxalCKdg&t" title="Generative AI in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+- [What different types of Artificial Intelligence (AI) & how Generative AI relates to other forms of AI](https://www.youtube.com/watch?v=Yq0QkCxoTHM){:target="_blank"} (10 min)<br>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Yq0QkCxoTHM" title="Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
             -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
             -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
