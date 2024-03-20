@@ -5,13 +5,13 @@ nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
 This workshop is primarily hands-on practice with various Generative AI (GenAI) tools to learn to use key features of this class of software for research purposes and indirectly for general productivity. Some of the GenAI tools include:
-- Microsoft CoPilot (UVic licensed version)
-- ChatGPT 
-- Google Gemini
-- Perplexity
-- Semantic Scholar
-- Elicit
-- Research Rabbit
+- [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed - Use your UVic email address to login)
+- [ChatGPT](https://chat.openai.com/){:target="_blank"} 
+- [Google Gemini](https://gemini.google.com/){:target="_blank"}
+- [Perplexity](){:target="_blank"}
+- [Semantic Scholar](){:target="_blank"}
+- [Elicit](){:target="_blank"}
+- [Research Rabbit](){:target="_blank"}
 
 To participate fully please do the following **before the workshop**:
 
