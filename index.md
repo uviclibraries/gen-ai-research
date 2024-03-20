@@ -1,10 +1,9 @@
 ---
 layout: default
-title: Introduction 
+title: Generative AI for Student Research 
 nav_order: 1
 ---
-**UPDATE PHOTO**
-<img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
+<img src="images/gen-ai-workshop-lpgp.png" style="float:right;width:180px;" alt="image description">
 
 # Generative AI for Student Research
 
