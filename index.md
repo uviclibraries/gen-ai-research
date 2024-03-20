@@ -7,7 +7,7 @@ nav_order: 1
 
 # Generative AI for Student Research
 
-- Pre-workshop activities: 15 min 
+- Pre-workshop activities: 25 min 
 - Introductory presentation: 15 min
 - Hands-on activities: 65 min
 
