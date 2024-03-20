@@ -13,7 +13,7 @@ nav_order: 1
 
 ## About the Workshop 
 
-This workshop aims to equip participants with a basic understanding of Generative AI (GenAI) and the ethical implications of its use in student research. Participants will explore its use for idea generation, and literature reviews, and consider ethical considerations such as plagiarism, privacy, and research integrity. In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also cover UVic policies, attribution methods, library resource integration, and campus support services, to encourage informed, responsible GenAI use.
+Workshop participants will explore the use of Generative AI (GenAI) to assist with Student Research for idea generation, and literature reviews, and consider ethical considerations such as plagiarism, privacy, and research integrity. Participants will gain a basic understanding of GenAI and the ethical implications of its use in student research. In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also cover UVic policies, attribution methods, library resource integration, and campus support services, to encourage informed, responsible GenAI use.
 
 ## Learning objectives
 
