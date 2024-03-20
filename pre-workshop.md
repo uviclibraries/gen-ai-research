@@ -8,10 +8,10 @@ This workshop is primarily hands-on practice with various Generative AI (GenAI) 
 - [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed - Use your UVic email address to login)
 - [ChatGPT](https://chat.openai.com/){:target="_blank"} 
 - [Google Gemini](https://gemini.google.com/){:target="_blank"}
-- [Perplexity](){:target="_blank"}
+- [Perplexity](https://www.perplexity.ai/){:target="_blank"}
 - [Semantic Scholar](){:target="_blank"}
-- [Elicit](){:target="_blank"}
-- [Research Rabbit](){:target="_blank"}
+- [Elicit](https://elicit.com/){:target="_blank"}
+- [Research Rabbit](https://researchrabbitapp.com/){:target="_blank"}
 
 To participate fully please do the following **before the workshop**:
 
