@@ -6,31 +6,30 @@ nav_order: 1
 **UPDATE PHOTO**
 <img src="images/WORKSHOP-LOGO-HERE.png" style="float:right;width:180px;" alt="image description">
 
-# WORKSHOP TITLE HERE (Use Regular Case Like this)
+# Generative AI for Student Research
 
-- Pre-workshop activities: 00 min 
-- Introductory presentation: 00 min
-- Hands-on activities: 00-00 min
+- Pre-workshop activities: 15 min 
+- Introductory presentation: 15 min
+- Hands-on activities: 65 min
 
-## Why TOOL NAME HERE? 
+## About the Workshop 
 
-[TOOL NAME](https://TOOL-URL-HERE.org/){:target="_blank"} Desribe the tool and how it can be used. This is an example of the description for Taguette:
+This workshop aims to equip participants with a basic understanding of Generative AI (GenAI) and the ethical implications of its use in student research. Participants will explore its use for idea generation, and literature reviews, and consider ethical considerations such as plagiarism, privacy, and research integrity. In the hands-on portion of the workshop, participants will explore GenAI tool usage and output evaluation for accuracy and biases. The workshop will also cover UVic policies, attribution methods, library resource integration, and campus support services, to encourage informed, responsible GenAI use.
 
-[Taguette](https://taguette.org/) a user-friendly and free web-based tool that helps researchers to code and analyse their qualitative data. Taguette is a great tool for those who need to analyze interviews, reports, transcripts of any kinds, and a variety of text. With the tool, we can create codes and analyse texts easily and export in different file formats. If you have some or a lot of text to analyse, Taguette might be a great option for you.
-
-This workshop uses the OpenSource _Taguette_ software because it is free to use and many find it easier to learn than [other popular commercial software packages](https://en.wikipedia.org/wiki/Computer-assisted_qualitative_data_analysis_software){:target="_blank"}. 
-
-This workshop is not an endorsement of Taguette; there are many options for qualitative analysis and coding and other software may be better in other contexts. While an excellent teaching tool, _Taguette_ imposes some limitations that users should be aware of:
-
-- Only text can be coded. For example videos and images can not be coded.
-- Passanges coded with different tags have the same colour in Taguette. 
-- Only basic analysis can be done in Taguette. External tools, like Microsoft Excel, can be used for more advanced analysis are covered in this workshop.
-
-## Learning objectives - UPDATE FOR THE NEW TOOL
+## Learning objectives
 
 At the end of this workshop, you will be able to:
 
-1. Identify the differences between manual coding and coding with qualitative coding software
-2. **MORE OBJECTIVES**
+1. Understand Generative AI: Define Generative AI and explain its relevance and potential applications in student research.
+2. Ethical Considerations: Discuss the ethical implications of using GenAI in academic work, including issues related to plagiarism, data privacy, and research integrity.
+3. Apply strategies such as prompt design, critical review of terms and conditions, and adjustments to privacy settings to address GenAI ethics and safety issues
+4. Ethical Considerations: Make informed decisions about the use of GenAI technology, by considering its potential impact on academic integrity, privacy, and climate change
+5. Explore Use Cases: Identify specific use cases of different GenAI in academic settings, such as literature review, idea generation, and data analysis.
+6. Practical Applications: Demonstrate how to use Generative AI tools effectively for research purposes, including tips for generating useful outputs and refining queries.
+7. Evaluate Quality and Reliability: Teach participants how to critically evaluate the outputs of Generative AI tools, including assessing accuracy, relevance, and potential biases.
+8. Attribution: Cite outputs from GenAI tools using APA, MLA, IEEE, or other citation styles.
+9. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity
+10. Stay Informed: Be familiar with other places on campus, like LTSI, which can support you in the effective and appropriate use of GenAI
+
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
