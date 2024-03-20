@@ -35,6 +35,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 
 1. Advanced Literature Review Tools...
 2. Research Rabbit...
+3. **More here...**
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
