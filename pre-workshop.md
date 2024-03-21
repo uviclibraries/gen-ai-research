@@ -13,9 +13,8 @@ This workshop is primarily hands-on practice with various Generative AI (GenAI) 
 - [Elicit](https://elicit.com/){:target="_blank"}
 - [Research Rabbit](https://researchrabbitapp.com/){:target="_blank"}
 
-To participate fully please do the following **before the workshop**:
+To participate fully please watch the following videos **before the workshop**:
 
-**UPDATE BELOW: 5-10 minutes.**<br>
 - [Generative AI Overview](https://www.youtube.com/watch?v=unPKJJjQP0A){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/unPKJJjQP0A" title="Generative AI Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Generative AI & Academic Integrity at Texas A&M University](https://www.youtube.com/watch?v=0O93IdzBijo){:target="_blank"} (5 min)<br>
