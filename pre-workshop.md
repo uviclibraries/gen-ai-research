@@ -13,7 +13,7 @@ This workshop is primarily hands-on practice with various Generative AI (GenAI) 
 - [Elicit](https://elicit.com/){:target="_blank"}
 - [Research Rabbit](https://researchrabbitapp.com/){:target="_blank"}
 
-To participate fully please watch the following videos **before the workshop**:
+To be prepared to participate fully in the workshop activities, please watch the following short videos **before the workshop**:
 
 - [Generative AI Overview](https://www.youtube.com/watch?v=unPKJJjQP0A){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/unPKJJjQP0A" title="Generative AI Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
