@@ -18,7 +18,7 @@ To be prepared to participate fully in the workshop activities, please watch the
 - [Generative AI Overview](https://www.youtube.com/watch?v=unPKJJjQP0A){:target="_blank"} (3 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/unPKJJjQP0A" title="Generative AI Overview" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Generative AI & Academic Integrity at Texas A&M University](https://www.youtube.com/watch?v=0O93IdzBijo){:target="_blank"} (5 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/unPKJJjQP0A" title="Generative AI & Academic Integrity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/0O93IdzBijo" title="Generative AI & Academic Integrity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Generative AI in Education](https://www.youtube.com/watch?v=kpjqxalCKdg&t=10s){:target="_blank"} (7 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpjqxalCKdg&t" title="Generative AI in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [What different types of Artificial Intelligence (AI) & how Generative AI relates to other forms of AI](https://www.youtube.com/watch?v=Yq0QkCxoTHM){:target="_blank"} (10 min)<br>
