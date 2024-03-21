@@ -14,5 +14,4 @@ Please review the following if you are working through the workshop materials wi
 - [How to resize your laptop screen for workshop handouts to finish the activities faster](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"} (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-**UPDATE**
 [NEXT STEP: **????**](#){: .btn .btn-blue }
