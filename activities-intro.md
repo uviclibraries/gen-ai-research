@@ -8,10 +8,10 @@ parent: Workshop Activities Introduction
 
 Please review the following if you are working through the workshop materials without attending a live event:
 - Watch the [Workshop Introduction Video](#){:target="_blank"}<br>
-**EMBED INTRO VIDEO HERE***<br>
--OR-
+**EMBED INTRO VIDEO HERE**<br>
+**-OR-**
 - Read the [Introductory Slides](#){:target="_blank"} 
-- [How to resize your laptop screen for workshop handouts to finish the activities faster (2 min)](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"} (2 min)<br>
+- [How to resize your laptop screen for workshop handouts to finish the activities faster](https://www.youtube.com/watch?v=Igk5hZUfzN0){:target="_blank"} (2 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Igk5hZUfzN0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 **UPDATE**
