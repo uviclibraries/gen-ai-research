@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Generative AI for Student Research 
+title: About the Workshop 
 nav_order: 1
 ---
 <img src="images/gen-ai-workshop-logo.png" style="float:right;width:180px;" alt="image description">
