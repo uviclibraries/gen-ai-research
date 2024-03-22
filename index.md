@@ -33,9 +33,9 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 ### Intermediate Generative AI for Student Research
 At the end of this **Introductory** portion of this workshop, you will be able to:
 
-1. Advanced Literature Review Tools...
-2. Research Rabbit...
-3. **More here...**
+1. Effectively use advanced Literature Review tools for graduate-level research.
+2. Integrate citation managers into your search strategy using tools like Research Rabbit.
+3. **More to come here...**
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
