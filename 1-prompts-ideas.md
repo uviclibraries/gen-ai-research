@@ -62,8 +62,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 9. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
   - First Prompt: "What are the key factors that affect local weather conditions?"
   - Second Prompt (using first response): "Considering those factors, what is the likely weather forecast for San Francisco next week?"
-<img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
 10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
+<br><img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
   - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
   - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
 11. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below.
