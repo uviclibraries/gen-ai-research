@@ -4,17 +4,17 @@ title: 1 - Prompt Design & Idea Generation
 nav_order: 3
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
----
-<img src="images/CHANGE_ME.png" style="float:right;width:320px;height:320px;" alt="????"> 
+--- 
 
 # Prompt Design & Idea Generation
-
+<img src="images/CHANGE_ME.png" style="float:right;width:320px;height:320px;" alt="????">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## Prompt Design Basics
+## Prompt Design
+### Prompt Design Basics
 While it is easy to get started using Generative AI tools, it takes time and practice to get the best results out of Generative AI tools. 
 Here are some key principles to keep in mind as you create your own prompts:
-1. **Be Clear** & concise in your language to avoid ambiguity:
+1. **Be Clear & concise** in your language to avoid ambiguity:
   - Poor: "Weather?"
   - Better: "What is the current weather in Victoria, BC, Canada?
 2. **Provide Specific details** to guide the AI toward the desired response:
@@ -24,32 +24,38 @@ Here are some key principles to keep in mind as you create your own prompts:
   - Poor: "Tell me about the weather."
   - Better: "I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson."
 
-## Advanced Prompt Design Tips & Tricks
+### Let's Practice
+
+Stuff here...
+
+### Advanced Prompt Design Tips & Tricks
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: "Weather in Paris."
   - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
-7. **Incorporate examples** or analogies to clarify complex concepts:
+5. **Incorporate examples** or analogies to clarify complex concepts:
   - Poor: "Explain cyclones."
   - Better: "Explain how cyclones form, using the example of Cyclone Nisarga."
-8. Limit Scope to focus on a specific topic or task to prevent overly broad responses:
+6. **Limit Scope** to focus on a specific topic or task to prevent overly broad responses:
   - Poor: "Tell me everything about weather."
   - Better: "Provide an overview of the factors that influence the formation of thunderstorms."
-9. Test and Iterate: Experiment with different variations of your prompt to see which yields the best results:
-  - 
-9. Sequence Matters: The order of information in your prompt can influence the response, so structure it logically.
-10. Prompt Chaining: Use the output of one prompt as the input for another to build on responses or refine results.
-11. Leverage Precedents: Incorporate elements of successful prompts you've used in the past.
+7. **Test and Iterate** by experimenting with different variations of your prompt to see which yields the best results:
+  - Initial: "Weather in London."
+  - Refined: "What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings?"
+9. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
+  - First Prompt: "What are the key factors that affect local weather conditions?"
+  - Second Prompt (using first response): "Considering those factors, what is the likely weather forecast for San Francisco next week?"
+10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
+  - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
+  - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
 
-### 
+### Let's practice some advanced Prompt Design skills
 
-1. Rows, columns, and cells defined:   
-   - Columns are vertical. Eg. **Column C.**
-   - Rows are horizontal. Eg. **Row 3.**
-
-2. Just testing...
+Stuff here...
 
 ## Idea Generation
+Into here
 
+### Let's practice Idea Generation
 1. Put stuff here...
 
 ## Go further
