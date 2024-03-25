@@ -101,8 +101,8 @@ Now let's look at how we can use GenAI tools for creativity and innovation, incl
   - Topic exploration:
 <br>```I am an undergraduate student getting ready to start an honours research project. I am interested in university-level academic makerspaces. What are some topics of inquiry that might be interesting for me to research or explore on this topic?```<br>
 2. Research Question Formulation: ChatGPT can assist in refining research questions by providing feedback on clarity, focus, and feasibility.
-   - Details here...
-<br>```Prompt here```<br>
+   - Next, we'll take one of the bullet points from the Topic Exploration output, and add to the beginning of it: "Suggest 5 research questions for the following topic:"  This should provide us with ideas for research questions based on the topic. Note that even if you love one of the suggested research questions, you'll almost certainly modify it to suit your specific situation and possibly location:
+<br>```Suggest 5 research questions for the following topic: Evaluate the effectiveness of makerspace programs. What assessment methods can be used to measure learning outcomes? How can we assess the impact of makerspaces on students’ employability?```<br>
 3. Summarize a document, but be careful as the free GenAI tools have limits on the size of documents that they can summarize.
   -  Details here...
 <br>```Prompt here```<br>
