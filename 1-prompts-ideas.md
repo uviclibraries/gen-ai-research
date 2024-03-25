@@ -33,11 +33,11 @@ Here are some key principles to keep in mind as you create your own prompts:
   - What are the results telling you?
 3. Now let's try a prompt that includes more details relevant to the hypothetical help we need: 
 **```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```**
-  - How does this response differ from the last on?
+  - How does this response differ from the last one?
   - Does this seem like a good lesson plan?
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
   - Do you have the teaching expertise to know if the lesson plan is reasonable and will work well with grade 2 students?
-<img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example">
+<br><img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example"><br>
 4. Pick a topic that you know a lot about and then ask Microsoft Copilot the question and then verify if the answer is accurate.
    - How did it do?
 
