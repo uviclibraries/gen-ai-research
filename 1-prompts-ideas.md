@@ -62,11 +62,12 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 9. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
   - First Prompt: "What are the key factors that affect local weather conditions?"
   - Second Prompt (using first response): "Considering those factors, what is the likely weather forecast for San Francisco next week?"
+<img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
 10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
   - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
   - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
-11. **Create an Image**
-  - 
+11. **Create an Image** in Copilot (note, that the free version ChatGPT (3.5) does not currently allow users to generate images with that account):
+  - Successful prompt: "Create an image of a grade 2 student learning about the weather." 
 
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
