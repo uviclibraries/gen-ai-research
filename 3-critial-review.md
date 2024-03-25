@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 3 - Criticaly Review
-nav_order: 5
+title: 2 - Criticaly Review
+nav_order: 4
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
