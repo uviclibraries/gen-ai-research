@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 2 - Criticaly Review
-nav_order: 4
+title: 3 - Critically Review
+nav_order: 5
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/CHANGE_ME.png" style="float:right;width:320px;height:320px;" alt="????"> 
 
-# Criticaly Review All GenAI Output
+# Critically Review All GenAI Output
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
