@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 2 - Search for Papers
-nav_order: 4
+title: 3 - Search for Papers
+nav_order: 5
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
