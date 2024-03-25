@@ -65,10 +65,13 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
   - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
   - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
+11. **Create an Image**
+  - 
 
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
 2. Next step...
+3. Image creation...
 
 ## Idea Generation
 Into here...
