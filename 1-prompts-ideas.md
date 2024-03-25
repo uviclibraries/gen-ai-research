@@ -101,12 +101,17 @@ Now let's look at how we can use GenAI tools for creativity and innovation, incl
   - Topic exploration:
 <br>```I am an undergraduate student getting ready to start an honours research project. I am interested in university-level academic makerspaces. What are some topics of inquiry that might be interesting for me to research or explore on this topic?```<br>
 2. Research Question Formulation: ChatGPT can assist in refining research questions by providing feedback on clarity, focus, and feasibility.
-   - details here...
+   - Details here...
 <br>```Prompt here```<br>
 3. Summarize a document, but be careful as the free GenAI tools have limits on the size of documents that they can summarize.
-  -  
+  -  Details here...
 <br>```Prompt here```<br>
-
+4. Reflection Time:
+  - **How useful were the research topic ideas that Copilot created?**
+  - **Do you have enough background knowledge to critically evaluate the quality of Copilot's suggested research topics?**
+  - **How useful were the research questions that Copilot created?**
+  - **Did Copilot do a good job in summarizing the document?**
+  
 ## Go further
 There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
 
