@@ -29,13 +29,12 @@ Here are some key principles to keep in mind as you create your own prompts:
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic that runs in Canada and does not share any of the prompts you create, or resulting data for training purposes, which is great from a privacy perspective. 
 > Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy_.
 2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
+<img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
 ```Tell me about the weather.```
-  - What are the results telling you?
-<br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
+  - What are the results from this prompt telling you?
 3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copy and pasting the following text into Copilot:<br>
 ```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```
-  - How does this response differ from the last one?
-  - Does this seem like a good lesson plan?
+  - How does the response to this prompt differ from the "poor" prompt above?
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
   - Do you have the teaching expertise to know if the lesson plan is reasonable and will work well with grade 2 students?
 <br><img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example"><br>
