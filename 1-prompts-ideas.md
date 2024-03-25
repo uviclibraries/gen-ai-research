@@ -73,7 +73,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
-2. What are the main contributing factors to Global warming?
+2. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
 <br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
   - Scope:
 <br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
@@ -87,10 +87,11 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 <br>```I am a teacher teaching grade 4 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```<br>
   - Now look through the lesson plan and look at the "Activity" section. Let's ask Copilot to give us more details by asking the following:
 <br>```Please provide additional and detailed step-by-step student instructions for the activity portion of the lesson plan.```<br>
+3. Reflection time:
   - **How useful is the lesson plan Copilot created?**
-  - **Do you have enough background knowledge in global warming and teaching to evaluate the quality of Copilot's response?**
+  - **Do you have enough background knowledge in global warming and teaching to critically evaluate the quality of Copilot's response?**
   - **How useful are the detailed activity instructions that Copilot created?**
-  - **Do you know enough to evaluate them? If you don't know enough where would you find the information to help you evaluate them?**
+  - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
 
 ## Idea Generation
 Into here...
