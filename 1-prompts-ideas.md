@@ -31,7 +31,8 @@ Here are some key principles to keep in mind as you create your own prompts:
 2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
 ```Tell me about the weather.```
   - What are the results telling you?
-3. Now let's try a prompt that includes more details relevant to the hypothetical help we need:<br>
+<br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
+3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copy and pasting the following text into Copilot:<br>
 ```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```
   - How does this response differ from the last one?
   - Does this seem like a good lesson plan?
