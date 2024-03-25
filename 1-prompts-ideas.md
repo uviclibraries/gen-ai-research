@@ -26,14 +26,19 @@ Here are some key principles to keep in mind as you create your own prompts:
 
 ### Let's Practice
 
-1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic that runs in Canada, and does not share any of the prompts you create, or resulting data for training purposes, which is great from a privacy perspective. 
+1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic that runs in Canada and does not share any of the prompts you create, or resulting data for training purposes, which is great from a privacy perspective. 
 > Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy_.
-2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:
+2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
 ```Tell me about the weather.```
-  - Reflect?
-3. Better prompt: 
+  - What are the results telling you?
+3. Now let's try a prompt that includes more details relevant to the hypothetical help we need: 
 ```I am a **teacher** teaching **grade 2 students** about the **weather**. Please **generate a lesson plan** for a **one-hour** lesson **about weather** including a **30-minute activity** to help students remember what they learned in the instruction portion of the lesson.```
-   - reflect?
+  - How does this response differ from the last on?
+  - Does this seem like a good lesson plan?
+  - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
+  - Do you have the teaching expertise to know if the lesson plan is reasonable and will work well with grade 2 students?
+4. Pick a topic that you know a lot about and then ask Microsoft Copilot the question and then verify if the answer is accurate.
+   - How did it do?
 
 ### Advanced Prompt Design Tips & Tricks
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
