@@ -103,9 +103,12 @@ Now let's look at how we can use GenAI tools for creativity and innovation, incl
 2. Research Question Formulation: ChatGPT can assist in refining research questions by providing feedback on clarity, focus, and feasibility.
    - Next, we'll take one of the bullet points from the Topic Exploration output, and add to the beginning of it: "Suggest 5 research questions for the following topic:"  This should provide us with ideas for research questions based on the topic. Note that even if you love one of the suggested research questions, you'll almost certainly modify it to suit your specific situation and possibly location:
 <br>```Suggest 5 research questions for the following topic: Evaluate the effectiveness of makerspace programs. What assessment methods can be used to measure learning outcomes? How can we assess the impact of makerspaces on students’ employability?```<br>
-3. Summarize a document, but be careful as the free GenAI tools have limits on the size of documents that they can summarize.
-  -  Details here...
-<br>```Prompt here```<br>
+3. Summarize a document, but be very careful as currently (March 2024) **free GenAI tools have limits on the size of documents that they can summarize**. You can ask the GenAI tool to let you know if it can't "read" the whole article to summarize it.
+  -  Request a summary of a long Atlantic Magazine article titled, [Donald Trump’s Nine Lives](https://www.theatlantic.com/politics/archive/2024/03/donald-trump-new-york-trial/677877/){:target="_blank"}.
+<br>```Please summarize the main points in this article. If you cannot analyse the whole article please tell me that you couldn't: https://www.theatlantic.com/politics/archive/2024/03/donald-trump-new-york-trial/677877/```<br>
+  - Follup with the following prompt requesting a more detailed summary:
+<br>```Please expand the summary to 5 or more bullet points.```<br>
+  - Are the two summaries significantly different? If so in what ways?
 4. Reflection Time:
   - **How useful were the research topic ideas that Copilot created?**
   - **Do you have enough background knowledge to critically evaluate the quality of Copilot's suggested research topics?**
