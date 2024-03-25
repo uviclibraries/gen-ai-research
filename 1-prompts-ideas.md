@@ -28,9 +28,9 @@ Here are some key principles to keep in mind as you create your own prompts:
 
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic that runs in Canada and does not share any of the prompts you create, or resulting data for training purposes, which is great from a privacy perspective. 
 > Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy_.
-2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:
-<br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
+2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
 ```Tell me about the weather.```
+<br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
   - What are the results from this prompt telling you?
 3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copy and pasting the following text into Copilot:<br>
 ```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```
@@ -42,7 +42,7 @@ Here are some key principles to keep in mind as you create your own prompts:
    - How did it do?
 
 ### Advanced Prompt Design Tips & Tricks
-Intro here... encourage people to practice each of these skills on their own with their own topics
+Please practice each of these following skills by either trying out the poor and better prompts to see what the different output looks like. Even better would be to take inspiration from the prompts below and modify them to use topics that you are interested in, or know a lot about so that you can check the responses for accuracy: 
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: "Weather in Paris."
   - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
