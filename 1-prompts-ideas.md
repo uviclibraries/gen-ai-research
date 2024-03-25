@@ -31,8 +31,8 @@ Here are some key principles to keep in mind as you create your own prompts:
 ```Tell me about the weather.```<br>
 <br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
   - What are the results from this prompt telling you?
-3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copy and pasting the following text into Copilot:<br>
-```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```<br>
+3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copying and pasting the following text into Copilot:
+<br>```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```<br>
 <br><img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example"><br>
   - How does the response to this prompt differ from the "_poor_" prompt above?
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
@@ -73,10 +73,24 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
-2. Tone: in the form of a children's story
-3. Limit scope: grade 2 students...
-4. Create a lesson plan... follow up by asking it to create an activity for one part of the plan.
-5. Image creation.
+2. What are the main contributing factors to Global warming?
+<br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
+  - Scope:
+<br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
+  - Tone:
+<br>```Reword it using the humorous tone and language of a Dr. Seuss book.```<br>
+  - Image generation:
+<br>```Create an image of a grade 4 student learning about the global warming.```<br>
+  - Image modification:
+<br>```Have the image use the look and feel of drawings from a Dr. Seuss book.```<br>
+  - Start a "New topic" by pressing the blue button on the bottom left of the screen, and then paste in the following text and press enter:
+<br>```I am a teacher teaching grade 4 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```<br>
+  - Now look through the lesson plan and look at the "Activity" section. Let's ask Copilot to give us more details by asking the following:
+<br>```Please provide additional and detailed step-by-step student instructions for the activity portion of the lesson plan.```<br>
+  - **How useful is the lesson plan Copilot created?**
+  - **Do you have enough background knowledge in global warming and teaching to evaluate the quality of Copilot's response?**
+  - **How useful are the detailed activity instructions that Copilot created?**
+  - **Do you know enough to evaluate them? If you don't know enough where would you find the information to help you evaluate them?**
 
 ## Idea Generation
 Into here...
@@ -85,12 +99,7 @@ Into here...
 
 ### Let's practice Idea Generation
 1. Put stuff here...
-2. What are the main contributing factors to Global warming?
-<br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
-  - limit the text to 300 words in the language that a grade 4 student can understand.
-  - Reword it using the humorous tone and language of a Dr. Seuss book.
-  - Create an image of a grade 4 student learning about the global warming.
-  - Have the image use the look and feel of drawings from a Dr. Seuss book.
+2. 
 
 ## Go further
 There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
