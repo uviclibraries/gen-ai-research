@@ -94,6 +94,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
 
 ## Let's practice Idea Generation!
+> Please remember that you need to have permission from your instructor to use GenAI to assist you in any class assignment. Your instructor may forbid the use of GenAI, allow limited use of GenAI, or all full use of GenAI for specific assignments. Please follow your instructors' guidelines for how to cite and document your use of GenAI in assignments. If you have any questions about using GenAI in your class, please look at your course outline, and if you don't find guidance there, ask your instructor directly, as using GenAI without permission from your instructor is a form of plagiarism and is a violation of UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php). 
+
 "Now we'll look at how we can use GenAI tools for creativity and innovation, including how to generate new ideas and overcome creative blocks." ([ChatGPT 4.0, 2024](https://chat.openai.com/share/ec126ed8-937c-4f48-a322-cebde4bddd55){:target="_blank"}). Type or copy and paste the prompts below into Copilot and then let's look at the results:
 1. First let's look at a technique to help us generate possible ideas for undergraduate honours research projects. Note that you probably won't get any truly unique topics suggested by GenAI tools, however, they can be very useful in brainstorming and may prompt you to consider ideas that come to you as you look at what the GenAI tool has suggested.
   - Topic exploration:
