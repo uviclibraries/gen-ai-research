@@ -64,8 +64,8 @@ Please practice each of these following skills by either trying out the poor and
   - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
 
 ### Let's practice some advanced Prompt Design skills!
-
-Stuff here...
+1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
+2. Next step...
 
 ## Idea Generation
 Into here...
