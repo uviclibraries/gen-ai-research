@@ -11,7 +11,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## General Prompt Design
+## Prompt Design
+While it is easy to get started using Generative AI tools, it does take a bit of time and practice to get the most out of Generative AI tools.
+
+### 
 
 1. Rows, columns, and cells defined:   
    - Columns are vertical. Eg. **Column C.**
