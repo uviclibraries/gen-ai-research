@@ -94,7 +94,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
 
 ## Idea Generation
-Into here...
+"Here, you'll learn to use AI tools for creativity and innovation. Discover how to generate new ideas, overcome blocks, and enhance projects." ([ChatGPT 4.0, 2024](https://chat.openai.com/share/ec126ed8-937c-4f48-a322-cebde4bddd55){:target="_blank"})
 1. First step
    - details here...
 
