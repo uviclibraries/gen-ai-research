@@ -74,13 +74,13 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
 2. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
-<br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
   - Scope:
 <br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
   - Tone:
 <br>```Reword it using the humorous tone and language of a Dr. Seuss book.```<br>
   - Image generation:
 <br>```Create an image of a grade 4 student learning about the global warming.```<br>
+<br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
   - Image modification:
 <br>```Have the image use the look and feel of drawings from a Dr. Seuss book.```<br>
   - Start a "New topic" by pressing the blue button on the bottom left of the screen, and then paste in the following text and press enter:
