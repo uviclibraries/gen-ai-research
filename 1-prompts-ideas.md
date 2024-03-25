@@ -66,7 +66,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
   - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
   - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
-11. **Create an Image** in Copilot (note, that the free version ChatGPT (3.5) does not currently allow users to generate images with that account):
+11. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below.
+(Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: "Create an image of a grade 2 student learning about the weather." 
 
 ### Let's practice some advanced Prompt Design skills!
