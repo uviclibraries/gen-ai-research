@@ -25,7 +25,6 @@ Here are some key principles to keep in mind as you create your own prompts:
   - Better: "I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson."
 
 ### Let's Practice!
-
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
 > Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy.
 2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
@@ -39,14 +38,15 @@ Here are some key principles to keep in mind as you create your own prompts:
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
   - Do you have the teaching expertise to know if the weather lesson plan is reasonable and will work well with grade 2 students?
 > Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual.
-4. Pick one or two topics that you know a lot about. Ask Microsoft Copilot a question about one of the topic and then verify if the answer is accurate.
-   - Ask Copilot a question about your second topic.
-   - How did it do for each topic?
-     - Was it completely accurate?
-     - Did you have to research any of the claims it made to verify them?
+4. Pick one or two topics that you know a lot about.
+  - Ask Microsoft Copilot a question about one of the topic and then verify if the answer is accurate.
+  - Ask Copilot a question about your second topic.
+  - How did it do for each topic?
+    - Was it completely accurate?
+    - Did you have to research any of the claims it made to verify them?
 
 ### Advanced Prompt Design Tips & Tricks
-Please practice each of these following skills by either trying out the poor and better prompts to see what the different output looks like. Even better would be to take inspiration from the prompts below and modify them to use topics that you are interested in, or know a lot about so that you can check the responses for accuracy: 
+Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy: 
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: "Weather in Paris."
   - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
