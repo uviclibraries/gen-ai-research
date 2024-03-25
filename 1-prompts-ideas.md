@@ -29,10 +29,10 @@ Here are some key principles to keep in mind as you create your own prompts:
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic that runs in Canada and does not share any of the prompts you create, or resulting data for training purposes, which is great from a privacy perspective. 
 > Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy_.
 2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
-```Tell me about the weather.```
+**```Tell me about the weather.```**
   - What are the results telling you?
 3. Now let's try a prompt that includes more details relevant to the hypothetical help we need: 
-```I am a **teacher** teaching **grade 2 students** about the **weather**. Please **generate a lesson plan** for a **one-hour** lesson **about weather** including a **30-minute activity** to help students remember what they learned in the instruction portion of the lesson.```
+**```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```**
   - How does this response differ from the last on?
   - Does this seem like a good lesson plan?
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
