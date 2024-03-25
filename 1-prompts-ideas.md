@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
 # Prompt Design & Idea Generation
-<img src="images/CHANGE_ME.png" style="float:right;width:320px;height:320px;" alt="????">
+<img src="images/prompt-design-image.png" style="float:right;width:320px;height:320px;" alt="A student at a computer learning effective GenAI prompt design">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Prompt Design
