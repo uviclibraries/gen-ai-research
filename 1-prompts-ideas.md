@@ -37,6 +37,7 @@ Here are some key principles to keep in mind as you create your own prompts:
   - Does this seem like a good lesson plan?
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
   - Do you have the teaching expertise to know if the lesson plan is reasonable and will work well with grade 2 students?
+<img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example">
 4. Pick a topic that you know a lot about and then ask Microsoft Copilot the question and then verify if the answer is accurate.
    - How did it do?
 
