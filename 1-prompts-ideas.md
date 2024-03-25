@@ -23,7 +23,6 @@ Here are some key principles to keep in mind as you create your own prompts:
 3. Include **relevant Context** & **Instruction** to help the AI understand the prompt better:
   - Poor: "Tell me about the weather."
   - Better: "I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson."
-
 ## Additional Prompt Design Tips
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: "Weather in Paris."
