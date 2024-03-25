@@ -47,6 +47,7 @@ Here are some key principles to keep in mind as you create your own prompts:
 
 ### Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy: 
+3. New Topics: **EXPLAIN HERE WHEY THEY ARE USEFUL.**
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: "Weather in Paris."
   - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
@@ -72,8 +73,10 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
-2. Next step...
-3. Image creation...
+2. Tone: in the form of a children's story
+3. Limit scope: grade 2 students...
+4. Create a lesson plan... follow up by asking it to create an activity for one part of the plan.
+5. Image creation.
 
 ## Idea Generation
 Into here...
@@ -82,6 +85,12 @@ Into here...
 
 ### Let's practice Idea Generation
 1. Put stuff here...
+2. What are the main contributing factors to Global warming?
+<br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
+  - limit the text to 300 words in the language that a grade 4 student can understand.
+  - Reword it using the humorous tone and language of a Dr. Seuss book.
+  - Create an image of a grade 4 student learning about the global warming.
+  - Have the image use the look and feel of drawings from a Dr. Seuss book.
 
 ## Go further
 There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
