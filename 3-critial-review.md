@@ -15,6 +15,7 @@ Generative AI training data bias occurs when the data used to train the AI model
 
   - **Culture of the source of training data**, which is largely US-centric at the moment
   - **Underrepresentation of certain groups** like visible minorities and gender bias
+<img src="images/3-white-ceos.jpeg" style="float:right;width:320px;height:320px;" alt="3 white male ceo's"> 
   - **Racial & gender bias** in images: Ask Copilot for an image of 3 CEO's and it will probably create a picture of 3 male presenting, white people in suits, which is not representative
   - **Lack of complete data** because not all information is freely accessible on the internet to general-purpose GenAI tools like Copilot, Gemini, and ChatGPT
   - **Historical biases** embedded in the data sources.
