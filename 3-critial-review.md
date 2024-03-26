@@ -14,11 +14,11 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 
 ## Prompt Design Tips
 Let's look at some ways we can modify our prompts to reduce the number of errors GenAI tools make in response to our prompts ([ChaGPT 4.0, 2024](https://chat.openai.com/share/44bebe63-7c14-49bc-8e2b-e5fac9c6f301){:target="_blank"}):
-1. Ask for Sources: When possible, ask the model to provide sources or citations for the information it provides. While this is not foolproof, it can help you identify if the information is based on existing knowledge.
+1. **Ask for Sources**: When possible, ask the model to provide sources or citations for the information it provides. While this is not foolproof, it can help you identify if the information is based on existing knowledge.
   - <br>```Can you provide a source for your claim that the Great Wall of China is visible from space?```<br>
-2. Consistency Check: Ask the same question in different ways or at different times to see if the model provides consistent answers. Inconsistent answers may indicate a hallucination.
-  - <br>```sample prompt here```<br>
-3. Use Specific Prompts: When querying the model, use specific and detailed prompts to reduce the likelihood of the model generating irrelevant or fabricated information.
+2. **Consistency Check**: Ask the same question in different ways or at different times to see if the model provides consistent answers. Inconsistent answers may indicate a hallucination.
+  - If ChatGPT says that water boils at 100°C at sea level, ask the same question at a later time or in a different way to see if the answer remains consistent.
+3. **Use Specific Prompts**: When querying the model, use specific and detailed prompts to reduce the likelihood of the model generating irrelevant or fabricated information.
   - <br>```sample prompt here```<br>
   - Instead of asking, ```Tell me about World War II```, ask, ```What were the causes of World War II, and can you list the main countries involved?```
 
@@ -33,6 +33,8 @@ Critically reviewing the outputs of language models like ChatGPT and Gemini can 
   - The quotation or summary exists and is fairly represented by the GenAI tool.
 3. **Expert Review**: If you have access to subject matter experts, have them review the model's output for accuracy and reliability. Even easier if you are a subject matter expert.
 4. **Model Limitations Awareness**: Be aware of the limitations of the model you are using. Understanding the types of errors or hallucinations a model is prone to can help you identify them more easily.
+  - Be aware that ChatGPT may struggle with very recent events or highly specialized knowledge, so take its answers in these areas with caution. In academic research specifically, please be aware that General GenAI tools do not have access to research papers behind paywalls, so in disciplines like Law where almost all peer review information (like legal commentaries) are behind paywalls, general GenAI tools perform very poorly.
 8. **Critical Thinking**: Apply critical thinking skills to evaluate the plausibility and coherence of the model's responses.
+  - For example, if a GenAI tool claims that humans can live without water for a month, apply critical thinking to question the plausibility of this statement based on known human biology.
 
 Remember, while these strategies can help reduce the likelihood of encountering hallucinations, no method is foolproof. Always use multiple sources and verification methods when relying on information provided by language models.
