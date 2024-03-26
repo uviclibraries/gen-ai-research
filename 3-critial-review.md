@@ -22,7 +22,7 @@ Generative AI training data bias occurs when the data used to train the AI model
 
 We can try to counteract some of these biases by modifying our prompts. Here are some examples:
   - **Gender and racial bias**: ```Create an image of 3 CEO's and make them gender and ethnically diverse```
-  - **Cultural bias**: ```What are the pros and cons of educational technology in K-12 classrooms from a Canadian perspective? Provide citations.```
+  - **Cultural bias**: ```From a Canadian perspective what key events happened when Great Britain invaded Washington DC in the war of 1812? Privide citations.```
 
 ## Prompt Design Tips
 Let's look at some ways we can modify our prompts to reduce the number of errors GenAI tools make in response to our prompts ([ChaGPT 4.0, 2024](https://chat.openai.com/share/44bebe63-7c14-49bc-8e2b-e5fac9c6f301){:target="_blank"}):
