@@ -90,10 +90,10 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - Now look through the lesson plan and look at the "Activity" section. Let's ask Copilot to give us more details by asking the following:
 <br>```Please provide additional and detailed step-by-step student instructions for the activity portion of the lesson plan.```<br>
 3. Reflection time:
-  - **How useful is the lesson plan Copilot created?**
-  - **Do you have enough background knowledge in global warming and teaching to critically evaluate the quality of Copilot's response?**
-  - **How useful are the detailed activity instructions that Copilot created?**
-  - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
+>  - **How useful is the lesson plan Copilot created?**
+>  - **Do you have enough background knowledge in global warming and teaching to critically evaluate the quality of Copilot's response?**
+>  - **How useful are the detailed activity instructions that Copilot created?**
+>  - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
 
 ## Let's practice Idea Generation!
 > Please remember that **you must have permission from your instructor to use GenAI to assist you in any class assignment**. Your instructor may forbid the use of GenAI, allow limited use of GenAI, or all full use of GenAI for specific assignments. Please follow your instructors' guidelines for how to cite and document your use of GenAI in assignments. If you have any questions about using GenAI in your class, please look at your course outline, and if you don't find guidance there, ask your instructor directly, as using GenAI without permission from your instructor is a form of plagiarism and is a violation of UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php). 
@@ -112,10 +112,10 @@ Now let's look at how we can use GenAI tools for creativity and innovation, incl
 <br>```Please expand the summary to 5 or more bullet points.```<br>
   - Are the two summaries significantly different? If so in what ways?
 4. Reflection Time:
-  - **How useful were the research topic ideas that Copilot created?**
-  - **Do you have enough background knowledge to critically evaluate the quality of Copilot's suggested research topics?**
-  - **How useful were the research questions that Copilot created?**
-  - **Did Copilot do a good job in summarizing the document?**
+>  - **How useful were the research topic ideas that Copilot created?**
+>  - **Do you have enough background knowledge to critically evaluate the quality of Copilot's suggested research topics?**
+>  - **How useful were the research questions that Copilot created?**
+>  - **Did Copilot do a good job in summarizing the document?**
   
 ## Go further
 There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
