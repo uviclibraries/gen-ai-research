@@ -63,4 +63,4 @@ Elicit AI is a research assistant tool that utilizes natural language processing
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
 
-[NEXT STEP: Critically Review All GenAI Output](3-critical-review.html){: .btn .btn-blue }
+[NEXT STEP: Critically Review All GenAI Output](3-critial-review.html){: .btn .btn-blue }
