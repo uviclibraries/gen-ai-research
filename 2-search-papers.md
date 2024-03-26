@@ -47,5 +47,4 @@ If you have any questions or get stuck as you work through this in-class GenAI e
   - Reflect on ???
   - How useful is informal credentialling for academic makerspace skills in student job searches?
 
-
-
+[NEXT STEP: Critically Review All GenAI Output](3-critical-review.html){: .btn .btn-blue }
