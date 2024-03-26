@@ -75,7 +75,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
 2. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
   - Initial prompt:
-<br>```What is global warming and what are its causes?```<br>
+<br>```What is global warming and what are its causes? Provide sources.```<br>
   - Scope:
 <br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
   - Tone:
