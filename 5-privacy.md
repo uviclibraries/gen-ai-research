@@ -12,6 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Change this of course...
+https://www.canva.com/design/DAF8EoHZ_kA/N4d3y1TPeF5LklU9sj6_YQ/edit 
 
 1. Rows, columns, and cells defined:   
    - Columns are vertical. Eg. **Column C.**
