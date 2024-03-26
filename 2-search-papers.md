@@ -19,19 +19,19 @@ Semantic Scholar uses GenAI tools to create summaries of journal articles, but d
   - Type the following into the search bar and click the search button:
 <br>```Informal credentialling academic makerspaces```<br>
 2. Reflection time:
-  - Reflect on ???
-  - How useful is informal credentialling for academic makerspace skills in student job searches?
+>  - Reflect on ???
+>  - How useful is informal credentialling for academic makerspace skills in student job searches?
 
 ## Perplexity - Summarizes Findings from Top 4 Articles
-Elicit AI is a research assistant tool that utilizes natural language processing to help users extract insights from academic papers and data. It makes a consolidated summary of the top 4 papers on the topic (in its judgment) and gives you links to 8 other related papers. Don’t depend on the summaries being 100% accurate!
+Perplexity AI is a research assistant tool that leverages natural language processing to answer questions and provide summaries from a wide range of sources. It aims to make information more accessible and understandable, assisting users in exploring topics and finding relevant insights. Don’t depend on the summaries being 100% accurate!
 
-1. Let's do a search in Elicit on the same topic this time using more natural language.
+1. Let's do a search in Perplexity on the same topic this time using more natural language.
   - Open [Perplexity]([https://elicit.com/](https://www.perplexity.ai/)){:target="_blank"}, and if you want to use it you'll need to create an account.
   - Type the following into the search bar and press Enter on your keyboard:
 <br>```How useful is informal credentialling for academic makerspace skills in student job searches?```<br>
 2. Reflection time:
-  - Reflect on ???
-  - How useful is informal credentialling for academic makerspace skills in student job searches?
+>  - Reflect on ???
+>  - How useful is informal credentialling for academic makerspace skills in student job searches?
 
 ## ResearchRabbit - Make Connections from Groups of Articles
 ResearchRabbit AI is a tool designed to help researchers and academics navigate and discover relevant literature efficiently. It uses AI algorithms to map out connections between research papers, enabling users to find related work, identify trends, and explore new research areas. It also creates article summaries, but don’t depend on the summaries being 100% accurate!
@@ -41,16 +41,18 @@ ResearchRabbit AI is a tool designed to help researchers and academics navigate 
   - Click the green **Add Papers** button, and then type the following into the search bar and click the search button:
 <br>```Informal credentialling academic makerspaces```<br>
 2. Reflection time:
-  - Reflect on ???
-  - How useful is informal credentialling for academic makerspace skills in student job searches?
+>  - Reflect on ???
+>  - How useful is informal credentialling for academic makerspace skills in student job searches?
 
 ## Elicit - Summaries of Top 4 Articles
+Elicit AI is a research assistant tool that utilizes natural language processing to help users extract insights from academic papers and data. It makes a consolidated summary of the top 4 papers on the topic (in its judgment) and gives you links to 8 other related papers. Don’t depend on the summaries being 100% accurate!
+
 1. Let's do a search in Elicit on the same topic this time using more natual language.
   - Open [Elicit](https://elicit.com/){:target="_blank"}, and if you want to use it you'll need to create an account.
   - Type the following into the search bar and click the search button:
 <br>```How useful is informal credentialling for academic makerspace skills in student job searches?```<br>
 2. Reflection time:
-  - Reflect on ???
-  - How useful is informal credentialling for academic makerspace skills in student job searches?
+>  - Reflect on ???
+>  - How useful is informal credentialling for academic makerspace skills in student job searches?
 
 [NEXT STEP: Critically Review All GenAI Output](3-critical-review.html){: .btn .btn-blue }
