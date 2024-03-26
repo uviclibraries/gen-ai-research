@@ -5,7 +5,7 @@ nav_order: 4
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/2-elicit-logo.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
+<img src="images/2-research.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
 
 # Search for Papers (literature reviews)
 
@@ -19,8 +19,8 @@ Semantic Scholar uses GenAI tools to create summaries of journal articles, but d
   - Type the following into the search bar and click the search button:
 <br>```Informal credentialling academic makerspaces```<br>
 2. Reflection time:
->  - Reflect on ???
->  - How useful is informal credentialling for academic makerspace skills in student job searches?
+>  - How useful do the articles look informal credentialling for academic makerspace skills in student job searches?
+>  - Do the article summaries look reasonable?
 
 ## Perplexity - Summarizes Findings from Top 4 Articles
 Perplexity AI is a research assistant tool that leverages natural language processing to answer questions and provide summaries from a wide range of sources. It aims to make information more accessible and understandable, assisting users in exploring topics and finding relevant insights. Don’t depend on the summaries being 100% accurate!
