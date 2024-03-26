@@ -38,7 +38,7 @@ Create a citation for Following a prompt in Copilot and then go through the proc
 3. Include the chat transcript as an appendix to your work
 4. Add the date of your transcript export as it does not do this by default 
 5. Acknowledge how you used the tool (even if you only use GenAI to plan a paper or brainstorm & you don't include any of its generated content)
-  - 
+  - E.g. “**I conducted the literature review for this assignment with the assistance of [ProductName, Version, from CompanyName, Year].**”
 6. Follow along with the UVic Libraries How to cite text with Generative AI instructions with the style guide of your choice.
 <br><img src="images/5-style-guides.png"  alt="style guide instructions on UVic libraries website"><br>
 
