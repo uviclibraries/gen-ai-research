@@ -11,14 +11,23 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## General Prompt Design
+## Semantic Scholar - Article Summaries
 
 1. Rows, columns, and cells defined:   
    - Columns are vertical. Eg. **Column C.**
    - Rows are horizontal. Eg. **Row 3.**
-
 2. Just testing...
 
-## Idea Generation
-
+## Elicit - Summaries of Top 4 Articles
 1. Put stuff here...
+
+## ResearchRabbit - Make Connections from Groups of Articles
+1. stuff
+ 
+## Perplexity - Summarizes Findings from Top 4 Articles
+1. Put stuff here...
+
+
+
+
+
