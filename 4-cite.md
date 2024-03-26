@@ -13,6 +13,8 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 
 ## Change this of course...
 
+https://www.canva.com/design/DAF8PwJoQ9M/BANQp_siqaEypruftlrAoQ/edit 
+
 1. Rows, columns, and cells defined:   
    - Columns are vertical. Eg. **Column C.**
    - Rows are horizontal. Eg. **Row 3.**
