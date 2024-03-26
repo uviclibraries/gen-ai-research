@@ -32,7 +32,7 @@ Here are some key principles to keep in mind as you create your own prompts:
 <br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
   - What are the results from this prompt telling you?
 3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copying and pasting the following text into Copilot:
-<br>```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```<br>
+<br>```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson. Please provide sources.```<br>
 <br><img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example"><br>
   - How does the response to this prompt differ from the "_poor_" prompt above?
   - Do you have the weather-related expertise to determine if the weather-related facts are accurate?
@@ -53,20 +53,20 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
 5. **Incorporate examples** or analogies to clarify complex concepts:
   - Poor: "Explain cyclones."
-  - Better: "Explain how cyclones form, using the example of Cyclone Nisarga."
+  - Better: "Explain how cyclones form, using the example of Cyclone Nisarga. Please provide sources."
 6. **Limit Scope** to focus on a specific topic or task to prevent overly broad responses:
   - Poor: "Tell me everything about weather."
   - Better: "Provide an overview of the factors that influence the formation of thunderstorms."
 7. **Test and Iterate** by experimenting with different variations of your prompt to see which yields the best results:
   - Initial: "Weather in London."
-  - Refined: "What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings?"
+  - Refined: "What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings? Provide sources."
 9. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
   - First Prompt: "What are the key factors that affect local weather conditions?"
-  - Second Prompt (using first response): "Considering those factors, what is the likely weather forecast for San Francisco next week?"
+  - Second Prompt (using first response): "Considering those factors, what is the likely weather forecast for San Francisco next week? Provide sources."
 10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
 <br><img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
   - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
-  - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns."
+  - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns. Provide sources."
 11. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below.
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: "Create an image of a grade 2 student learning about the weather." 
@@ -74,6 +74,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
 2. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
+  - Initial prompt:
+<br>```What is global warming and what are its causes?```<br>
   - Scope:
 <br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
   - Tone:
