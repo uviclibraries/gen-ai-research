@@ -11,9 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## Change this of course...
-
-https://libguides.uvic.ca/AI_Tools/citing_AI_text
+The source for this activity is the [UVIc Libraries, citing AI tools](https://libguides.uvic.ca/AI_Tools/citing_AI_text){:target="_blank"} guide. 
 
 ### Check with your instructor before using A.I. in any of your assignments. 
 If your instructor allows the use of ChatGPT or other A.I. tools for class work, you should 
