@@ -20,7 +20,7 @@ Generative AI training data bias occurs when the data used to train the AI model
   - **Lack of complete data** because not all information is freely accessible on the internet to general-purpose GenAI tools like Copilot, Gemini, and ChatGPT
   - **Historical biases** embedded in the data sources.
 
-We can try to counteract some of these biases by modifying our prompts. Here are some examples:
+We can try to counteract some of these biases by modifying our prompts. Here are some examples you can try in Copilot:
   - **Gender and racial bias**: ```Create an image of 3 CEO's and make them gender and ethnically diverse```
   - **Cultural bias**: ```From a Canadian perspective what key events happened when Great Britain invaded Washington DC in the war of 1812? Privide citations.```
 
@@ -30,8 +30,7 @@ Let's look at some ways we can modify our prompts to reduce the number of errors
   - ```Can you provide a source for your claim that the Great Wall of China is visible from space?```
 2. **Consistency Check**: Ask the same question in different ways or at different times to see if the model provides consistent answers. Inconsistent answers may indicate a hallucination.
   - If ChatGPT says that water boils at 100°C at sea level, ask the same question at a later time or in a different way to see if the answer remains consistent.
-3. **Use Specific Prompts**: When querying the model, use specific and detailed prompts to reduce the likelihood of the model generating irrelevant or fabricated information.
-  - ```sample prompt here```
+3. **Use Specific Prompts**: When querying the model, use specific and detailed prompts to reduce the likelihood of the model generating irrelevant or fabricated information. Try these:
   - Instead of asking, ```Tell me about World War II```, ask, ```What were the causes of World War II, and can you list the main countries involved?```
 
 ## Critical Review Tips
@@ -40,7 +39,7 @@ Critically reviewing the outputs of language models like ChatGPT and Gemini can 
 
 1. **Cross-Verify Facts**: Cross-check the information provided by the model with reliable sources. If the information is inconsistent or cannot be found in reputable sources, it might be a hallucination.
   - For instance, if ChatGPT claims that Toronto is the capital of Canada, cross-check with a reputable source like a government website or a geography textbook to verify that Ottawa is actually the capital.
-3. **Cross-Verify Citations**: Check to make sure that for each citation:
+3. **Cross-Verify Citations**: Check to make sure that for each citation (and don't forget to ask for sources):
   - The source exists whether it be a web page, book, or journal article.
   - The quotation or summary exists and is fairly represented by the GenAI tool.
 3. **Expert Review**: If you have access to subject matter experts, have them review the model's output for accuracy and reliability. Even easier if you are a subject matter expert.
