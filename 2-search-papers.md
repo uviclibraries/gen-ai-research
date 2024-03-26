@@ -5,14 +5,16 @@ nav_order: 4
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/CHANGE_ME.png" style="float:right;width:320px;height:320px;" alt="????"> 
+<img src="images/2-elicit-logo.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
 
 # Search for Papers (literature reviews)
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Semantic Scholar - Article Summaries
-1. Let's do a key word search in Semantic Scholar on a topic of interest.
+Semantic Scholar uses GenAI tools to create summaries of journal articles, but don’t depend on the summaries being 100% accurate! Semantic Scholar summaries are typically better than general GenAI tool summaries but can still “make stuff up” so you still need to make your own summaries for articles you'll directly use in your research
+
+1. Let's do a keyword search in Semantic Scholar on a topic of interest.
   - Open [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} (no need to create an account unless you want to).
   - Type the following into the search bar and click the search button:
 <br>```Informal credentialling academic makerspaces```<br>
