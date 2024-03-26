@@ -31,8 +31,13 @@ Current generative A.I. tools show a tendency to invent 'facts' and even academi
 Even if the guide you are using does not require it, we recommend that you reference the prompt that helped create the text you are citing. This can be considered good practice because it increases transparency about how you arrived at the text you are citing and because it can contribute to a better understanding of these rapidly evolving tools.
 
 ## Let's Practice!
-1. **MORE Stuff TO GO here!!!**
-2. 
+Create a citation for Following a prompt in Copilot and then go through the process so that you could cite it properly if necessary.
+1. Put a prompt into Copilot. For example: ```How can informal credentials help makerspace users in their job searches?```
+2. Save a transcript of your chat (including prompts) by clicking on the download button, and then select a TEXT export.
+<br><img src="images/5-copilot-download.png"  alt="Copilot download button"><br>
+3. Include the chat transcript as an appendix to your work
+4. Include the date of your transcript 
+5. Acknowledge how you used the tool (even if you only use GenAI to plan a paper or brainstorm & you don't include any of its generated content)
 
 ### Resources and further reading
 - [In-Text Citations: Personal Communications](https://apastyle.apa.org/style-grammar-guidelines/citations/personal-communications){:target="_blank"} (APA Style Guide, Style and Grammar Guidelines, 2022, July)
