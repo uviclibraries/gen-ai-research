@@ -57,6 +57,6 @@ Remember, while these strategies can help reduce the likelihood of encountering 
 4. How did Copilot do for this question? Not bad, in that it is almost completely correct, except that it says that Rich McCue is "pursuing a Master of Arts in Education." In reality Rich earned that degree 8 years ago. So close, but not 100% accurate.
 
 ## Reflection time:
-- How did Copilot do when it answered your questions? Any inaccuracies?
-- How will you try to craft your prompts to make the response less biased and more inclusive?
-- What are the key things you can do to critically review GenAI generated responses?
+> - How did Copilot do when it answered your questions? Any inaccuracies?
+> - How will you try to craft your prompts to make the response less biased and more inclusive?
+> - What are the key things you can do to critically review GenAI generated responses?
