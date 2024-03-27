@@ -46,7 +46,7 @@ Here are some key principles to keep in mind as you create your own prompts:
     - Did you have to research to verify any of the claims Copilot made?
 
 ### Advanced Prompt Design Tips & Tricks
-Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy: 
+Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy. Feel free to try modifying the prompts for topics or places that interest you.
 1. Clicking the **New Topics** button in Copilot when you are asking a diffrent question that does not build on any previous questions you've asked Copilot will generally give you better results:
 <br><img src="images/1-new-topic.png" style="width:400px;" alt="An image of Copilot's New Topic button"><br>
 2. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
