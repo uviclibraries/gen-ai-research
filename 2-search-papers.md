@@ -13,7 +13,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 ## Elicit - Summaries of Top 4 Articles
 Elicit AI is a research assistant tool that utilizes natural language processing to help users extract insights from academic papers and data. It makes a consolidated summary of the top 4 papers on the topic (in its judgment) and gives you links to 8 other related papers. Don’t depend on the summaries being 100% accurate!
 
-Elicit Training Data sources: _Web scraping_ (incl. Open Access data) & _Indexing agreements with 50 publishers_.
+Elicit Training Data sources: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
 
 1. Let’s do a search in Elicit on the same topic this time using more natural language.
   - Open Elicit, and if you want to use it you’ll need to create an account.
@@ -44,7 +44,7 @@ ResearchRabbit Training Data sources: _Microsoft Academic Graph_.
 ## Semantic Scholar - Article Summaries
 Semantic Scholar uses GenAI tools to create summaries of journal articles, but don’t depend on the summaries being 100% accurate! Semantic Scholar summaries are typically better than general GenAI tool summaries but can still “make stuff up” so you still need to make your own summaries for articles you'll directly use in your research. 
 
-Semantic Scholar Training Data sources: _Web scraping_ (incl. Open Access data) & _Indexing agreements with 50 publishers_.
+Semantic Scholar Training Data sources: _Web scraping_ (including Open Access data) & _Indexing agreements with 50 publishers_.
 
 1. Let's do a keyword search in Semantic Scholar on a topic of interest.
   - Open [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} (no need to create an account unless you want to).
