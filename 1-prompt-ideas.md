@@ -72,7 +72,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
 
-### Let's practice some advanced Prompt Design skills!
+### Let's Practice More Advanced Prompt Design skills!
 1. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
   - Initial prompt:
 <br>```What is global warming and what are its causes? Provide sources.```<br>
@@ -82,7 +82,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 <br>```Reword it using the humorous tone and language of a Dr. Seuss book.```<br>
   - Image generation:
 <br>```Create an image of a grade 4 student learning about the global warming.```<br>
-<br><img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
+<img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
   - Image modification:
 <br>```Have the image use the look and feel of drawings from a Dr. Seuss book.```<br>
   - Start a "New topic" by pressing the blue button on the bottom left of the screen, and then paste in the following text and press enter:
@@ -95,7 +95,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 >  - **How useful are the detailed activity instructions that Copilot created?**
 >  - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
 
-## Let's practice Idea Generation!
+## Let's Practice Idea Generation!
 > Please remember that **you must have permission from your instructor to use GenAI to assist you in any class assignment**. Your instructor may forbid the use of GenAI, allow limited use of GenAI, or all full use of GenAI for specific assignments. Please follow your instructors' guidelines for how to cite and document your use of GenAI in assignments. If you have any questions about using GenAI in your class, please look at your course outline, and if you don't find guidance there, ask your instructor directly, as using GenAI without permission from your instructor is a form of plagiarism and is a violation of UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php). 
 
 Now let's look at how we can use GenAI tools for creativity and innovation, including how to generate new ideas and overcome creative blocks ([ChatGPT 4.0, 2024](https://chat.openai.com/share/ec126ed8-937c-4f48-a322-cebde4bddd55){:target="_blank"}). Type or copy and paste the prompts below into Copilot and then let's look at the results.
