@@ -8,7 +8,6 @@ This workshop consists of a small amount of instruction so that most of the sche
 - [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed)
 - [ChatGPT](https://chat.openai.com/){:target="_blank"} 
 - [Google Gemini](https://gemini.google.com/){:target="_blank"}
-- [Perplexity](https://www.perplexity.ai/){:target="_blank"}
 - [Semantic Scholar](){:target="_blank"}
 - [Elicit](https://elicit.com/){:target="_blank"}
 - [Research Rabbit](https://researchrabbitapp.com/){:target="_blank"}
