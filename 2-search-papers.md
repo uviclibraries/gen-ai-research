@@ -5,10 +5,9 @@ nav_order: 4
 parent: Workshop Activities - Introduction
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
+
+# Search for Papers (AKA Literature Review)
 <img src="images/2-research.png" style="float:right;width:320px;" alt="Elicit.ai logo"> 
-
-# Search for Papers (literature reviews)
-
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Perplexity - Summarizes Findings from Top 4 Articles
