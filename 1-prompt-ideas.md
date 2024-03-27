@@ -66,8 +66,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - Second Prompt (following the first response): ```Considering those factors, what is the likely weather forecast for San Francisco next week? Provide sources.```
 7. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
 <br><img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
-  - Previous Successful Prompt: ```Explain the concept of El Niño and its impact on global weather patterns.```
-  - New Prompt (leveraging precedent): ```Explain the concept of La Niña and its impact on global weather patterns. Provide sources.```
+  - Previous Successful Prompt: ```Explain the concept of EL NIÑO and its impact on global weather patterns.```
+  - New Prompt (leveraging precedent): ```Explain the concept of LA NIÑA and its impact on global weather patterns. Provide sources.```
 8. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
