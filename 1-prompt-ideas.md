@@ -34,10 +34,10 @@ Here are some key principles to keep in mind as you create your own prompts:
 3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copying and pasting the following text into Copilot:
 <br>```I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson. Please provide sources.```<br>
 <br><img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example"><br>
-  - **How does the response to this prompt differ from the "_poor_" prompt above?**
-  - **Do you have the weather-related expertise to determine if the weather-related facts are accurate?**
-  - **Do you have the teaching expertise to know if the weather lesson plan is reasonable and will work well with grade 2 students?**
-> Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual.
+>  - **How does the response to this prompt differ from the "_poor_" prompt above?**
+>  - **Do you have the weather-related expertise to determine if the weather-related facts are accurate?**
+>  - **Do you have the teaching expertise to know if the weather lesson plan is reasonable and will work well with grade 2 students?**
+> _Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual._
 4. Pick one or two topics that you know a lot about.
   - Ask Microsoft Copilot a question about one of the topic and then verify if the answer is accurate.
   - Ask Copilot a question about your second topic.
