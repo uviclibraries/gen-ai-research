@@ -22,8 +22,5 @@ To be ready to jump right into the interactive activities during the workshop, *
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpjqxalCKdg&t" title="Generative AI in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [What different types of Artificial Intelligence (AI) & how Generative AI relates to other forms of AI](https://www.youtube.com/watch?v=Yq0QkCxoTHM){:target="_blank"} (10 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yq0QkCxoTHM" title="Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- OPTIONAL - If you don’t have the latest version of Microsoft Excel, you can request a UVic licensed and paid-for version of [Office 365 here](https://onlineservices.uvic.ca/){:target="_blank"}<br>
-            -  Then [download the Office installer here](https://portal.office.com){:target="_blank"}<br>
-            -  Please login with your UVic NetLink ID credentials. Please note that you will need to enter in your NetLinkID@uvic.ca, and not just your NetLinkID.
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
