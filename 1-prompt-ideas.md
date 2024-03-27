@@ -37,7 +37,7 @@ Here are some key principles to keep in mind as you create your own prompts:
 >  - **How does the response to this prompt differ from the "_poor_" prompt above?**
 >  - **Do you have the weather-related expertise to determine if the weather-related facts are accurate?**
 >  - **Do you have the teaching expertise to know if the weather lesson plan is reasonable and will work well with grade 2 students?**
-> _Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual._
+> <br>_Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual._
 4. Pick one or two topics that you know a lot about (e.g. ```What are the origins of skateboarding?```).
   - Ask Microsoft Copilot a question about one of the topics and then verify if the answer is accurate.
   - Ask Copilot a question about your second topic.
