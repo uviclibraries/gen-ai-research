@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
 # Prompt Design & Idea Generation
-<img src="images/prompt-design-image.png" style="float:right;width:320px;height:320px;" alt="A student at a computer learning effective GenAI prompt design">
+<img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning effective GenAI prompt design">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Prompt Design
@@ -47,8 +47,8 @@ Here are some key principles to keep in mind as you create your own prompts:
 
 ### Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy: 
-3. Clicking the **New Topics** button in Copilot when you are asking a diffrent question that does not build on any previous questions you've asked Copilot will generally give you better results
-<br><img src="images/1-new-topic.png" alt="An image of Copilot's New Topic button"><br>
+3. Clicking the **New Topics** button in Copilot when you are asking a diffrent question that does not build on any previous questions you've asked Copilot will generally give you better results:
+<br><img src="images/1-new-topic.png" style="width:4000px;" alt="An image of Copilot's New Topic button"><br>
 4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: "Weather in Paris."
   - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
