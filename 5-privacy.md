@@ -15,7 +15,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 
 ## Privacy & Data Collection in UVic's Copilot
 1. The good news is that UVic has turned on all the privacy features in the version of [Microsoft Copilot](https://copilot.microsoft.com){:target="_blank"} that they have licensed for the UVic community.
-2. Please click on the green "Protected" button in the top right of the Copilot screen to confirm that you are using the UVic licensed version, and have strong privacy protections already in place.
+2. Please click on the green "Protected" button in the top right of the Copilot screen to confirm that you are using the UVic-licensed version, which means that you have strong privacy settings in place that cannot be changed (like they can in if you signed up individually for Copilot).
 <br><img src="images/5-copilot-privacy.png"  alt="Copilot privacy screenshot"><br>
 
 ## Privacy & Data Collection in ChgatGPT
