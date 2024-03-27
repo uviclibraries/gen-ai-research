@@ -47,30 +47,30 @@ Here are some key principles to keep in mind as you create your own prompts:
 
 ### Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy: 
-3. Clicking the **New Topics** button in Copilot when you are asking a diffrent question that does not build on any previous questions you've asked Copilot will generally give you better results:
+1. Clicking the **New Topics** button in Copilot when you are asking a diffrent question that does not build on any previous questions you've asked Copilot will generally give you better results:
 <br><img src="images/1-new-topic.png" style="width:4000px;" alt="An image of Copilot's New Topic button"><br>
-4. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
-  - Poor: "Weather in Paris."
-  - Better: "Give me a lighthearted weather update for Paris, France, with a humorous twist."
-5. **Incorporate examples** or analogies to clarify complex concepts:
-  - Poor: "Explain cyclones."
-  - Better: "Explain how cyclones form, using the example of Cyclone Nisarga. Please provide sources."
-6. **Limit Scope** to focus on a specific topic or task to prevent overly broad responses:
-  - Poor: "Tell me everything about weather."
-  - Better: "Provide an overview of the factors that influence the formation of thunderstorms."
-7. **Test and Iterate** by experimenting with different variations of your prompt to see which yields the best results:
-  - Initial: "Weather in London."
-  - Refined: "What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings? Provide sources."
-9. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
-  - First Prompt: "What are the key factors that affect local weather conditions?"
-  - Second Prompt (using first response): "Considering those factors, what is the likely weather forecast for San Francisco next week? Provide sources."
-10. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
+2. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
+  - Poor: ```Weather in Paris.```
+  - Better: ```Give me a lighthearted weather update for Paris, France, with a humorous twist.```
+3. **Incorporate examples** or analogies to clarify complex concepts:
+  - Poor: ```Explain cyclones.```
+  - Better: ```Explain how cyclones form, using the example of Cyclone Nisarga. Please provide sources.```
+4. **Limit Scope** to focus on a specific topic or task to prevent overly broad responses:
+  - Poor: ```Tell me everything about weather.```
+  - Better: ```Provide an overview of the factors that influence the formation of thunderstorms.```
+5. **Test and Iterate** by experimenting with different variations of your prompt to see which yields the best results:
+  - Initial: ```Weather in London.```
+  - Refined: ```What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings? Provide sources.```
+6. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
+  - First Prompt: ```What are the key factors that affect local weather conditions?```
+  - Second Prompt (following the first response): ```Considering those factors, what is the likely weather forecast for San Francisco next week? Provide sources.```
+7. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
 <br><img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
-  - Previous Successful Prompt: "Explain the concept of **El Niño** and its impact on global weather patterns."
-  - New Prompt (leveraging precedent): "Explain the concept of **La Niña** and its impact on global weather patterns. Provide sources."
-11. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
+  - Previous Successful Prompt: ```Explain the concept of **El Niño** and its impact on global weather patterns.```
+  - New Prompt (leveraging precedent): ```Explain the concept of **La Niña** and its impact on global weather patterns. Provide sources.```
+8. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
-  - Successful prompt: "Create an image of a grade 2 student learning about the weather." 
+  - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
 
 ### Let's practice some advanced Prompt Design skills!
 1. If you haven’t already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"} or the GenAI tool of your choice.
