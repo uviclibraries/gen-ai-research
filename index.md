@@ -37,6 +37,14 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 2. Integrate citation managers into your search strategy using tools like Research Rabbit.
 3. **More to come here...**
 
+**Proposed Intermediate Activities:**
+- Advanced prompt design techniques
+- Transcription - MS 365 -or- Whisper.ai
+- Summarize papers
+- Advanced literature review techniques 
+- Sentiment analysis 
+- LaTeX assistance 
+
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
