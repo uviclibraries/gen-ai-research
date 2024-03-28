@@ -31,6 +31,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 10. Stay Informed: Be familiar with other places on campus, like LTSI, which can support you in the effective and appropriate use of GenAI
 
 ### Intermediate Generative AI for Student Research
+### (COMING SOON)
 At the end of this **Introductory** portion of this workshop, you will be able to:
 
 1. Effectively use advanced Literature Review tools for graduate-level research.
@@ -40,7 +41,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 **Proposed Intermediate Activities:**
 - Advanced prompt design techniques
 - Transcription - MS 365 -or- Whisper.ai
-- Using [GPT4All](https://gpt4all.io/){:target="_blank"} and open training data to use a non-cloud based GenAI tool (currently for text only)
+- Using [GPT4All](https://gpt4all.io/){:target="_blank"} and open training data to use a non-cloud-based GenAI tool (currently for text only)
   - GenAI use with non-internet connection -or- no use of cloud-based services
   - Sentiment analysis (with the ability to automate the analysis of large amounts of data)
   - Qualitative coding
