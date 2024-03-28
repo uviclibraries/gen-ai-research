@@ -40,6 +40,10 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 **Proposed Intermediate Activities:**
 - Advanced prompt design techniques
 - Transcription - MS 365 -or- Whisper.ai
+- Using [GPT4All](https://gpt4all.io/){:target="_blank"} and open training data to use a non-cloud based GenAI tool (currently for text only)
+  - GenAI use with non-internet connection -or- no use of cloud-based services
+  - Sentiment analysis (with the ability to automate the analysis of large amounts of data)
+  - Qualitative coding
 - Summarize papers
 - Advanced literature review techniques 
 - Sentiment analysis 
