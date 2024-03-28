@@ -34,10 +34,10 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 At the end of this **Introductory** portion of this workshop, you will be able to:
 
 1. Effectively use advanced Literature Review tools for graduate-level research.
-2. Integrate citation managers into your search strategy using tools like Research Rabbit.
+2. Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
 3. **More to come here...**
 
-**Proposed Intermediate Activities:**
+### Proposed Intermediate Activities:
 - Advanced prompt design techniques
 - Transcription - MS 365 -or- Whisper.ai
 - Using [GPT4All](https://gpt4all.io/){:target="_blank"} and open training data to use a non-cloud-based GenAI tool (currently for text only)
