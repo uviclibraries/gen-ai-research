@@ -21,7 +21,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 
 1. Understand Generative AI: Define Generative AI and explain its relevance and potential applications in student research.
 2. Ethical Considerations: Discuss the ethical implications of using GenAI in academic work, including issues related to plagiarism, data privacy, and research integrity.
-3. Apply strategies such as prompt design, critical review of terms and conditions, and adjustments to privacy settings to address GenAI ethics and safety issues
+3. Apply strategies such as prompt design, critical review of terms and conditions, and adjustments to privacy settings to address GenAI ethics and safety issues.
 5. Explore Use Cases: Identify specific use cases of different GenAI in academic settings, such as literature review, idea generation, and data analysis.
 6. Practical Applications: Demonstrate how to use Generative AI tools effectively for research purposes, including tips for generating useful outputs and refining queries.
 7. Evaluate Quality and Reliability: Teach participants how to critically evaluate the outputs of Generative AI tools, including assessing accuracy, relevance, and potential biases.
@@ -34,7 +34,8 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 
 1. Effectively use advanced Literature Review tools for graduate-level research.
 2. Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
-3. **More to come here...**
+3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
+4. COMING SOON: Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
 
 ### Proposed Intermediate Activities:
 - Advanced prompt design techniques
