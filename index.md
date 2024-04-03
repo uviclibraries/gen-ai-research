@@ -35,7 +35,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 1. Effectively use advanced Literature Review tools for graduate-level research.
 2. Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
 3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-4. COMING SOON: Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
+4. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
 
 ### Proposed Intermediate Activities:
 - Advanced prompt design techniques
@@ -47,7 +47,9 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 - Summarize papers
 - Advanced literature review techniques 
 - Sentiment analysis 
-- LaTeX assistance 
+- LaTeX assistance
+- Voice overs... text-to voice
+- 
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
