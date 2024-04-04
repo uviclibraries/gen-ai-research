@@ -30,12 +30,13 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 10. Stay Informed: Be familiar with other places on campus, like LTSI, which can support you in the effective and appropriate use of GenAI
 
 ### Intermediate Generative AI for Student Research (COMING SOON)
-At the end of this **Introductory** portion of this workshop, you will be able to:
+At the end of this **Intermediate** portion of this workshop, you will be able to:
 
 1. Effectively use advanced Literature Review tools for graduate-level research.
-2. Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
-3. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-4. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
+2. Use a Generative AI tool locally on your laptop using selected documents on your computer for training data.
+3. Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
+4. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
+5. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
 
 ### Proposed Intermediate Activities:
 - Advanced prompt design techniques
