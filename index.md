@@ -32,25 +32,15 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 ### Intermediate Generative AI for Student Research (COMING SOON)
 At the end of this **Intermediate** portion of this workshop, you will be able to:
 
-1. Effectively use advanced Literature Review tools for graduate-level research.
-2. Use a Generative AI tool locally on your laptop using selected documents on your computer for training data.
-3. Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
-4. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-5. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
-
-### Proposed Intermediate Activities:
-- Advanced prompt design techniques
-- Transcription - MS 365 -or- Whisper.ai
-- Using [GPT4All](https://gpt4all.io/){:target="_blank"} and open training data to use a non-cloud-based GenAI tool (currently for text only)
-  - GenAI use with non-internet connection -or- no use of cloud-based services
-  - Sentiment analysis (with the ability to automate the analysis of large amounts of data)
-  - Qualitative coding
-- Summarize papers
-- Advanced literature review techniques 
-- Sentiment analysis 
-- LaTeX assistance
-- Voice overs... text-to voice
-- 
+1. **COMING SOON:** Effectively use advanced Literature Review tools for graduate-level research.
+2. **COMING SOON:** Install GenAI software locally on your laptop & use it to generate text.
+3. **COMING SOON:** Using GenAI software on your laptop (not cloud based), use selected documents on your computer for training data and summarise the documents.
+4. **COMING SOON:** Using GenAI software on your laptop, use selected documents on your computer for training data and ask questions of the documents.
+5. **COMING SOON:** Use GenAI tools to create LaTex code from a formatted document.
+6. **COMING SOON:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
+7. **COMING SOON:** Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
+8. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
+9. **COMING SOON:** Demonstrate the effetive use of Advanced prompt design techniques for research purposes
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
