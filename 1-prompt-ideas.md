@@ -47,25 +47,30 @@ Here are some key principles to keep in mind as you create your own prompts:
      - **Was it completely accurate?**
      - **Did you have to research to verify any of the claims Copilot made?**
 
-### Advanced Prompt Design Tips & Tricks
+### More Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy. Feel free to try modifying the prompts for topics or places that interest you.
 1. Clicking the **New Topics** button in Copilot when you are asking a diffrent question that does not build on any previous questions you've asked Copilot will generally give you better results:
 <br><img src="images/1-new-topic.png" style="width:400px;" alt="An image of Copilot's New Topic button"><br>
 2. Set the **Tone of the response** you would like (e.g., formal, informal, humorous):
   - Poor: ```Weather in Paris.```
   - Better: ```Give me a lighthearted weather update for Paris, France, with a humorous twist.```
+  - Use your own prompt now and experiment with varying the tone you request.
 3. **Incorporate examples** or analogies to clarify complex concepts:
   - Poor: ```Explain cyclones.```
   - Better: ```Explain how cyclones form, using the example of Cyclone Nisarga. Please provide sources.```
+  - Use your own prompt now and experiment with requesting the GenAI use an example or analogy.
 4. **Limit Scope** to focus on a specific topic or task to prevent overly broad responses:
   - Poor: ```Tell me everything about weather.```
   - Better: ```Provide an overview of the factors that influence the formation of thunderstorms.```
+  - Use your own prompt now and experiment with limiting the scope of your request.
 5. **Test and Iterate** by experimenting with different variations of your prompt to see which yields the best results:
   - Initial: ```Weather in London.```
   - Refined: ```What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings? Provide sources.```
+  - Use your own prompt now and experiment with iterating or refining your request.
 6. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
   - First Prompt: ```What are the key factors that affect local weather conditions?```
   - Second Prompt (following the first response): ```Considering those factors, what is the likely weather forecast for San Francisco next week? Provide sources.```
+  - Use your own prompt now and experiment with prompt chaining.
 7. **Leverage Precedents** by incorporating elements of successful prompts you've used in the past:
 <br><img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
   - Previous Successful Prompt: ```Explain the concept of EL NIÑO and its impact on global weather patterns.```
@@ -73,6 +78,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 8. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
+  - Use your own prompt now and experiment with creating your own images.
 
 ### Let's Practice More Advanced Prompt Design skills!
 1. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
