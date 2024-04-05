@@ -44,8 +44,8 @@ Here are some key principles to keep in mind as you create your own prompts:
   - **Can you make it more accurate with follow-up prompts?**
   - **Ask Copilot a question about your second topic.**
   - **How did it do for each topic?**
-    - **Was it completely accurate?**
-    - **Did you have to research to verify any of the claims Copilot made?**
+     - **Was it completely accurate?**
+     - **Did you have to research to verify any of the claims Copilot made?**
 
 ### Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy. Feel free to try modifying the prompts for topics or places that interest you.
