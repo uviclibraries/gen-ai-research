@@ -26,21 +26,22 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 6. Practical Applications: Demonstrate how to use Generative AI tools effectively for research purposes, including tips for generating useful outputs and refining queries.
 7. Evaluate Quality and Reliability: Teach participants how to critically evaluate the outputs of Generative AI tools, including assessing accuracy, relevance, and potential biases.
 8. Attribution: Cite outputs from GenAI tools using APA, MLA, IEEE, or other citation styles.
-9. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity
-10. Stay Informed: Be familiar with other places on campus, like LTSI, which can support you in the effective and appropriate use of GenAI
+9. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity.
+10. Stay Informed: Be familiar with other places on campus, like LTSI, which can support you in the effective and appropriate use of GenAI.
 
 ### Intermediate Generative AI for Student Research (COMING SOON)
 At the end of this **Intermediate** portion of this workshop, you will be able to:
 
-1. **COMING SOON:** Effectively use advanced Literature Review tools for graduate-level research.
-2. **COMING SOON:** Install GenAI software locally on your laptop & use it to generate text.
-3. **COMING SOON:** Using GenAI software on your laptop (not cloud based), use selected documents on your computer for training data and summarise the documents.
-4. **COMING SOON:** Using GenAI software on your laptop, use selected documents on your computer for training data and ask questions of the documents.
-5. **COMING SOON:** Use GenAI tools to create LaTex code from a formatted document.
-6. **COMING SOON:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
-7. **COMING SOON:** Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-8. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
-9. **COMING SOON:** Demonstrate the effetive use of Advanced prompt design techniques for research purposes
+1. **COMING SOON:** Use advanced literature review tools for graduate-level research.
+2. **COMING SOON:** Install GenAI software on your laptop including 1 or more large language models (not cloud-based).
+3. **COMING SOON:** Use the local GenAI software to answer a question.
+5. **COMING SOON:** Use the local GenAI software and selected documents on your computer for training data and then summarise the documents.
+6. **COMING SOON:** Use the local GenAI software and select a folder of documents on your computer for training data and then ask questions of the documents.
+7. **COMING SOON:** Use GenAI tools to create LaTex code from a formatted document.
+8. **COMING SOON:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
+9. **COMING SOON:** Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
+10. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
+11. **COMING SOON:** Demonstrate the effective use of Advanced prompt design techniques for research purposes.
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
