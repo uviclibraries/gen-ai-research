@@ -120,6 +120,7 @@ Now let's look at how we can use GenAI tools for creativity and innovation, incl
   - Follup with the following prompt requesting a more detailed summary:
 <br>```Please expand the summary to 5 or more bullet points.```<br>
   - Are the two summaries significantly different? If so in what ways?
+  - Now try summarizing one of your own documents, or a web page!
 > NOTE: The standard version of Copilot (which UVic has licenced for us) is not able to summarize large bodies of text, including documents over approximately 3,100 characters (as of March 2024). 
 4. Reflection Time:
 >  - **How useful were the research topic ideas that Copilot created?**
