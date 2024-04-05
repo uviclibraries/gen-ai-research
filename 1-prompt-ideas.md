@@ -39,13 +39,13 @@ Here are some key principles to keep in mind as you create your own prompts:
 >  - **Do you have the teaching expertise to know if the weather lesson plan is reasonable and will work well with grade 2 students?**
 > <br>_Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual._
 4. Pick one or two topics that you know a lot about (e.g. ```What are the origins of skateboarding?```).
-  - **Ask Microsoft Copilot a question about one of the topics.
-  - Is the answer accurate?
-  - Can you make it more accurate with follow-up prompts?
-  - Ask Copilot a question about your second topic.
-  - How did it do for each topic?
-    - Was it completely accurate?
-    - Did you have to research to verify any of the claims Copilot made?**
+  - **Ask Microsoft Copilot a question about one of the topics.**
+  - **Is the answer accurate?**
+  - **Can you make it more accurate with follow-up prompts?**
+  - **Ask Copilot a question about your second topic.**
+  - **How did it do for each topic?**
+    - **Was it completely accurate?**
+    - **Did you have to research to verify any of the claims Copilot made?**
 
 ### Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy. Feel free to try modifying the prompts for topics or places that interest you.
