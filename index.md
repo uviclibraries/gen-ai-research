@@ -33,15 +33,13 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 At the end of this **Intermediate** portion of this workshop, you will be able to:
 
 1. **COMING SOON:** Use advanced literature review tools for graduate-level research.
-2. **COMING SOON:** Install GenAI software on your laptop including 1 or more large language models (not cloud-based).
-3. **COMING SOON:** Use the local GenAI software to answer a question.
-5. **COMING SOON:** Use the local GenAI software and selected documents on your computer for training data and then summarise the documents.
-6. **COMING SOON:** Use the local GenAI software and select a folder of documents on your computer for training data and then ask questions of the documents.
+2. **COMING SOON:** Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
+5. **COMING SOON:** Use the local GenAI software to summarize summarise the information in the document.
+6. **COMING SOON:** Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
 7. **COMING SOON:** Use GenAI tools to create LaTex code from a formatted document.
 8. **COMING SOON:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
 9. **COMING SOON:** Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
 10. **COMING SOON:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
-11. **COMING SOON:** Demonstrate the effective use of Advanced prompt design techniques for research purposes.
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
