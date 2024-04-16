@@ -6,12 +6,11 @@ parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
-# GPT4All 
-<img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning effective GenAI prompt design">
+# GPT4All on Your Laptop
+<img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning to use a locally install GPT on their laptop">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
-### Prompt Design Basics
 While it is easy to get started using Generative AI tools, it takes time and practice to get the best results out of Generative AI tools. 
 Here are some key principles to keep in mind as you create your own prompts:
 1. **Be Clear & concise** in your language to avoid ambiguity:
@@ -24,7 +23,7 @@ Here are some key principles to keep in mind as you create your own prompts:
   - Poor: "Tell me about the weather."
   - Better: "I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson."
 
-### Let's Practice!
+## Test GPT4All by Asking Questions You Know the Answers To
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
 > Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy.
 2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
@@ -47,7 +46,12 @@ Here are some key principles to keep in mind as you create your own prompts:
      - **Was it completely accurate?**
      - **Did you have to research to verify any of the claims Copilot made?**
   
-## Go further
-There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
+## Test other Language Models
+1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
+> Note: You are free to use other GenAI tools like [ChatGPT](https://chat.openai.com/){:target="_blank"} and [Google Gemini](https://gemini.google.com/){:target="_blank"} for this workshop, but you will either have to create accounts for these services if you have not already done so, and will need to take extra steps to preserve your privacy.
+2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
+```Tell me about the weather.```<br>
+<br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
+  - What are the results from this prompt telling you?
 
 [NEXT STEP: Search for papers (literature reviews)](2-search-papers.html){: .btn .btn-blue }
