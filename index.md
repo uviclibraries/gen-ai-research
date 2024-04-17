@@ -32,7 +32,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 ### Intermediate Generative AI for Student Research (COMING SOON)
 At the end of this **Intermediate** portion of this workshop, you will be able to:
 
-2. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
+1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
 5. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
 6. **COMING SOON:** Use advanced literature review tools for graduate-level research.
 8. **COMING SOON:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
