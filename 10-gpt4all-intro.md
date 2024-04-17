@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1 - GPT4All Getting Started
+title: 10 - GPT4All Getting Started
 nav_order: 10
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
