@@ -11,8 +11,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
-While it is easy to get started using Generative AI tools, it takes time and practice to get the best results out of Generative AI tools. 
-Here are some key principles to keep in mind as you create your own prompts:
+GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024).
+
 1. **Be Clear & concise** in your language to avoid ambiguity:
   - Poor: "Weather?"
   - Better: "What is the current weather in Victoria, BC, Canada?
