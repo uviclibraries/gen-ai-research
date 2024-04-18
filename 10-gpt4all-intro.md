@@ -7,21 +7,18 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
 # GPT4All on Your Laptop & Test It
-<img src="images/10-gpt4all-laptop.jpg" style="float:right;width:320px;" alt="A student at a computer learning to use a locally install GPT on their laptop">
+<img src="images/10-gpt4all-animation.gif" style="float:right;width:360px;" alt="GPT4All in action">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
 GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024).
 
-1. **Be Clear & concise** in your language to avoid ambiguity:
-  - Poor: "Weather?"
-  - Better: "What is the current weather in Victoria, BC, Canada?
-2. **Provide Specific details** to guide the AI toward the desired response:
-  - Poor: "Tell me about the weather."
-  - Better: "Provide a detailed weather forecast in 500 words or less, for Victoria, BC, Canada, for the next three days, including temperature, precipitation, and wind speed."
-3. Include **relevant Context** & **Instruction** to help the AI understand the prompt better:
-  - Poor: "Tell me about the weather."
-  - Better: "I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson."
+1. **Download GPT4All** onto your laptop. Please select the link for your operating system:
+  - [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
+  - [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
+  - [Ubuntu Linux Download](https://gpt4all.io/installers/gpt4all-installer-linux.run){:target="_blank"}
+2. **Install GPT4All** on your laptop:
+  - 
 
 ## Install a Language Model into GPT4All
 
