@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # GPT4All on Your Laptop & Test It
 <img src="images/10-gpt4all-animation.gif" style="float:right;width:400px;" alt="GPT4All in action!">
-If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
+If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
 GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024). GPT4All like other large language models can:
@@ -16,13 +16,13 @@ GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (
 - Help you as a personal writing assistant
 - Understand documents and give you summaries and answers about their content
 
-Let's get started!
+Let's get started installing and using GPT4All for basic tasks!
 
 1. **Download GPT4All** onto your laptop. Please select the link for your operating system:
   - [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
--OR-
+<br>-OR-
   - [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
--OR-
+<br>-OR-
   - [Ubuntu Linux Download](https://gpt4all.io/installers/gpt4all-installer-linux.run){:target="_blank"}
 2. **Install GPT4All** on your laptop:
   - 
