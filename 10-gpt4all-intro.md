@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
 # GPT4All on Your Laptop & Install a Language Model
-<img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning to use a locally install GPT on their laptop">
+<img src="images/10-gpt4all-laptop.jpg" style="float:right;width:320px;" alt="A student at a computer learning to use a locally install GPT on their laptop">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## Installing GPT4All on Your Laptop
