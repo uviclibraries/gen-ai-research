@@ -20,8 +20,13 @@ Elicit Training Data sources: _Web scraping_ (including Open Access data) & _Ind
   - Type the following into the search bar and click the search button:
 <br>```How useful is informal credentialling for academic makerspace skills in student job searches?```<br>
   - Try searching for information about a topic that you are interested in to further explore the capabilities of Perplexity. Be curious and have some fun!
-2. Reflection time:
->  - How useful do the articles look informal credentialling for academic makerspace skills in student job searches?
+2. In Elicit, try doing a natural language search for a topic you know a lot about so that you can evaluate the quality of the results.
+  - For example:
+<br> ```Is informal credentialing helpful for academic makerspaces users in finding jobs?```<br>
+  - Now try the same search in [Google Scholar](https://scholar.google.com){:target="_blank"} and compare the Elicit results with Google Scholar.
+3. Reflection time:
+>  - How useful do the articles look for your search?
+>  - Compared to the Google Scholar results how high is the quality of the articles Elicit found?
 >  - Does the combined 4 article summary look reasonable?
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
@@ -35,8 +40,12 @@ ResearchRabbit Training Data sources: _Microsoft Academic Graph_.
   - Open [ResearchRabbit](https://researchrabbitapp.com/){:target="_blank"}, and if you want to use it you'll need to create an account.
   - Click the green **Add Papers** button, and then type the following into the search bar and click the search button: ```Informal credentialling academic makerspaces```
   - Try using ResearchRabbit to explore a topic you're interested in and hopefully find additional useful articles. Be curious and have some fun!
+2. Test ResearchRabbit on a topic you know a lot about:
+  - In ResearchRabbit, try doing a keyword search for a topic you know a lot about so that you can evaluate the quality of the results.
+  - Now try the same search in [Google Scholar](https://scholar.google.com){:target="_blank"} and compare the ResearhRabbit results with Google Scholar.
 2. Reflection time:
 >  - Do the suggested "Similar Work", "Earlier Work", and "Later Work" look relevant and useful?
+>  - Compared to the Google Scholar results how high is the quality of the articles ReserachRabbit found?
 >  - Does the network map of articles look like it might be helpful for you in your research?
 >  - How useful do the articles look informal credentialling for academic makerspace skills in student job searches?
 >  - Overall does this look like a tool that could help you with your research?
