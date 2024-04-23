@@ -38,7 +38,8 @@ ResearchRabbit Training Data sources: _Microsoft Academic Graph_.
 
 1. Let's do a search in ResearchRabbit on the same topic this time by adding one or two articles on the topic of your choice.
   - Open [ResearchRabbit](https://researchrabbitapp.com/){:target="_blank"}, and if you want to use it you'll need to create an account.
-  - Click the green **Add Papers** button, and then type the following into the search bar and click the search button: ```Informal credentialling academic makerspaces```
+  - Click the green **Add Papers** button, and then type the following into the search bar and click the search button:
+    <br>```Informal credentialling academic makerspaces```<br>
   - Try using ResearchRabbit to explore a topic you're interested in and hopefully find additional useful articles. Be curious and have some fun!
 2. Test ResearchRabbit on a topic you know a lot about:
   - In ResearchRabbit, try doing a keyword search for a topic you know a lot about so that you can evaluate the quality of the results.
@@ -57,10 +58,15 @@ Semantic Scholar Training Data sources: _Web scraping_ (including Open Access da
 
 1. Let's do a keyword search in Semantic Scholar on a topic of interest.
   - Open [Semantic Scholar](https://www.semanticscholar.org/){:target="_blank"} (no need to create an account unless you want to).
-  - Type the following into the search bar and click the search button: ```Informal credentialling academic makerspaces```
+  - Type the following into the search bar and click the search button:
+    <br<```Informal credentialling academic makerspaces```<br>
   - Try searching for information about a topic that you are interested in to further explore the capabilities of Perplexity. Be curious and have some fun!
+2. Test Semantic Scholar on a topic you know a lot about:
+  - In Semantic Scholar, try doing a keyword search for a topic you know a lot about so that you can evaluate the quality of the results.
+  - Now try the same search in [Google Scholar](https://scholar.google.com){:target="_blank"} and compare the Semantic Scholar results with Google Scholar.
 2. Reflection time:
 >  - How useful do the articles look informal credentialling for academic makerspace skills in student job searches?
+>  - Compared to the Google Scholar results how high is the quality of the articles Semantic Scholar found?
 >  - Do the article summaries look reasonable?
 >  - How can you verify the accuracy of the summary?
 >  - Does this look like a tool that could help you with your research?
