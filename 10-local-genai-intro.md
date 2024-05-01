@@ -23,11 +23,20 @@ Let's get started installing and using GPT4All for basic tasks!
 <br>-OR-
   - [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
 2. **Install GPT4All** on your laptop:
-  - 
+  - **Mac Install**:
+    - After downloading the installer, double-click on it.
+    - Next, double-click on the _gpt4all-installer-darwin_ file and follow the installation instructions.
+    - If you have any problems with the installation process, please ask your instructor for assistance.
+  - **Windows Install**: 
+    - After downloading the installer, double-click on it.
+    - Next, double-click on the _gpt4all-installer-win64_ file and follow the installation instructions.
+    - If you have any problems with the installation process, please ask your instructor for assistance.
 
 ## Install a Language Model into GPT4All
-
-Put instructions here...
+<img src="images/7-download-models.png" style="float:right;width:280px;" alt="Download Models button">
+Now we have GPT4All installed on your laptop, we need to install a large language model before you can start asking it questions. There are a dozen or more models to choose from, but for now, we'll install one of the best overall models (as of Summer 2024) which is the _Llama 3 Instruct_ model.
+  - Click on the green **Download models** button in the middle of the windows.
+  - 
 
 ## Test GPT4All by Asking Questions You Know the Answers To
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
