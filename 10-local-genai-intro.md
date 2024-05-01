@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7 - Local GenAI Getting Started
+title: 7 - Local GenAI - Getting Started
 nav_order: 10
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -22,8 +22,6 @@ Let's get started installing and using GPT4All for basic tasks!
   - [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
 <br>-OR-
   - [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
-<br>-OR-
-  - [Ubuntu Linux Download](https://gpt4all.io/installers/gpt4all-installer-linux.run){:target="_blank"}
 2. **Install GPT4All** on your laptop:
   - 
 
