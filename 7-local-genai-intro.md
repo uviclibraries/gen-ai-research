@@ -19,18 +19,18 @@ GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (
 Let's get started installing and using GPT4All for basic tasks!
 
 1. **Download GPT4All** onto your laptop. Please select the link for your operating system:
-  - [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
+- [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
 <br>-OR-
-  - [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
+- [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
 2. **Install GPT4All** on your laptop:
-  - **Mac Install**:
-     - After downloading the installer, double-click on it.
-     - Next, double-click on the _gpt4all-installer-darwin_ file and follow the installation instructions.
-     - If you have any problems with the installation process, please ask your instructor for assistance.
-  - **Windows Install**: 
-     - After downloading the installer, double-click on it.
-     - Next, double-click on the _gpt4all-installer-win64_ file and follow the installation instructions.
-     - If you have any problems with the installation process, please ask your instructor for assistance.
+- **Mac Install**:
+  - After downloading the installer, double-click on it.
+  - Next, double-click on the _gpt4all-installer-darwin_ file and follow the installation instructions.
+  - If you have any problems with the installation process, please ask your instructor for assistance.
+- **Windows Install**: 
+  - After downloading the installer, double-click on it.
+  - Next, double-click on the _gpt4all-installer-win64_ file and follow the installation instructions.
+  - If you have any problems with the installation process, please ask your instructor for assistance.
 
 ## Install a Language Model into GPT4All
 Now we have GPT4All installed on your laptop, we need to install a large language model before you can start asking it questions. There are a dozen or more models to choose from, but for now, we'll install one of the best overall models (as of Summer 2024) which is the _Llama 3 Instruct_ model. 
