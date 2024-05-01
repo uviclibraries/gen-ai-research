@@ -37,7 +37,7 @@ Now we have GPT4All installed on your laptop, we need to install a large languag
 <img src="images/7-download-models.png" style="float:right;width:280px;" alt="Download Models button">
   - Click on the green **Download models** button in the middle of the windows.
   - Take a look at all the models available to download, and then click on the green **Install** button beside the _Llama 3 Instruct_ model description. _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory in order for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
-  - Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window so that you can start testing the language models accuracy and speed.
+  - Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window so that you can start testing the language model's accuracy and speed.
 
 ## Test GPT4All by Asking Questions You Know the Answers To
 1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
