@@ -53,7 +53,9 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 > - Or a question about a recent research project that you've completed?
   
 ## Install and Test another Language Model
-1. 
+Let's try installing a second Language Model so that we can compare the results of the questions you've asked the _Llama 3 Instruct_ model with another model:
+1. On the bottom left of the GPT4All windows click on the green **Downloads** button.
+2. 
 
 
-[NEXT STEP: Next Activity](#){: .btn .btn-blue }
+[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
