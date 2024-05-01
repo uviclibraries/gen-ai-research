@@ -41,7 +41,10 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 4. Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window. Next, you can get down to business and start testing the language model's accuracy and speed!
 
 ## Test GPT4All's Accuracy & Speed
-1. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
+1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
+  - llllll
+<img src="images/7-select-llm.gif" style="float:right;width:800px;" alt="Select the large language model you want to use.">
+3. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
 <img src="images/7-first-prompt.png" style="width:800px;" alt="First prompt">
   - How reasonable do the results look to you?
@@ -55,7 +58,9 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 ## Install and Test another Language Model
 Let's try installing a second Language Model so that we can compare the results of the questions you've asked the _Llama 3 Instruct_ model with another model: <img src="images/7-download-button.png" style="float:right;width:280px;" alt="Download Models button">
 1. On the bottom left of the GPT4All windows click on the green **Downloads** button. 
-2. 
+2. Scroll to find the **Nous Hermes 2 Mistral DPO** model, and then click on the green **Download** button to the right of the model description.
+> _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
+4. Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window. Next, you can get down to business and start testing the language model's accuracy and speed!
 
 
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
