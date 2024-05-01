@@ -43,15 +43,17 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 ## Test GPT4All's Accuracy & Speed
 1. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
-<img src="images/7-first-prompt.png" style="width:600px;" alt="First prompt">
+<img src="images/7-first-prompt.png" style="width:800px;" alt="First prompt">
   - How reasonable do the results look to you?
   - Do you notice any significant omissions from the "not be a good fit" section? Housing availability? Cost of living?
-3. Now let's test GPT4All with something you know a lot about.
-- For Example, personal questions might be good place to start if there was enough information on the public internet for the language models to train on: ```What is Rich McCue from the University of Victoria known for?```
-- Another good way to test GPT3
+3. Now let's test GPT4All with something you know a lot about:
+- For Example, personal questions might be a good place to start if there was enough information on the public internet for the language models to train on: ```What is Rich McCue from the University of Victoria known for?```
+> Make sure to ask a question or two of your own, keeping in mind that it's best to ask about a topic that you know a lot about so that you can evaluate the accuracy of the results! 
+> - Maybe a question about your home town?
+> - Or a question about a recent research project that you've completed?
   
 ## Install and Test another Language Model
-1. If you haven't already, please [**open Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
+1. 
 
 
 [NEXT STEP: Next Activity](#){: .btn .btn-blue }
