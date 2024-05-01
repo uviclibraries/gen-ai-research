@@ -1,8 +1,8 @@
 ---
 layout: default
-title: 10 - GPT4All Getting Started
+title: 7 - Local GenAI Getting Started
 nav_order: 10
-parent: XXXX - Workshop Activities - Intermediate
+parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
