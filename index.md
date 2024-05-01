@@ -33,7 +33,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 At the end of this **Intermediate** portion of this workshop, you will be able to:
 
 1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
-5. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
+5. **COMING SOON:** Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
 6. **COMING SOON:** Use advanced literature review tools for graduate-level research.
 8. **COMING SOON:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
 9. **COMING SOON:** Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
