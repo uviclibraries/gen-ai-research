@@ -38,14 +38,16 @@ Here are some key principles to keep in mind as you create your own prompts:
 >  - **Do you have the weather-related expertise to determine if the weather-related facts are accurate?**
 >  - **Do you have the teaching expertise to know if the weather lesson plan is reasonable and will work well with grade 2 students?**
 > <br>_Note: every time we use GenAI tools we should ask ourselves whether or not we have the expertise to evaluate the accuracy of GenAI-generated text, because as we know they are not always accurate or factual._
-4. Pick one or two topics that you know a lot about (e.g. ```What are the origins of skateboarding?```).
-  - **Ask Microsoft Copilot a question about one of the topics.**
-  - **Is the answer accurate?**
-  - **Can you make it more accurate with follow-up prompts?**
-  - **Ask Copilot a question about your second topic.**
-  - **How did it do for each topic?**
-     - **Was it completely accurate?**
-     - **Did you have to research to verify any of the claims Copilot made?**
+4. Pick one or two topics that you know a lot about (e.g. ```What are the origins of skateboarding?```). 
+>  - **Ask Microsoft Copilot a question about one of the topics.**
+>  - **Is the answer accurate?**
+>  - **Can you make it more accurate with follow-up prompts?**
+>  - **Ask Copilot a question about your second topic.**
+>  - **How did it do for each topic?**
+>     - **Was it completely accurate?**
+>     - **Did you have to research to verify any of the claims Copilot made?**
+<br>
+> **NOTE: If you'd like to earn a workshop badge, please take a picture or screenshot of the prompt and output of one of the tropics you know a lot about as this is one of the criteria to earn a workshop badge.**
 
 ### More Advanced Prompt Design Tips & Tricks
 Please practice each of the following tips by trying out the _"poor"_ and _"better"_ prompts to compare the outputs. If you have time take inspiration from each of the _"better"_ prompts and modify them to use questions for topics that you are interested in, or know a lot about so that you can more easily check the responses for accuracy. Feel free to try modifying the prompts for topics or places that interest you.
@@ -102,6 +104,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 >  - **Do you have enough background knowledge in global warming and teaching to critically evaluate the quality of Copilot's response?**
 >  - **How useful are the detailed activity instructions that Copilot created?**
 >  - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
+<br>
+> **NOTE: If you'd like to earn a workshop badge, please take a picture or screenshot of the prompt and output of one of the tropics you know a lot about as this is one of the criteria to earn a workshop badge.**
 
 ## Let's Practice Idea Generation!
 > Please remember that **you must have permission from your instructor to use GenAI to assist you in any class assignment**. Your instructor may forbid the use of GenAI, allow limited use of GenAI, or all full use of GenAI for specific assignments. Please follow your instructors' guidelines for how to cite and document your use of GenAI in assignments. If you have any questions about using GenAI in your class, please look at your course outline, and if you don't find guidance there, ask your instructor directly, as using GenAI without permission from your instructor is a form of plagiarism and is a violation of UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php). 
