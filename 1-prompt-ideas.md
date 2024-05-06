@@ -81,6 +81,8 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
   - Use your own prompt now and experiment with creating your own images.
+<br>
+> **NOTE: If you'd like to earn a workshop badge, please take a picture or screenshot of the prompt and output for the image you created using your own prompt (and not the one provided) as this is one of the criteria to earn a workshop badge.**
 
 ### Let's Practice More Advanced Prompt Design skills!
 1. Let's use the topic of Global Warming to practice using some advanced prompt design techniques. Type or copy and paste the prompts below into Copilot and then let's look at the results:
@@ -104,8 +106,6 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 >  - **Do you have enough background knowledge in global warming and teaching to critically evaluate the quality of Copilot's response?**
 >  - **How useful are the detailed activity instructions that Copilot created?**
 >  - **Do you know enough to evaluate them? If not where would you find information to help you critically evaluate them?**
-<br>
-> **NOTE: If you'd like to earn a workshop badge, please take a picture or screenshot of the prompt and output of one of the tropics you know a lot about as this is one of the criteria to earn a workshop badge.**
 
 ## Let's Practice Idea Generation!
 > Please remember that **you must have permission from your instructor to use GenAI to assist you in any class assignment**. Your instructor may forbid the use of GenAI, allow limited use of GenAI, or all full use of GenAI for specific assignments. Please follow your instructors' guidelines for how to cite and document your use of GenAI in assignments. If you have any questions about using GenAI in your class, please look at your course outline, and if you don't find guidance there, ask your instructor directly, as using GenAI without permission from your instructor is a form of plagiarism and is a violation of UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php). 
