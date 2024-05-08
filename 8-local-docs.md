@@ -8,39 +8,40 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # GPT4All to Query Local Documents
 <img src="images/8-localdocs.gif" style="float:right;width:520px;" alt="LocalDocs plugin install">
-If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.  Have fun!
+If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
-## Installing GPT4All on Your Laptop
-GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024). GPT4All like other large language models can:
-- Answer questions about the world
-- Help you as a personal writing assistant
-- Understand documents and give you summaries and answers about their content
+## LocalDocs Capabilities
+The LocalDocs plugin allows you to have context about the contents of documents in a local folder on your computer. 
 
-Let's get started installing and using GPT4All for basic tasks!
+**LocalDocs can:**
+- Query your documents based upon your prompt / question. Your documents will be searched for snippets that can be used to provide context for an answer. The most relevant snippets will be inserted into your prompts context, but it will be up to the underlying model to decide how best to use the provided context.
 
-1. **Download GPT4All** onto your laptop. Please select the link for your operating system:
-- [Mac Download](https://gpt4all.io/installers/gpt4all-installer-darwin.dmg){:target="_blank"}
-<br>-OR-
-- [Windows Download](https://gpt4all.io/installers/gpt4all-installer-win64.exe){:target="_blank"}
-2. **Install GPT4All** on your laptop:
-- **Mac Install**:
-  - After downloading the installer, double-click on it.
-  - Next, double-click on the _gpt4all-installer-darwin_ file and follow the installation instructions.
-  - If you have any problems with the installation process, please ask your instructor for assistance.
-- **Windows Install**: 
-  - After downloading the installer, double-click on it.
-  - Next, double-click on the _gpt4all-installer-win64_ file and follow the installation instructions.
-  - If you have any problems with the installation process, please ask your instructor for assistance.
+**LocalDocs cannot:**
+- Answer general metadata queries (e.g. What documents do you know about?, Tell me about my documents)
+- Summarize a single document (e.g. Summarize my magna carta PDF.)
 
-## Install a Language Model into GPT4All
-Now we have _GPT4All_ installed on your laptop, we need to install a large language model before you can start asking it questions. There are a dozen or more models to choose from, but for now, we'll install one of the best overall models (as of Summer 2024) which is the _Llama 3 Instruct_ model. 
-<img src="images/7-download-models.png" style="float:right;width:280px;" alt="Download Models button">
-1. Click on the green **Download models** button in the middle of the windows.
-2. Take a look at all the models available to download, and then click on the green **Install** button beside the _Llama 3 Instruct_ model description.
-> _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
-4. Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window. Next, you can get down to business and start testing the language model's accuracy and speed!
+## Installing the LocalDocs Plugin
 
-## Test GPT4All's Accuracy & Speed
+Let's get started installing the LocalDocs plugin for GPT4All!
+
+1. Open GPT4All on your laptop if you haven't already.
+2. Go to **Settings** > **LocalDocs** tab.
+3. Download the **SBert** model
+4. Identify or create a folder on your computer that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
+5. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
+6. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
+7. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
+8. **FINISH**
+
+## How LocalDocs Works
+
+LocalDocs works by maintaining an index of all data in the directory your collection is linked to. This index consists of small chunks of each document that the LLM can receive as additional input when you ask it a question. The general technique this plugin uses is called Retrieval Augmented Generation.
+
+These document chunks help your LLM respond to queries with knowledge about the contents of your data. The number of chunks and the size of each chunk can be configured in the LocalDocs plugin settings tab.
+
+LocalDocs currently supports plain text files (.txt, .md, and .rst) and PDF files (.pdf).
+
+## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop down box at the middle top of the window.
   - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
@@ -56,25 +57,4 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 > - Maybe a question about your home town?
 > - Or a question about a recent research project that you've completed?
   
-## Install and Test another Language Model
-Let's try installing a second Language Model so that we can compare the results of the questions you've asked the _Llama 3 Instruct_ model with another model: <img src="images/7-download-button.png" style="float:right;width:280px;" alt="Download Models button">
-1. On the bottom left of the GPT4All windows click on the green **Downloads** button. 
-2. Scroll to find the **Nous Hermes 2 Mistral DPO** model, and then click on the green **Download** button to the right of the model description.
-> _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
-4. Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window.
-5. Before we can start testing the new model, we need to tell GPT4All that we want to use the _Nous Hermes 2 Mistral DPO_ model:
-  - Click on the **Choose a model...** drop down box at the middle top of the window.
-  - Select **Nous Hermes 2 Mistral DPO** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
-3. Let's test _GPT4All & Nous Hermes 2 Mistral DPO_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
-```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
-<img src="images/7-first-prompt.png" style="width:800px;" alt="First prompt">
-  - How reasonable do the results look to you?
-  - Do you notice any significant omissions from the "not be a good fit" section? 
-  - Are there any major differences from the _Llama 3 Instruct_ response? Is there any mention of **Cost of living or Housing availability**?
-3. Now let's test the _Nous Hermes 2 Mistral DPO_ model with something you know a lot about:
-- For Example, personal questions might be a good place to start if there was enough information on the public internet for the language models to train on: ```What is Rich McCue from the University of Victoria known for?```
-> Make sure to ask a question or two of your own, keeping in mind that it's best to ask about a topic that you know a lot about so that you can evaluate the accuracy of the results! 
-> - Maybe a question about your home town?
-> - Or a question about a recent research project that you've completed?
-
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
