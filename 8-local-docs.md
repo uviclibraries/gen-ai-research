@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
 # GPT4All to Query Local Documents
-<img src="images/8-localdocs.gif" style="float:right;width:520px;" alt="LocalDocs plugin install">
+<img src="images/8-local-docs.gif" style="float:right;width:520px;" alt="LocalDocs plugin install">
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## LocalDocs Capabilities
