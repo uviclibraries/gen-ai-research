@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 7 - Local GenAI - Getting Started
+title: 8 - Local GenAI - Getting Started
 nav_order: 10
 parent: Workshop Activities - Intermediate
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
