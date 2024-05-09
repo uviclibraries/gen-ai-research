@@ -39,12 +39,14 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 <img src="images/8-sbert2.png" style="width:700px;" alt="SBert download button."><br>
 7. Next, using your laptop's file manager, identify an existing folder or create a folder in your file manager and put files into it that you want GPT4All to query when you ask it to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them (after 1 or 2 minutes).
    - #1 Click on the **Collection name...** field and give your collection a meaningful name. E.g. "Informal Credentials".
-   - #2 Click on the green **Browse** button, and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
+   - #2 Click on the green **Browse** button and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
    - #3 Click on the green **Add** button, to add your first local repository
    - #4 Close dialogue box by clicking on the green **X** in the top right corner.<br>
 <img src="images/8-localdoc-select.png" style="width:700px;" alt="SBert download button."><br>
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
-10. Start a new chat session... 
+10. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen.
+green **X** in the top right corner. <img src="images/8-repository-icon.png" style="float:right;width:320px;" alt="Repository icon">
+11. Start a new chat session... 
 11. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
 12. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
 13. **FINISH**
