@@ -40,10 +40,10 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 7. Next, using your laptop's file manager, identify an existing folder or create a folder in your file manager and put files into it that you want GPT4All to query when you ask it to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them (after 1 or 2 minutes).
    - 1. Click on the **Collection name...** field and give your collection a meaningful name. E.g. "Informal Credentials".
    - 2. Click on the green **Browse** button, and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
-   - 3. Add...
-   - Close dialong box by clicking on the green **X** in the top right corner.<br>
-**IMAGE HERE**<br>
-9. **SETUP DOCUMENT COLLECTION HERE...**
+   - 3. Click on the green **Add** button, to add your first local repository
+   - Close dialogue box by clicking on the green **X** in the top right corner.<br>
+<img src="images/8-localdoc-select.png" style="width:700px;" alt="SBert download button."><br>
+> NOTE: You can setup multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 10. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
 11. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
 12. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
