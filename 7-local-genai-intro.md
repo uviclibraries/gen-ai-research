@@ -14,7 +14,12 @@ If you have any questions or get stuck as you work through this GPT4All exercise
 GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (LLM) chatbot" ([GPT4All](https://gpt4all.io/index.html){:target="_blank"}, 2024). GPT4All like other large language models can:
 - Answer questions about the world
 - Help you as a personal writing assistant
-- Understand documents and give you summaries and answers about their content
+- Understand documents and give you answers about their content
+
+There are many reasons to use GPT4All, an alternative to ChatGPT and other GenAI tools, including:
+- GPT4All is a completely offline solution, so it can be used even if you don't have access to the internet.
+- Being offline also means that all the data you share with it stays on your computer, and GPT4All's creator can't see any of your data or prompts.
+- GPT4All allows you to query local documents in a folder on your laptop that you specify.
 
 Let's get started installing and using GPT4All for basic tasks!
 
