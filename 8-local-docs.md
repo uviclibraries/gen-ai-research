@@ -19,7 +19,7 @@ The main capabilities and limitations of the LocalDocs plugin include:
 - Query groups of documents on your laptop with prompts or questions.
 - The documents in specific folders on your computer that you specify will be searched for snippets that can be used to provide context for an answer.
 - The most relevant snippets will be inserted into your prompts context, but it will be up to the underlying Large Language Model you have chosen to decide how best to use the provided context.
-- **LocalDocs currently supports plain text files** (.txt, .md, and .rst) **and PDF files** (.pdf).
+- **LocalDocs currently supports plain text files** (.txt, .md, and .rst) **and PDF files** (.pdf) only.
 
 **LocalDocs Cannot:**
 - Answer general metadata queries (e.g. What documents do you know about?, Tell me about my documents)
@@ -32,10 +32,9 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 1. Open GPT4All on your laptop if you haven't already.
 2. Click on the **Settings** cog icon on the top right of the window. 
 <img src="images/8-settings-icon.png" style="width:400px;" alt="Settings icon.">
-3. Select the **LocalDocs** button near the top right of the window.
-<img src="images/8-localdocs-button.png" style="width:400px;" alt="LocalDocs button.">
-4. **CONTINUE FROM HERE!**
-5. Download the **SBert** model... 
+3. Select the **LocalDocs** button near the top right of the window (see #1 on the image below).
+5. Download the **SBert** model...
+<img src="images/8-sbert.png" style="width:400px;" alt="LocalDocs & SBert buttons.">
 7. Identify or create a folder on your computer that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
 8. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
 9. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
