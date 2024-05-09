@@ -37,18 +37,25 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 <img src="images/8-sbert.png" style="width:400px;" alt="LocalDocs buttons."><br>
 5. To the right the **SBert** model, click on the **Download** button. After SBert has downloaded click the green X in the top right to close the download window.<br>
 <img src="images/8-sbert2.png" style="width:600px;" alt="SBert download button."><br>
-7. Next, identify a folder or create a folder in your file manager that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
-8. **SETUP DOCUMENT COLLECTION HERE...**
-9. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
-10. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
-11. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
-12. **FINISH**
+7. Next, using your laptop's file manager, identify an existing folder or create a folder in your file manager and put files into it that you want GPT4All to query when you ask it to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them (after 1 or 2 minutes).
+   - Collection name...
+   - Browse...
+   - Add...
+   - Close dialong box by clicking on the green **X** in the top right corner.<br>
+**IMAGE HERE**<br>
+9. **SETUP DOCUMENT COLLECTION HERE...**
+10. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
+11. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
+12. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
+13. **FINISH**
 
 ## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop down box at the middle top of the window.
   - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
 <img src="images/7-select-llm.gif" style="width:800px;" alt="Select the large language model you want to use."><br>
+2. Select a folder on your laptop with documents that you would like the GenAI model to query and largely base it's answers on...
+**FINISH**
 3. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
 <img src="images/7-first-prompt.png" style="width:800px;" alt="First prompt">
