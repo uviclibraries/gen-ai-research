@@ -30,6 +30,7 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 2. Click on the **Settings** cog icon on the top right of the window. 
 <img src="images/8-settings-icon.png" style="width:400px;" alt="Settings icon.">
 3. Select the **LocalDocs** button near the top right of the window.
+<img src="images/8-localdocs-button.png" style="width:400px;" alt="LocalDocs button.">
 4. Download the **SBert** model
 5. Identify or create a folder on your computer that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
 6. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
