@@ -35,13 +35,14 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 3. Select the **LocalDocs** button near the top right of the window (see #1 on the image below).
 4. Click on the **Download** button.<br>
 <img src="images/8-sbert.png" style="width:400px;" alt="LocalDocs buttons."><br>
-5. To the right the **SBert** model, click on the **Download** button.<br>
+5. To the right the **SBert** model, click on the **Download** button. After SBert has downloaded click the green X in the top right to close the download window.<br>
 <img src="images/8-sbert2.png" style="width:600px;" alt="SBert download button."><br>
-7. Identify or create a folder on your computer that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
-8. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
-9. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
-10. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
-11. **FINISH**
+7. Next, identify a folder or create a folder in your file manager that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
+8. **SETUP DOCUMENT COLLECTION HERE...**
+9. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
+10. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
+11. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
+12. **FINISH**
 
 ## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
