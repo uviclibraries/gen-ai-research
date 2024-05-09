@@ -11,7 +11,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you have any questions or get stuck as you work through these activities, please ask the instructor for assistance.
 
 ## Getting Started
-This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
+These activities are primarily hands-on practice with Microsoft 365 and Whisper.ai transcription services to learn to use key features of the software.
 
 **Please Note: If you are a UVic staff or faculty member, you will not be able to use the Whisper.ai transcription software unless your faculty systems support person installs it for you.** Here is a link to the [Windows Software](https://download.gowhisper.io/){:target="_blank"} & the [Mac Software](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}. You will be able to use the Microsoft 365 transcription service without any problems. 
 
