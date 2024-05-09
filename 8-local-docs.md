@@ -41,7 +41,7 @@ LocalDocs works by maintaining an index of all data in the directory your collec
 
 These document chunks help your LLM respond to queries with knowledge about the contents of your data. The number of chunks and the size of each chunk can be configured in the LocalDocs plugin settings tab.
 
-LocalDocs currently supports plain text files (.txt, .md, and .rst) and PDF files (.pdf).
+**LocalDocs currently supports plain text files** (.txt, .md, and .rst) **and PDF files** (.pdf).
 
 ## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
