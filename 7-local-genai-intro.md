@@ -16,9 +16,9 @@ GPT4All is "a free-to-use, locally running, privacy-aware Large Language Model (
 - Help you as a personal writing assistant
 - Understand documents and give you answers about their content
 
-There are many reasons to use GPT4All, an alternative to ChatGPT and other GenAI tools, including:
-- GPT4All is a completely offline solution, so it can be used even if you don't have access to the internet.
-- Being offline also means that all the data you share with it stays on your computer, and GPT4All's creator can't see any of your data or prompts.
+There are many reasons to use a local GenAI tool like GPT4All as an alternative to ChatGPT and other GenAI tools, including:
+- GPT4All is a completely offline application, so it can be used even if you don't have access to the internet.
+- Being offline also means that all the data you share with it stays on your computer, and GPT4All's creators can't see any of your data or prompts.
 - GPT4All allows you to query local documents in a folder on your laptop that you specify.
 
 Let's get started installing and using GPT4All for basic tasks!
