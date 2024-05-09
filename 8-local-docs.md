@@ -11,12 +11,12 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## LocalDocs Plugin Capabilities
-The LocalDocs plugin that GPT4All provides allows you to query or ask questions about the contents of documents in a local folder on your computer. 
+The GPT4All _LocalDocs_ plugin allows you to query or ask questions about the contents of documents in a local folder on your computer. The main capabilities and limitations of the LocalDocs plugin include:
 
-**LocalDocs can:**
+**LocalDocs Can:**
 - Query groups of documents on your laptop with prompts or questions. The documents in specific folders on your computer that you specify will be searched for snippets that can be used to provide context for an answer. The most relevant snippets will be inserted into your prompts context, but it will be up to the underlying model you have chosen to decide how best to use the provided context.
 
-**LocalDocs cannot:**
+**LocalDocs Cannot:**
 - Answer general metadata queries (e.g. What documents do you know about?, Tell me about my documents)
 - **Summarize a single document** (e.g. Summarize my magna carta PDF.)
 
