@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Transcription with Whisper.ai and Microsoft 365
 <img src="https://uviclibraries.github.io/transcription/media/whisper-ai-logo.png" style="float:right;width:200px;" alt="Whisper.ai logo">
-If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
+If you have any questions or get stuck as you work through these activities, please ask the instructor for assistance.
 
 ## Getting Started
 This workshop is primarily hands-on practice with Microsoft 365 and Whisper transcription services to learn to use key features of the software.
