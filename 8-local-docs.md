@@ -44,8 +44,8 @@ Let's get started installing the LocalDocs plugin for GPT4All!
    - #4 Close dialogue box by clicking on the green **X** in the top right corner.<br>
    <img src="images/8-localdoc-select.png" style="width:700px;" alt="SBert download button."><br> 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
-7. <img src="images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen.  
-8. Start a new chat by clicking on the green **+ New chat** button session... 
+7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
+8. Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
 9. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
 10. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
 11. **FINISH**
