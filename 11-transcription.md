@@ -17,7 +17,7 @@ These activities are primarily hands-on practice with Microsoft 365 and Whisper.
 
 Here is a link to download the Whisper.ai software on Mac & Windows:
 - [**Windows Software**](https://download.gowhisper.io/){:target="_blank"}
-- [**Mac Software**](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}.
+- [**Mac Software**](https://goodsnooze.gumroad.com/l/macwhisper){:target="_blank"}
 
 ## Workshop Activities
 
