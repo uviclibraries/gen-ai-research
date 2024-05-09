@@ -27,13 +27,15 @@ The GPT4All _LocalDocs_ plugin allows you to query or ask questions about the co
 Let's get started installing the LocalDocs plugin for GPT4All!
 
 1. Open GPT4All on your laptop if you haven't already.
-2. Go to **Settings** > **LocalDocs** tab.
-3. Download the **SBert** model
-4. Identify or create a folder on your computer that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
-5. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
-6. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
-7. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
-8. **FINISH**
+2. Click on the **Settings** cog icon on the top right of the window. 
+<img src="images/8-settings-icon.png" style="width:400px;" alt="Settings icon.">
+3. Select the **LocalDocs** button near the top right of the window.
+4. Download the **SBert** model
+5. Identify or create a folder on your computer that contains the files you want GPT4All to have access to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them.
+6. Spin up a chat session with any LLM (including external ones like ChatGPT but warning data will leave your machine!)
+7. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
+8. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
+9. **FINISH**
 
 ## How LocalDocs Works
 
