@@ -52,12 +52,12 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop-down box at the middle top of the window.
   - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
-<img src="images/7-select-llm.gif" style="width:800px;" alt="Select the large language model you want to use."><br>
-2. Let's test _GPT4All & Llama 3 Instruct_ combined with your local document repository by asking it a question that you know the response to in your document library. For example my documents have information on informal credentials so I'll use this query (yours should be different):<br>
-```﻿Are informal credentials students earn from academic makerspaces useful in helping them secure jobs?.```<br>
-  - How reasonable do the results look to you?
-  - Do you notice any significant errors or omissions that you know from what is in your local documents? 
-3. Make sure to ask a question or two that you know the answers to so that you can evaluate the accuracy of the results! 
+2. Let's test _GPT4All & Llama 3 Instruct_ combined with your local document repository by asking it a question that you know the response to in your document library. For example, my local documents have information on informal credentials so I'll use the following query (**your prompte should be different**):<br>
+```﻿Are informal credentials students earn from academic makerspaces useful in helping them secure jobs?```<br>
+  - How reasonable do the results look for your query?
+  - Do you notice any significant errors or omissions that you know from what is in your local documents?
+  - Have to tried asking for more details or for it to make a 500 word summary for example?
+3. Make sure to ask another question or two that you know the answers to so that you can further evaluate the accuracy of the results! 
 > - How did it do?
 > - Any factual errors?
 > - Any omissions?
