@@ -46,26 +46,20 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 8. Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
-9. At the top right, click the database icon and select which collection you want your LLM to know about during your chat session.
-10. You can begin searching with your local documents even before the collection has completed indexing, but note the search will not include those parts of the collection yet to be indexed.
-11. **FINISH**
+9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test LocalDocs Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop-down box at the middle top of the window.
   - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
 <img src="images/7-select-llm.gif" style="width:800px;" alt="Select the large language model you want to use."><br>
-2. Select a folder on your laptop with documents that you would like the GenAI model to query and largely base it's answers on...
-**FINISH**
-3. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
-```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
-<img src="images/7-first-prompt.png" style="width:800px;" alt="First prompt">
+2. Let's test _GPT4All & Llama 3 Instruct_ combined with your local document repository by asking it a question that you know the response to in your document library. For example my documents have information on informal credentials so I'll use this query (yours should be different):<br>
+```﻿Are informal credentials students earn from academic makerspaces useful in helping them secure jobs?.```<br>
   - How reasonable do the results look to you?
-  - Do you notice any significant omissions from the "not be a good fit" section? Housing availability? Cost of living?
-3. Now let's test GPT4All with something you know a lot about:
-- For Example, personal questions might be a good place to start if there was enough information on the public internet for the language models to train on: ```What is Rich McCue from the University of Victoria known for?```
-> Make sure to ask a question or two of your own, keeping in mind that it's best to ask about a topic that you know a lot about so that you can evaluate the accuracy of the results! 
-> - Maybe a question about your home town?
-> - Or a question about a recent research project that you've completed?
+  - Do you notice any significant errors or omissions that you know from what is in your local documents? 
+3. Make sure to ask a question or two that you know the answers to so that you can evaluate the accuracy of the results! 
+> - How did it do?
+> - Any factual errors?
+> - Any omissions?
   
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
