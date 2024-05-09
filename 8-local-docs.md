@@ -34,9 +34,9 @@ Let's get started installing the LocalDocs plugin for GPT4All!
 <img src="images/8-settings-icon.png" style="width:400px;" alt="Settings icon."><br>
 3. Select the **LocalDocs** button near the top right of the window (see #1 on the image below).
 4. Click on the **Download** button.<br>
-<img src="images/8-sbert.png" style="width:400px;" alt="LocalDocs buttons."><br>
+<img src="images/8-sbert.png" style="width:500px;" alt="LocalDocs buttons."><br>
 5. To the right the **SBert** model, click on the **Download** button. After SBert has downloaded click the green X in the top right to close the download window.<br>
-<img src="images/8-sbert2.png" style="width:600px;" alt="SBert download button."><br>
+<img src="images/8-sbert2.png" style="width:700px;" alt="SBert download button."><br>
 7. Next, using your laptop's file manager, identify an existing folder or create a folder in your file manager and put files into it that you want GPT4All to query when you ask it to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them (after 1 or 2 minutes).
    - Collection name...
    - Browse...
