@@ -69,7 +69,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - Initial: ```Weather in London.```
   - Refined: ```What is the weather forecast for London, UK, for the upcoming weekend, including any weather warnings? Provide sources.```
   - Use your own prompt now and experiment with iterating or refining your request.
-6. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results:
+6. **Prompt Chaining** by using the output of one prompt as the input for another to build on responses or refine results (much like a conversation):
   - First Prompt: ```What are the key factors that affect local weather conditions?```
   - Second Prompt (following the first response): ```Considering those factors, what is the likely weather forecast for San Francisco next week? Provide sources.```
   - Use your own prompt now and experiment with prompt chaining.
@@ -77,7 +77,9 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 <br><img src="images/1-weather-student.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the weather">
   - Previous Successful Prompt: ```Explain the concept of EL NIÑO and its impact on global weather patterns.```
   - New Prompt (leveraging precedent): ```Explain the concept of LA NIÑA and its impact on global weather patterns. Provide sources.```
-8. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
+8. **Assign a role** to the GenAI to the tool in order to provide additional context for the result: 
+```You are the head of a creative department for a leading advertising agency...```
+9. **Create an Image** in Copilot. The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
 (Note: The free version ChatGPT (3.5) as of March 2024 does not allow users to generate images):
   - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
   - Use your own prompt now and experiment with creating your own images.
