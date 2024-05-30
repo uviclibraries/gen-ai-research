@@ -30,7 +30,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 
 # The Environment
 The primary environmental impacts of Generative AI largely stem from the significant energy consumption associated with training and operating these models. Here are a few key points to consider:
-
+<img src="images/5-server-farm.jpg" style="float:right;width:320px;" alt="An image of a row of computer servers.">
 1. Energy Consumption:
 - Generative AI models, especially large ones, consume vast amounts of energy during training and inference.
 - For instance, OpenAI’s ChatGPT (created in San Francisco, California) is estimated to consume the energy equivalent of 33,000 homes1.
