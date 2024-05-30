@@ -26,7 +26,7 @@ Here are some key principles to keep in mind as you create your own prompts:
 
 ### Let's Practice!
 1. If you haven't already, in your favourite web browser please open [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. 
-> Note: You are free to use other GenAI tools for this workshop but please note that you will either have to create accounts for most of these services if you have not already done so, and will need to take extra steps to preserve your privacy.:
+> Note: You are free to use other GenAI tools for this workshop but please note that you will either have to create accounts for most of these services if you have not already done so, and will need to take extra steps to preserve your privacy if privacy is important to you:
 >  - [ChatGPT](https://chat.openai.com/){:target="_blank"}
 >  - [Meta.ai](https://www.meta.ai/){:target="_blank"}
 >  - [Perplexity](https://www.perplexity.ai/){:target="_blank"}
