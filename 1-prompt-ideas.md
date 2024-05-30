@@ -29,7 +29,7 @@ Here are some key principles to keep in mind as you create your own prompts:
 > Note: You are free to use other GenAI tools for this workshop but please note that you will either have to create accounts for most of these services if you have not already done so, and will need to take extra steps to preserve your privacy if privacy is important to you:
 >  - [ChatGPT](https://chat.openai.com/){:target="_blank"}
 >  - [Meta.ai](https://www.meta.ai/){:target="_blank"}
->  - [Perplexity](https://www.perplexity.ai/){:target="_blank"}
+>  - [Claude.ai](https://claude.ai/){:target="_blank"}
 >  - [Google Gemini](https://gemini.google.com/){:target="_blank"} 
 2. Test a poor prompt to start with. Copy and paste the following text into your GenAI tool and note the results:<br>
 ```Tell me about the weather.```<br>
