@@ -24,8 +24,8 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 <br><img src="images/5-chatgpt-privacy.png"  alt="ChatGPT privacy screenshot"><br>
 
 ## Privacy & Data Collection in Perplexity.ai
-1. The good news is that you can change the privacy settings in ChatGPT so that your user data and prompts are not used by ChatGPT as training Data.
-2. Follow the instructions below to stop ChatGPT from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
+1. The good news is that you can change the privacy settings in Perplexity so that your user data and prompts are not used by Perplexity as training Data.
+2. Follow the instructions below to stop Perplexity from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
 <br><img src="images/5-perplexity-privacy.png"  alt="Perplexity privacy screenshot"><br>
 
 # The Environment
