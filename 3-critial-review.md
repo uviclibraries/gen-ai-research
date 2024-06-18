@@ -52,13 +52,13 @@ Remember, while these strategies can help reduce the likelihood of encountering 
 
 ## Let's Practice!
 1. Choose a topic that you know a lot about. For example: I know a lot about the manager of the DSC, Rich McCue.
-2. Ask Copilot a few questions about a topic that you know the answers to. For Example: ```What is Rich McCue from the University of Victoria known for?```
+2. Ask your GenAI tool a few questions about a topic that you know the answers to. For Example: ```What is Rich McCue from the University of Victoria known for?```
   - Copilot's response: "Rich McCue is known for managing the University of Victoria Libraries Digital Scholarship Commons, where he helps students, faculty, and staff learn to create accessible scholarly communications. He provides digital tools like 3D printers, electronics kits, Virtual Reality equipment, and data visualization software, and teaches people how to use them. Rich is also a sessional instructor in the Faculty of Education at the University of Victoria, where he teaches educational technology-related classes to undergraduate students. His research interests include informal credentialing, active learning pedagogies, flipped learning, makerspaces, and open learning​​​​. Additionally, Rich is pursuing a Masters of Arts in Education with Dr. Valerie Irvine, focusing on exploring the relative effectiveness of blended classroom / project-based pedagogy compared to a lecture-based pedagogy for information literacy instruction​​."
-4. How did Copilot do for this question? Not bad, in that it is almost completely correct, except that it says that Rich McCue is "pursuing a Master of Arts in Education." In reality, Rich earned that degree 8 years ago. So close, but not 100% accurate.
+4. How did your GenAI tool do for this question? Not bad, in that it is almost completely correct, except that it says that Rich McCue is "pursuing a Master of Arts in Education." In reality, Rich earned that degree 8 years ago. So close, but not 100% accurate.
 > Note: If you use information from a GenAI tool for an assignment with mistakes that you repeat, it will lower your grade.
 
 ## Reflection time:
-> - **How did Copilot do when it answered your questions? Any inaccuracies?**
+> - **How did your GenAI tool do when it answered your questions? Any inaccuracies?**
 > - **How will you try to craft your prompts to make the response less biased and more inclusive?**
 > - **What are the key things you can do to critically review GenAI generated responses?**
 
