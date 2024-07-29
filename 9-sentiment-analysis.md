@@ -31,36 +31,50 @@ In this workshop, we will explore how to use GPT4All & Python for sentiment anal
 
 ## Install GPT4All (if you haven't already)
 
-If you haven't already, please install [GPT4All on your laptop](7-local-genai-intro.html){:target="_blank"}.
+- If you haven't already, please install [GPT4All on your laptop](7-local-genai-intro.html){:target="_blank"}.
 
 NOTE: If you are on a UVic-managed computer you will need to ask your local IT staff member to install this software and Python on your laptop for you. If you're not sure who to ask to install the software, please email the UVic Computer Helpdesk for assistance: [helpdesk@uvic.ca](mailto:helpdesk@uvic.ca).
 
-## Installing the Python & Python Libraries
+## Test GPT4All for Sentiment Analysis
 
-Put instructions here...
+1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
+  - Click on the **Choose a model...** drop-down box at the middle top of the window.
+  - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
+2. Let's test _GPT4All & Llama 3 Instruct_  by asking it...:<br>
+```﻿Are informal credentials students earn from academic makerspaces useful in helping them secure jobs?```<br>
+  - How reasonable do the results look for your query?
+  - Do you notice any significant errors or omissions that you know from what is in your local documents?
+  - Have to tried asking for more details or for it to make a 500 word summary for example?
+3. Make sure to ask another question or two that you know the answers to so that you can further evaluate the accuracy of the results! 
+> - How did it do?
+> - Any factual errors?
+> - Any omissions?
 
-## P
+## Install Python 
 
+1. Put instructions here...
+2. More here.
+
+## Install Python Libraries
+
+1. Put instructions here...
+
+## Install a Code Editor
+
+1. Download the [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} Editor.
+2. Install...
+
+## Getting Started
 
 Let's get started installing the LocalDocs plugin for GPT4All!
 
 1. Open GPT4All on your laptop if you haven't already.
-2. Click on the **Settings** cog icon on the top right of the window.<br>
-<img src="images/8-settings-icon.png" style="width:400px;" alt="Settings icon."><br>
-3. Select the **LocalDocs** button near the top right of the window (see #1 on the image below).
-4. Click on the **Download** button.<br>
-<img src="images/8-sbert.png" style="width:500px;" alt="LocalDocs buttons."><br>
-5. To the right the **SBert** model, click on the **Download** button. After SBert has downloaded click the green X in the top right to close the download window.<br>
-<img src="images/8-sbert2.png" style="width:700px;" alt="SBert download button."><br>
-6. Next, using your laptop's file manager, identify an existing folder or create a folder in your file manager and put files into it that you want GPT4All to query when you ask it to. You can alter the contents of the folder/directory at any time. As you add more files to your collection, your LLM will dynamically be able to access them (after 1 or 2 minutes).
-   - #1 Click on the **Collection name...** field and give your collection a meaningful name. E.g. "Informal Credentials".
    - #2 Click on the green **Browse** button and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
    - #3 Click on the green **Add** button, to add your first local repository
    - #4 Close dialogue box by clicking on the green **X** in the top right corner.<br>
    <img src="images/8-localdoc-select.png" style="width:700px;" alt="SBert download button."><br> 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
-8. Start a new chat by clicking on the green **+ New chat** button session on the top left of the screen.
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test LocalDocs Accuracy & Speed
