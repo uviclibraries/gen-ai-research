@@ -57,13 +57,16 @@ Python is a programming language that is often used by researchers to assist the
 ## Install the Python GPT4All Library
 In order for Python to have access to all the wonderful GPT4All tools, you need to install the GPT4All Python library:
 1. If you are using a **Mac computer** please do the following:
-   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_.<br>
-   - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.<br>
+   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
+   - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
+   - type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br>
 <img src="images/9-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 2. If you are using a **Windows computer** please do the following:
    - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
-   - Type **cmd** in the Run command box.
-3. In the com
+   - Type **Microsoft Store** in the Run command box and click the **Microsoft Store icon**.
+   - In the search bar at the top, type **Python** and press **Enter** on your keyboard.
+   - Click on the **Free** button beside the most recent version of Python.
+   - Click on the blue **Get** button to install Python on your computer.
 
 # .... UNDER CONSTRUCTION FROM THIS POINT ON ....
 ## Install a Code Editor
