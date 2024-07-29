@@ -41,6 +41,7 @@ Let's take a closer look at the classification that the GenAI model assigned to 
 > - Do the reasons that the GenAI tool gave for the "Neutral" classification look reasonable to you?
 > - How would you have classified the feedback, Positive, Neutral, or Negative?
 > - Do you think that this type of automated sentiment analysis could be useful in any of your upcoming research projects?
+<img src="images/9-gpt4all-manual.png" style="width:500px;padding:10px;" alt="GPT4all manual sentiment analysis example"><br>
 
 ## Install Python 
 Python is a programming language that is often used by researchers to assist them in analyzing their research data.
