@@ -9,6 +9,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # Use GPT4All & Python for Survey Question Sentiment Analysis
 <img src="images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
+Years ago as a research assistant, I worked on an interesting project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a very helpful tool for researchers wanting to conduct similar analyses today.
+
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## Capabilities & Considerations
