@@ -33,7 +33,7 @@ In this workshop, we will explore how to use GPT4All & Python for sentiment anal
 ## Manual GPT4All Sentiment Analysis Test
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Find model...** drop-down box at the middle top of the window.
-  - Select **Llama 3 Instruct** model, or the latest Llama model if the Llama 3 model is not available. Depending on the speed of your laptop, it should take between take between 10 to 90 seconds for the model to finish loading.
+  - Select **Llama 3 Instruct** model, or the _latest Llama model_ if the _Llama 3 Instruct model_ is not available. Depending on the speed of your laptop, it should take between 10 to 90 seconds for the model to finish loading.
 2. Let's test _GPT4All & Llama 3 Instruct_  by asking it to provide a sentiment analysis from unstructured feedback from a customer satisfaction survey:<br>
 ```Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Provide a bullet list of reasons for the sentiment classification Here is the survey response: I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.```<br>
 Let's take a closer look at the classification that the GenAI model assigned to the survey feedback: 
@@ -41,7 +41,7 @@ Let's take a closer look at the classification that the GenAI model assigned to 
 > - Do the reasons that the GenAI tool gave for the "Neutral" classification look reasonable to you?
 > - How would you have classified the feedback, Positive, Neutral, or Negative?
 > - Do you think that this type of automated sentiment analysis could be useful in any of your upcoming research projects?
-<img src="images/9-gpt4all-manual.png" style="width:500px;padding:10px;" alt="GPT4all manual sentiment analysis example"><br>
+<img src="images/9-gpt4all-manual.png" style="width:800px;padding:10px;" alt="GPT4all manual sentiment analysis example"><br>
 
 ## Install Python 
 Python is a programming language that is often used by researchers to assist them in analyzing their research data.
