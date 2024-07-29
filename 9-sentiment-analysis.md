@@ -48,11 +48,15 @@ Let's take a closer look at the "Neutral" classification that the GenAI model as
 
 ## Install Python 
 Python is a programming language that is often used by researchers to assist them in analyzing their research data.
-1. Download the most recent version of Python for your computer (Note: If you have a computer that is managed by the University of Victoria, or the company you work for, you may need to contact your IT department to install Python on your computer):
+1. For Mac Computers download the most recent version of Python for your computer (Note: If you have a computer that is managed by the University of Victoria, or the company you work for, you may need to contact your IT department to install Python on your computer):
   - [Mac](https://www.python.org/downloads/macos/){:target="_blank"}
-  - [Windows](https://www.python.org/downloads/windows/){:target="_blank"}
-2. Install Python on your computer by finding the location your web browser downloaded the Python install file to (usually a downloads folder or your desktop), and then Double click on the installer file.
-3. Follow the installer instructions.
+  - Install Python on your computer by finding the location your web browser downloaded the Python install file to (usually a downloads folder or your desktop), and then Double click on the installer file.
+2. For Windows Computers:
+   - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+   - Type **Microsoft Store** in the Run command box and click the **Microsoft Store icon**.
+   - In the search bar at the top, type **Python** and press **Enter** on your keyboard.
+   - Click on the **Free** button beside the most recent version of Python.
+   - Click on the blue **Get** button to install Python on your computer.
 
 ## Install the Python GPT4All Library
 In order for Python to have access to all the wonderful GPT4All tools, you need to install the GPT4All Python library:
@@ -63,10 +67,8 @@ In order for Python to have access to all the wonderful GPT4All tools, you need 
 <img src="images/9-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 2. If you are using a **Windows computer** please do the following:
    - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
-   - Type **Microsoft Store** in the Run command box and click the **Microsoft Store icon**.
-   - In the search bar at the top, type **Python** and press **Enter** on your keyboard.
-   - Click on the **Free** button beside the most recent version of Python.
-   - Click on the blue **Get** button to install Python on your computer.
+   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
+   - Type ```python3.exe -m pip install gpt4all``` and then press **Enter** button on your keyboard.
 
 # .... UNDER CONSTRUCTION FROM THIS POINT ON ....
 ## Install a Code Editor
