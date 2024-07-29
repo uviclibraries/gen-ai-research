@@ -58,9 +58,11 @@ Python is a programming language that is often used by researchers to assist the
 ## Install the Python GPT4All Library
 In order for Python to have access to all the wonderful GPT4All tools, you need to install the GPT4All Python library:
 1. If you are using a Mac computer please do the following:
-   - 
+   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_.<br>
+   - More here...
+<img src="images/9-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 2. If you are using a Windows computer please do the following:
-   - 
+   - Windows instructions here...
 
 ## Install a Code Editor
 1. Download the [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} Editor.
