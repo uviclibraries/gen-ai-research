@@ -63,18 +63,18 @@ In order for Python to have access to all the wonderful GPT4All tools, you need 
 1. If you are using a **Mac computer** please do the following:
    - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
    - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
-   - type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br>
+   - In the terminal type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br>
 <img src="images/9-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 2. If you are using a **Windows computer** please do the following:
    - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
    - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
    - Type ```python3.exe -m pip install gpt4all``` and then press **Enter** button on your keyboard.
 
-# .... UNDER CONSTRUCTION FROM THIS POINT ON ....
 ## Install a Code Editor
 1. Download the [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} Editor.
 2. Install...
 
+# .... UNDER CONSTRUCTION FROM THIS POINT ON ....
 ## Getting Started
 Let's get started...
 
