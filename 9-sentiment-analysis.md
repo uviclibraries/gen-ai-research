@@ -8,7 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # !!!! UNDER CONSTRUCTION !!!!
 
 # Use GPT4All & Python for Survey Question Sentiment Analysis
-<img src="images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;" alt="Sentiment Analysis Visualization">
+<img src="images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:5px;" alt="Sentiment Analysis Visualization">
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## Sentiment Analysis with GPT4All Capabilities
