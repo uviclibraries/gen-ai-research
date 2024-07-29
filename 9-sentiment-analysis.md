@@ -36,6 +36,7 @@ In this workshop, we will explore how to use GPT4All & Python for sentiment anal
   - Select **Llama 3 Instruct** model, or the _latest Llama model_ if the _Llama 3 Instruct model_ is not available. Depending on the speed of your laptop, it should take between 10 to 90 seconds for the model to finish loading.
 2. Let's test _GPT4All & Llama 3 Instruct_ for Sentiment Analysis by clicking the green **+ New Chat** button (top left of the app), then copy and paste the following prompt into the **Send a message...** field at the bottom of the app:<br>
 ```Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Provide a bullet list of reasons for the sentiment classification Here is the survey response: I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.```<br>
+
 <img src="images/9-gpt4all-manual-2.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 Let's take a closer look at the "Neutral" classification that the GenAI model assigned to the survey feedback: 
 > - Overall does the "Neutral" classification of the survey feedback look accurate?
@@ -54,9 +55,12 @@ Python is a programming language that is often used by researchers to assist the
 3. Follow the installer instructions.
 
 # .... UNDER CONSTRUCTION FROM THIS POINT ON ....
-
-## Install Python GPT4All Library
-1. Open the 
+## Install the Python GPT4All Library
+In order for Python to have access to all the wonderful GPT4All tools, you need to install the GPT4All Python library:
+1. If you are using a Mac computer please do the following:
+   - 
+2. If you are using a Windows computer please do the following:
+   - 
 
 ## Install a Code Editor
 1. Download the [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} Editor.
