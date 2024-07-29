@@ -8,23 +8,28 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # !!!! UNDER CONSTRUCTION !!!!
 
 # Use GPT4All & Python for Survey Question Sentiment Analysis
-<img src="images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:5px;" alt="Sentiment Analysis Visualization">
+<img src="images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
-## Sentiment Analysis with GPT4All Capabilities
-The GPT4All _LocalDocs_ plugin allows you to query or ask questions about the contents of documents in a local folder on your computer.  LocalDocs works by creating and maintaining an index of all data in a folder on your computer that you specify. This index consists of small chunks of each document that the LLM can receive as additional input when you ask it a question. The general technique this plugin uses is called Retrieval Augmented Generation (RAG).
+## Sentiment Analysis with GPT4All: Capabilities
+Generative AI tools like GPT4All are revolutionizing the way we process and analyze text data. One particularly promising application lies in the realm of sentiment analysis for short survey responses. By leveraging the power of these tools, researchers can efficiently extract valuable insights from large datasets, uncovering trends, patterns, and overall sentiment with unprecedented speed and accuracy.
 
-The main capabilities and limitations of the LocalDocs plugin include:
+**Pros of using generative AI for sentiment analysis:**
 
-**GPT4All Can Do:**
-- Query groups of documents on your laptop with prompts or questions.
-- The documents in specific folders on your computer that you specify will be searched for snippets that can be used to provide context for an answer.
-- The most relevant snippets will be inserted into your prompts context, but it will be up to the underlying Large Language Model you have chosen to decide how best to use the provided context.
-- **LocalDocs currently supports plain text files** (.txt, .md, and .rst) **and PDF files** (.pdf) only.
+- Efficiency: Automatically process vast amounts of text data in a fraction of the time it would take manual analysis.
+- Scalability: Handle large-scale survey data with ease, enabling comprehensive analysis.
+- Accuracy: Advanced language models can often outperform traditional sentiment analysis methods, providing more reliable results.
+- Flexibility: Adapt to various text formats and lengths, making it suitable for diverse survey designs.
+- Insight generation: Beyond sentiment classification, generative AI can extract themes, topics, and even generate summaries of responses.
 
-**LocalDocs Cannot Do:**
-- Answer general metadata queries (e.g. What documents do you know about?, Tell me about my documents)
-- **Summarize a single document** (e.g. Summarize my magna carta PDF.)
+**Cons of using generative AI for sentiment analysis:**
+
+- Model limitations: While powerful, generative AI models may struggle with complex language, sarcasm, or nuanced sentiment expressions.
+- Data quality dependence: The accuracy of sentiment analysis relies heavily on the quality and quantity of training data.
+- Interpretability: Understanding the underlying reasons for a model's sentiment prediction can be challenging, limiting explainability.
+- Potential biases: Generative AI models can inherit biases present in the training data, affecting the accuracy and fairness of results.
+
+In this workshop, we will explore how to harness the potential of GPT4All for sentiment analysis while being mindful of its limitations. By understanding both the strengths and weaknesses of these tools, you can effectively leverage them to enhance your research and uncover valuable insights from your survey data.
 
 ## Install GPT4All (if you haven't already)
 
