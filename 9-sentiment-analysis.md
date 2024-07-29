@@ -12,7 +12,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## Sentiment Analysis with GPT4All: Capabilities
-Generative AI tools like GPT4All are revolutionizing the way we process and analyze text data. One particularly promising application lies in the realm of sentiment analysis for short survey responses. By leveraging the power of these tools, researchers can efficiently extract valuable insights from large datasets, uncovering trends, patterns, and overall sentiment with unprecedented speed and accuracy.
+Generative AI tools like GPT4All are revolutionizing how researchers process and analyze research data locally on their laptops. One promising use case is using GenAI tools to perform sentiment analysis on large numbers of short survey responses. Using these tools allows researchers to more quickly, efficiently, and reliably identify valuable insights from short survey question responses, or tweets for example, to uncover trends, patterns, and overall. 
 
 **Pros of using generative AI for sentiment analysis:**
 
