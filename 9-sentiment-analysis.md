@@ -31,7 +31,7 @@ In this workshop, we will explore how to use GPT4All & Python for sentiment anal
 
 ## Install GPT4All (if you haven't already)
 
-- If you haven't already, please install [GPT4All on your laptop](7-local-genai-intro.html){:target="_blank"}.
+- If you haven't already, please install [GPT4All on your laptop](7-local-genai-intro.html){:target="_blank"} and then come back to this web page.
 
 NOTE: If you are on a UVic-managed computer you will need to ask your local IT staff member to install this software and Python on your laptop for you. If you're not sure who to ask to install the software, please email the UVic Computer Helpdesk for assistance: [helpdesk@uvic.ca](mailto:helpdesk@uvic.ca).
 
