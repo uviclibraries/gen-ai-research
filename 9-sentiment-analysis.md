@@ -75,9 +75,8 @@ Let's get started...
    - #2 Click on the green **Browse** button and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
    - #3 Click on the green **Add** button, to add your first local repository
    - #4 Close dialogue box by clicking on the green **X** in the top right corner.<br>
-   <img src="images/8-localdoc-select.png" style="width:700px;" alt="SBert download button."><br> 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
-7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. <img src="images/8-repository-icon.png" style="float:right;width:280px;" alt="Repository icon">Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
+7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test LocalDocs Accuracy & Speed
