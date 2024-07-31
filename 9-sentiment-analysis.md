@@ -78,7 +78,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
 
 # UNDER CONSTRUCTION FROM THIS POINT ON
 ## Use Python & GPT4All to Automate Sentiment Analysis
-1. Open GPT4All the Visual Studio Code (or your favourite code editor if you have one) on your laptop if you haven't already.
+1. Open the Visual Studio Code you just installed (or your favourite code editor if you have one) on your laptop if you haven't already.
 2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
    - If you are on a Mac, click on the **Documents** menu item on the left of the dialogue box. Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button. Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
