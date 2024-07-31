@@ -80,10 +80,12 @@ If you have a preferred coded editor please go ahead and use it for the followin
 ## Use Python & GPT4All to Automate Sentiment Analysis
 1. Open GPT4All the Visual Studio Code (or your favourite code editor if you have one) on your laptop if you haven't already.
 2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
-3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.<br>
+3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
+   - If you are on a Mac, click on the **Documents** menu item on the left of the dialogue box. Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button. Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
+   - If you are on a Windows computer, click on...<br>
 <img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
-4. More here...
-5. 
+5. More here...
+6. 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
