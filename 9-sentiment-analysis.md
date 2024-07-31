@@ -76,17 +76,14 @@ If you have a preferred coded editor please go ahead and use it for the followin
 2. Open the install file you just downloaded (it's usually found either in your download folder, or desktop).
 3. Follow the installation instructions.
 
-# .... UNDER CONSTRUCTION FROM THIS POINT ON ....
-## Use Python to Automate Sentiment Analysis with GPT4All
-
-1. Open GPT4All on your laptop if you haven't already.
-   - #2 Click on the green **Browse** button and navigate with your file manager to the location of the folder you want GPT4All to use as local training data.
-   - #3 Click on the green **Add** button, to add your first local repository
-   - #4 Close dialogue box by clicking on the green **X** in the top right corner.<br>
+## Use Python & GPT4All to Automate Sentiment Analysis
+1. Open GPT4All the Visual Code Studio (or your favourite code editor if you have one) on your laptop if you haven't already.
+2. 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
+# .... UNDER CONSTRUCTION FROM THIS POINT ON ....
 ## Test for Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop-down box at the middle top of the window.
