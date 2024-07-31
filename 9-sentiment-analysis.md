@@ -84,13 +84,42 @@ If you have a preferred coded editor please go ahead and use it for the followin
    - If you are on a Mac, click on the **Documents** menu item on the left of the dialogue box. Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button. Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
    - If you are on a Windows computer, click on... **[INSTRUCTIONS HERE WHEN DONE]**<br>
 <img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
-5. Next you're going to create a file to put your Python script in, and give it a descriptive name:
+4. Next you're going to create a file to put your Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
-   - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name).
+   - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
+5. Let's start adding some Python code now to make sure everything is setup properly on your computer. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
+```
+from gpt4all import GPT4All
+import csv
+
+# Load the LLM you would like to use for your project
+model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads / loads a 4.66GB LLM
+
+#provide the prompt for the sentimate analysis here, including details like the sentimate cagetories you'd like it to use.
+prompt = "Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Here is the survey response: "
+
+# Intialize the feedback list where we will store the feedback comments
+feedback = []
+
+# Put each of the feedback items into this list (followed by a comma, except for the last feedback). For a real research project you'd probably be reading the feedback out of an CSV file, and then writing the feedback and GenAI generated sentimate to a new CSV file.
+feedback = [
+    "After the workshop, I understand how the digital dashboard works. Thank you for offering this workshop.",
+    "I arrived late after the intro and demo, and my experience was great. I would be better equipped had I came on time. Rich was very helpful and we were encouraged to reach out if we need additional support.",
+    "I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.",
+    "I find when the instructors in your courses talk, that it interrupts my concentration when I am learning. Once the self-paced activity begins, could they put they speak once and tell us that they will put comments in the chat instead?"
+]
+
+print("\n")
+
+with model.chat_session():
+    for x in feedback:
+        print("\n" + "Feedback: " + x) # The \n puts the Feedback text on a new line
+        print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
+        print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
+```
+6. **File** -> **Save**...
 7. 
-> NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
-7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test for Accuracy & Speed
