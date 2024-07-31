@@ -89,7 +89,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
    - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
 5. Let's start adding some Python code now to make sure everything is setup properly on your computer. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
-{% highlight python linenos %}
+{% highlight python %}
   from gpt4all import GPT4All
   import csv
   
@@ -122,7 +122,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
           print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
 {% endhighlight %}
 6. On the top menu click on the **File** menu, and then select **Save**.
-7. 
+7. More here...
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test for Accuracy & Speed
