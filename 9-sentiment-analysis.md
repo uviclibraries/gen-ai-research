@@ -74,12 +74,14 @@ In order for Python to have access to all the wonderful GPT4All tools, you need 
 If you have a preferred coded editor please go ahead and use it for the following steps. If you are using a computer managed by UVic or another organization, please contact your IT department and request that they install the software for you. If you don't have a preferred code editor (or don't know what a code editor is) please do the following:
 1. Download the [Visual Studio Code](https://code.visualstudio.com/download){:target="_blank"} Editor for your Mac or Windows computer.
 2. Open the install file you just downloaded (it's usually found either in your download folder, or desktop).
-3. Follow the installation instructions.
+3. Follow the installation instructions. If you have any problems installing Visual Studio Code, please ask the person leading the workshop for assistance.
 
 # UNDER CONSTRUCTION FROM THIS POINT ON
 ## Use Python & GPT4All to Automate Sentiment Analysis
-1. Open GPT4All the Visual Code Studio (or your favourite code editor if you have one) on your laptop if you haven't already.
-2. 
+1. Open GPT4All the Visual Studio Code (or your favourite code editor if you have one) on your laptop if you haven't already.
+2. <img src="images/9-vsc-open.png" style="float:right;width:1600px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
+
+3. 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
