@@ -90,33 +90,36 @@ If you have a preferred coded editor please go ahead and use it for the followin
    - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
 5. Let's start adding some Python code now to make sure everything is setup properly on your computer. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
 {% highlight python %}
-from gpt4all import GPT4All
-import csv
-
-# Load the LLM you would like to use for your project
-model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads / loads a 4.66GB LLM
-
-#provide the prompt for the sentimate analysis here, including details like the sentimate cagetories you'd like it to use.
-prompt = "Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Here is the survey response: "
-
-# Intialize the feedback list where we will store the feedback comments
-feedback = []
-
-# Put each of the feedback items into this list (followed by a comma, except for the last feedback). For a real research project you'd probably be reading the feedback out of an CSV file, and then writing the feedback and GenAI generated sentimate to a new CSV file.
-feedback = [
-    "After the workshop, I understand how the digital dashboard works. Thank you for offering this workshop.",
-    "I arrived late after the intro and demo, and my experience was great. I would be better equipped had I came on time. Rich was very helpful and we were encouraged to reach out if we need additional support.",
-    "I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.",
-    "I find when the instructors in your courses talk, that it interrupts my concentration when I am learning. Once the self-paced activity begins, could they put they speak once and tell us that they will put comments in the chat instead?"
-]
-
-print("\n")
-
-with model.chat_session():
-    for x in feedback:
-        print("\n" + "Feedback: " + x) # The \n puts the Feedback text on a new line
-        print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
-        print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
+  from gpt4all import GPT4All
+  import csv
+  
+  # Load the LLM you would like to use for your project
+  model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads / loads a 4.66GB LLM
+  
+  # Provide the prompt for the sentimate analysis here, including details like the 
+  # sentimate cagetories you'd like it to use.
+  prompt = "Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Here is the survey response: "
+  
+  # Intialize the feedback list where we will store the feedback comments
+  feedback = []
+  
+  # Put each of the feedback items into this list (followed by a comma, except for the last feedback). 
+  # For a real research project you'd probably be reading the feedback out of an CSV file, 
+  # and then writing the feedback and GenAI generated sentimate to a new CSV file.
+  feedback = [
+      "After the workshop, I understand how the digital dashboard works. Thank you for offering this workshop.",
+      "I arrived late after the intro and demo, and my experience was great. I would be better equipped had I came on time. Rich was very helpful and we were encouraged to reach out if we need additional support.",
+      "I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.",
+      "I find when the instructors in your courses talk, that it interrupts my concentration when I am learning. Once the self-paced activity begins, could they put they speak once and tell us that they will put comments in the chat instead?"
+  ]
+  
+  # Loop through the list of feedback items and use the GPT4All API and the above prompt to 
+  # generate verbose feedback on the type of sentiment expressed in the workshop participant feedback.
+  with model.chat_session():
+      for x in feedback:
+          print("\n" + "Feedback: " + x) # The \n puts the Feedback text on a new line
+          print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
+          print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
 {% endhighlight %}
 6. On the top menu click on the **File** menu, and then select **Save**.
 7. 
