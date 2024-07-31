@@ -79,7 +79,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
 # UNDER CONSTRUCTION FROM THIS POINT ON
 ## Use Python & GPT4All to Automate Sentiment Analysis
 1. Open GPT4All the Visual Studio Code (or your favourite code editor if you have one) on your laptop if you haven't already.
-2. <img src="images/9-vsc-open.png" style="float:right;width:160px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
+2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
 
 3. 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
