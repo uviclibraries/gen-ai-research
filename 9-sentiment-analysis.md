@@ -82,10 +82,13 @@ If you have a preferred coded editor please go ahead and use it for the followin
 2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
    - If you are on a Mac, click on the **Documents** menu item on the left of the dialogue box. Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button. Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
-   - If you are on a Windows computer, click on...<br>
+   - If you are on a Windows computer, click on... **[INSTRUCTIONS HERE WHEN DONE]**<br>
 <img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
-5. More here...
-6. 
+5. Next you're going to create a file to put your Python script in, and give it a descriptive name:
+   - Go to the **File** menu and then select **New Text File**.
+   - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
+   - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name).
+7. 
 > NOTE: You can set up multiple local document repositories, but can only select one repository at a time for GPT4All to use as a data source.
 7. Click on the checkbox beside the local document repository you just created (e.g. "Informal Credentials"), and then click on the green **X** in the top right corner. Note that there is now a thin yellow box around the Repository icon on the top right of the screen which indicates that a local document repository is going to be used for this chat.  
 9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
