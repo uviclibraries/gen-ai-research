@@ -24,4 +24,6 @@ To be ready to jump right into the interactive activities during the workshop, *
 - [What different types of Artificial Intelligence (AI) & how Generative AI relates to other forms of AI](https://www.youtube.com/watch?v=Yq0QkCxoTHM){:target="_blank"} (10 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/Yq0QkCxoTHM" title="Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
+<iframe src="https://app.Lumi.education/api/v1/run/ND-N_M/embed" width="560" height="315" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *"></iframe><script src="https://app.Lumi.education/api/v1/h5p/core/js/h5p-resizer.js" charset="UTF-8"></script>
+
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
