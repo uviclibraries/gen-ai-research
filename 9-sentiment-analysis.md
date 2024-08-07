@@ -76,8 +76,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
 2. Open the install file you just downloaded (it's usually found either in your download folder, or desktop).
 3. Follow the installation instructions. If you have any problems installing Visual Studio Code, please ask the person leading the workshop for assistance.
 
-# UNDER CONSTRUCTION FROM THIS POINT ON
-## Use Python & GPT4All to Automate Sentiment Analysis
+## Create a Python script to test Sentiment Analysis on your Command Line
 1. Open the Visual Studio Code you just installed (or your favourite code editor if you have one) on your laptop if you haven't already.
 2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
@@ -136,18 +135,8 @@ If you have a preferred coded editor please go ahead and use it for the followin
   - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 
-## Test for Accuracy & Speed
-1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
-  - Click on the **Choose a model...** drop-down box at the middle top of the window.
-  - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
-2. Let's test _GPT4All & Llama 3 Instruct_ combined with your local document repository by asking it a question that you know the response to in your document library. For example, my local documents have information on informal credentials so I'll use the following query (**your prompte should be different**):<br>
-```﻿Are informal credentials students earn from academic makerspaces useful in helping them secure jobs?```<br>
-  - How reasonable do the results look for your query?
-  - Do you notice any significant errors or omissions that you know from what is in your local documents?
-  - Have to tried asking for more details or for it to make a 500 word summary for example?
-3. Make sure to ask another question or two that you know the answers to so that you can further evaluate the accuracy of the results! 
-> - How did it do?
-> - Any factual errors?
-> - Any omissions?
+# UNDER CONSTRUCTION FROM THIS POINT ON
+## Create a Python script to conduct Sentiment Analysis on data in a Spreadsheet
+1. ...
   
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
