@@ -90,36 +90,36 @@ If you have a preferred coded editor please go ahead and use it for the followin
    - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
 5. Let's start adding some Python code now to make sure everything is setup properly on your computer. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
 {% highlight python %}
-  from gpt4all import GPT4All
-  import csv
-  
-  # Load the LLM you would like to use for your project
-  model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads / loads a 4.66GB LLM
-  
-  # Provide the prompt for the sentimate analysis here, including details like the 
-  # sentimate cagetories you'd like it to use.
-  prompt = "Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Here is the survey response: "
-  
-  # Intialize the feedback list where we will store the feedback comments
-  feedback = []
-  
-  # Put each of the feedback items into this list (followed by a comma, except for the last feedback). 
-  # For a real research project you'd probably be reading the feedback out of an CSV file, 
-  # and then writing the feedback and GenAI generated sentimate to a new CSV file.
-  feedback = [
-      "After the workshop, I understand how the digital dashboard works. Thank you for offering this workshop.",
-      "I arrived late after the intro and demo, and my experience was great. I would be better equipped had I came on time. Rich was very helpful and we were encouraged to reach out if we need additional support.",
-      "I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.",
-      "I find when the instructors in your courses talk, that it interrupts my concentration when I am learning. Once the self-paced activity begins, could they put they speak once and tell us that they will put comments in the chat instead?"
-  ]
-  
-  # Loop through the list of feedback items and use the GPT4All API and the above prompt to 
-  # generate verbose feedback on the type of sentiment expressed in the workshop participant feedback.
-  with model.chat_session():
-      for x in feedback:
-          print("\n" + "Feedback: " + x) # The \n puts the Feedback text on a new line
-          print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
-          print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
+from gpt4all import GPT4All
+import csv
+
+# Load the LLM you would like to use for your project
+model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads / loads a 4.66GB LLM
+
+# Provide the prompt for the sentimate analysis here, including details like the 
+# sentimate cagetories you'd like it to use.
+prompt = "Analyze the following customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, or Negative. Here is the survey response: "
+
+# Intialize the feedback list where we will store the feedback comments
+feedback = []
+
+# Put each of the feedback items into this list (followed by a comma, except for the last feedback). 
+# For a real research project you'd probably be reading the feedback out of an CSV file, 
+# and then writing the feedback and GenAI generated sentimate to a new CSV file.
+feedback = [
+    "After the workshop, I understand how the digital dashboard works. Thank you for offering this workshop.",
+    "I arrived late after the intro and demo, and my experience was great. I would be better equipped had I came on time. Rich was very helpful and we were encouraged to reach out if we need additional support.",
+    "I appreciated the reminders that everyone is working at their own pace. I would have preferred an introduction that addressed simple questions for beginners - while more advanced students could continue on with the workbook. I spent some time waiting for my turn to ask yet another simple question.",
+    "I find when the instructors in your courses talk, that it interrupts my concentration when I am learning. Once the self-paced activity begins, could they put they speak once and tell us that they will put comments in the chat instead?"
+]
+
+# Loop through the list of feedback items and use the GPT4All API and the above prompt to 
+# generate verbose feedback on the type of sentiment expressed in the workshop participant feedback.
+with model.chat_session():
+    for x in feedback:
+        print("\n" + "Feedback: " + x) # The \n puts the Feedback text on a new line
+        print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
+        print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
 {% endhighlight %}
   - On the top menu click on the **File** menu, and then select **Save**.
 7. For a **Mac computer** you can run the script you just created by doing the following:
@@ -137,6 +137,50 @@ If you have a preferred coded editor please go ahead and use it for the followin
 
 # UNDER CONSTRUCTION FROM THIS POINT ON
 ## Create a Python script to conduct Sentiment Analysis on data in a Spreadsheet
-1. ...
+1. Let's create a file to put your new Python script in, and give it a descriptive name:
+   - Go to the **File** menu and then select **New Text File**.
+   - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
+   - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis-csv.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
+2. Copy and paste the following code into the file you just created in the Visual Studio Code editor:
+{% highlight python %}
+from gpt4all import GPT4All
+import csv
+
+# Load the LLM you would like to use for your project
+model = GPT4All("Meta-Llama-3-8B-Instruct.Q4_0.gguf") # downloads or loads a 4.66GB LLM
+
+#provide the prompt for the sentimate analysis here, including details like the sentimate cagetories you'd like it to use.
+prompt = "Analyze this customer survey response to determine the overall sentiment of the instructor feedback. The sentiment categories I would like you to use are: Positive, Neutral, Negative. Please provide the feedback in one word without any reasonse for the choice. Here is a survey response: "
+
+# Intialize the feedback list where we will store the feedback comments
+feedback = []
+
+# Read in workshop participant feedback from the feedback.csv file
+with open('feedback.csv') as csvDataFile:
+    csvReader = csv.reader(csvDataFile)
+    for row in csvReader:
+        feedback.append(row[0])
+
+x = 0
+print("\n")
+
+with model.chat_session():
+    for x in feedback:
+        print("Feedback: " + x)
+        print("Sentiment: " + model.generate(prompt + x, max_tokens=1024) + "\n")
+{% endhighlight %}
+  - On the top menu click on the **File** menu, and then select **Save**.
+7. For a **Mac computer** you can run the script you just created by doing the following:
+  - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
+  - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
+  - In the terminal type ```cd ~/Documents/sentiment-analysis``` and then press enter. 
+  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Congratulations on getting this far!
+8. For a **Windows computer** you can run the script you just created by doing the following:
+  - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+  - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
+  - Type ```cd C:\Users\YOUR-USER-NAME-HERE\Documents\sentiment-analysis``` and then press **Enter** button on your keyboard (replacing "YOUR-USER-NAME-HERE" with your user name on the computer of course).
+  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Congratulations on getting this far!
   
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
