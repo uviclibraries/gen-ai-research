@@ -135,7 +135,6 @@ with model.chat_session():
     - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
     - Congratulations on getting this far!
 
-# UNDER CONSTRUCTION FROM THIS POINT ON
 ## Create a Python script to conduct Sentiment Analysis on data in a Spreadsheet
 1. Let's create a file to put your new Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
@@ -170,18 +169,18 @@ with model.chat_session():
         print("Feedback: " + x)
         print("Sentiment: " + model.generate(prompt + x, max_tokens=1024) + "\n")
 {% endhighlight %}
-  - On the top menu click on the **File** menu, and then select **Save**.
+    - On the top menu click on the **File** menu, and then select **Save**.
 7. For a **Mac computer** you can run the script you just created by doing the following:
-  - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
-  - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
-  - In the terminal type ```cd ~/Documents/sentiment-analysis``` and then press enter. 
-  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
-  - Congratulations on getting this far!
+    - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
+    - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
+    - In the terminal type ```cd ~/Documents/sentiment-analysis``` and then press enter. 
+    - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+    - Congratulations on getting this far!
 8. For a **Windows computer** you can run the script you just created by doing the following:
-  - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
-  - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
-  - Type ```cd C:\Users\YOUR-USER-NAME-HERE\Documents\sentiment-analysis``` and then press **Enter** button on your keyboard (replacing "YOUR-USER-NAME-HERE" with your user name on the computer of course).
-  - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
-  - Congratulations on getting this far!
+    - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
+    - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
+    - Type ```cd C:\Users\YOUR-USER-NAME-HERE\Documents\sentiment-analysis``` and then press **Enter** button on your keyboard (replacing "YOUR-USER-NAME-HERE" with your user name on the computer of course).
+    - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+    - Congratulations on getting this far!
   
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
