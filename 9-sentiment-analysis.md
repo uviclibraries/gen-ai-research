@@ -121,7 +121,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
           print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
           print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
 {% endhighlight %}
-6. On the top menu click on the **File** menu, and then select **Save**.
+  - On the top menu click on the **File** menu, and then select **Save**.
 7. For a **Mac computer** you can run the script you just created by doing the following:
   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
   - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
