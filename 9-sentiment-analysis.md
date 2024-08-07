@@ -51,7 +51,7 @@ Python is a programming language that is often used by researchers to assist the
 1. For Mac Computers download the most recent version of Python for your computer (Note: If you have a computer that is managed by the University of Victoria, or the company you work for, you may need to contact your IT department to install Python on your computer):
   - [Mac](https://www.python.org/downloads/macos/){:target="_blank"}
   - Install Python on your computer by finding the location your web browser downloaded the Python install file to (usually a downloads folder or your desktop), and then Double click on the installer file.
-2. For Windows Computers:
+2. For Windows Computers (Note: If you have a computer that is managed by the University of Victoria, or the company you work for, you may need to contact your IT department to install Python on your computer):
    - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
    - Type **Microsoft Store** in the Run command box and click the **Microsoft Store icon**.
    - In the search bar at the top, type **Python** and press **Enter** on your keyboard.
