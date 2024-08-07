@@ -122,7 +122,10 @@ If you have a preferred coded editor please go ahead and use it for the followin
           print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
 {% endhighlight %}
   - On the top menu click on the **File** menu, and then select **Save**.
-  - **More here...**
+  - To run the script you just created, if you are using a **Mac computer** please do the following:
+     - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
+     - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
+     - In the terminal type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br> 
   - Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test for Accuracy & Speed
