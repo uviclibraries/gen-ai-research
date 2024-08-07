@@ -121,9 +121,9 @@ If you have a preferred coded editor please go ahead and use it for the followin
           print("Sentiment: " + model.generate(prompt + x, max_tokens=1024))
           print("_____________________") # This is to create pysical separation between the feedbacks to that they are easier to read.
 {% endhighlight %}
-6. On the top menu click on the **File** menu, and then select **Save**.
-7. More here...
-9. Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
+  - On the top menu click on the **File** menu, and then select **Save**.
+  - **More here...**
+  - Great job! Now we'll move on to selecting a Large Language Model to work with your local document repository, and then test it to see how well it can use the local document information in responding to your prompts.
 
 ## Test for Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
