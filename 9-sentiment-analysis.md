@@ -12,7 +12,7 @@ Years ago as a research assistant, I worked on a project to analyze social media
 If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## Capabilities & Considerations
-Generative AI tools like GPT4All are revolutionizing how researchers process and analyze research textual data locally on their laptops. One promising use case is using GenAI tools to perform sentiment analysis on short survey responses. Using these tools allows researchers to more quickly, efficiently, and reliably identify the sentiment of a sentence or short paragraph, to uncover trends and patterns. 
+Generative AI tools like GPT4All allow researchers to more quickly, efficiently, and reliably identify the sentiment of a sentence or short paragraph, to uncover trends and patterns. 
 
 ### Pros of using generative AI for sentiment analysis:
 - Efficiency: Automatically process vast amounts of textual data in a fraction of the time it would take manual analysis.
