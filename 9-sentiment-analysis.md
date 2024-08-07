@@ -81,8 +81,9 @@ If you have a preferred coded editor please go ahead and use it for the followin
 1. Open the Visual Studio Code you just installed (or your favourite code editor if you have one) on your laptop if you haven't already.
 2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
-   - If you are on a Mac, click on the **Documents** menu item on the left of the dialogue box. Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button. Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
-   - If you are on a Windows computer, click on... **[INSTRUCTIONS HERE WHEN DONE]**<br>
+   - If you are on a Mac, click on the **Documents** menu item on the left of the dialogue box.
+   - Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button.
+   - Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
 <img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 4. Next you're going to create a file to put your Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
