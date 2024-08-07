@@ -9,7 +9,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/9-sentiment-analysis-visual.jpg" style="float:right;width:350px;padding:10px;" alt="Sentiment Analysis Visualization">
 Years ago as a research assistant, I worked on a project to analyze social media posts related to a specific hashtag to identify the sentiment of the tweets. While the project was very interesting, the process of manually assigning a sentiment to over 2,000 tweets was not fun at all. The good news is that Generative AI can be a helpful & efficient tool for researchers wanting to conduct similar analyses today.
 
-If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
+In this workshop, we will explore how to use GPT4All & Python for sentiment analysis while being mindful of their limitations. If you have any questions or get stuck as you work through this GPT4All exercise, please ask the instructor for assistance.
 
 ## Capabilities & Considerations
 Generative AI tools like GPT4All allow researchers to more quickly, efficiently, and reliably identify the sentiment of a sentence or short paragraph, to uncover trends and patterns. 
@@ -17,13 +17,11 @@ Generative AI tools like GPT4All allow researchers to more quickly, efficiently,
 ### Pros of using generative AI for sentiment analysis:
 - Efficiency: Automatically process vast amounts of textual data in a fraction of the time it would take manual analysis.
 - Insight generation: Beyond sentiment classification, generative AI can extract themes, topics, and even generate summaries of responses.
-- Research Ethics: If the GenAI tool is running locally on a researcher's laptop, and does not contact the cloud, no cloud-computing disclosures are needed, and the use of the tool likely does not need to be written into the research ethics proposal.
+- Research Ethics: If the GenAI tool runs locally on a researcher's laptop, and does not contact the cloud, no cloud-computing disclosures are likely needed in your research ethics proposal.
 
 ### Cons of using generative AI for sentiment analysis:
-- Model limitations: While powerful, generative AI models may struggle with complex language, sarcasm, or nuanced sentiment expressions.
-- Potential biases: Generative AI models can inherit biases present in the training data, affecting the accuracy and fairness of results.
-
-In this workshop, we will explore how to use GPT4All & Python for sentiment analysis while being mindful of their limitations.
+- Model limitations: While powerful, generative AI models may struggle with complex language, or sarcasm.
+- Potential biases: Generative AI models inherit biases present in the training data, affecting the accuracy and fairness of results.
 
 ## Install GPT4All (if you haven't already)
 - If you haven't already, please install [GPT4All on your laptop](7-local-genai-intro.html){:target="_blank"} and then come back to this web page.
