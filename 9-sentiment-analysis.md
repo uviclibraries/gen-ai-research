@@ -125,11 +125,13 @@ If you have a preferred coded editor please go ahead and use it for the followin
 - For a **Mac computer** you can run the script you just created by doing the following:
   - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
   - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
-  - In the terminal type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br> 
+  - In the terminal type ```cd ~/Documents/sentiment-analysis``` and then press enter. 
+  - Next in the terminal type ```python3 analysis.py``` and then press enter. In 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
+  - Congratulations on getting this far!
 - For a **Windows computer** you can run the script you just created by doing the following:
   - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
-  - Type ```cd ~/Documents``` and then press **Enter** button on your keyboard.
+  - Type ```cd ~/Documents/``` and then press **Enter** button on your keyboard.
   - ...
 
 ## Test for Accuracy & Speed
