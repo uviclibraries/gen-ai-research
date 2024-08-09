@@ -145,7 +145,7 @@ with model.chat_session():
 1. Let's create a file to put your new Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
-   - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis-csv.py** (make sure that that you only have one **.py** at the end of the file name). Click on the blue **Save** button at the bottom right of the dialogue box.
+   - Now give the file a name by going to the **File** menu and then select **Save As...**. When prompted for the Save As file name, type in: **analysis-csv.py**. Click on the blue **Save** button at the bottom right of the dialogue box.
 2. Download the following data file, and make sure to save it in the same folder you saved your python scripts in: 
 3. Copy and paste the following code into the file you just created in the Visual Studio Code editor: [feedback.csv](images/feedback.csv){:target="_blank"}
 {% highlight python %}
