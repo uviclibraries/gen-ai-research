@@ -78,7 +78,7 @@ If you have a preferred coded editor please go ahead and use it for the followin
 
 ## Create a Python script to test Sentiment Analysis on your Command Line
 1. Open the Visual Studio Code you just installed (or your favourite code editor if you have one) on your laptop if you haven't already.
-2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open...** button.
+2. <img src="images/9-vsc-open.png" style="float:right;width:260px;padding:10px;" alt="Open a folder in Visual Studio Code">Create a new Project in Visual Studio Code by clicking on the **Open Folder...** button.
 3. You're now going to create a new folder for this project in a location on your computer where you'll be able to easily find it.
    - **If you are on a Mac computer**:
      - click on the **Documents** menu item on the left of the dialogue box.
@@ -86,7 +86,9 @@ If you have a preferred coded editor please go ahead and use it for the followin
      - Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
 <img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><be>
     - **If you are on a Windows computer**:
-      -  More here...
+     - In the left navigation bar, scroll down and click on the **Local Disk (C:)** button.
+     - Next click on the **New Folder** button on the top left of the dialogue box, and name your folder: **sentiment-analysis**, and press **Enter** on your keyboard.
+     - Press the **Select Folder** button on the bottom left of the dialogue box. Good job!
 4. Next you're going to create a file to put your Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
