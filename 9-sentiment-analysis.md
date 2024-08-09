@@ -137,10 +137,7 @@ with model.chat_session():
 9. For a **Windows computer** you can run the script you just created by doing the following:
   - <img src="images/9-win-start-icon.png" style="float:right;width:90px;padding:10px;" alt="Windows Start icon">Open the Start menu by **clicking on the Windows logo** at the bottom of your screen -OR- Press the Windows button on your keyboard.
   - Type **Cmd** in the search box, and then press **Enter** button on your keyboard.
-  - Type ```cd C:\Users\``` and then press **Enter** button on your keyboard.
-  - Type ```dir``` and then press **Enter** button on your keyboard.
-  - You should now be looking at a list of directories. One of them will be your home directory (for example my home directory name is **rmccue**. Take note of your user directory name.
-  - Type ```cd YOUR-USER-NAME-HERE\Documents\sentiment-analysis``` and then press **Enter** button on your keyboard (replacing "YOUR-USER-NAME-HERE" with your home directory name).
+  - Type ```cd C:\sentiment-analysis\``` and then press **Enter** button on your keyboard.
   - Next in the terminal type ```python3 analysis.py``` and then press enter. The first time you run the script is has to download 4.3GB model (it will save it for the future). After the model is downloaded, in an additional 15-60 seconds the script should output what it determines is the sentiment for each of the 4 pieces of feedback, along with two or three sentences explaining why it categorized the feedback the way it did.
   - Congratulations on getting this far!
 
