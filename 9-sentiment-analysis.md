@@ -84,11 +84,12 @@ If you have a preferred coded editor please go ahead and use it for the followin
      - click on the **Documents** menu item on the left of the dialogue box.
      - Next click on the **New Folder** button on the bottom, and name your folder: **sentiment-analysis**, and click the blue **Create** button.
      - Lastly, click on the blue **Open** button on the bottom right of the dialogue box. Good job!
-<img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><be>
-    - **If you are on a Windows computer**:
+<img src="images/9-vsc-create-folder.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
+   - **If you are on a Windows computer**:
      - In the left navigation bar, scroll down and click on the **Local Disk (C:)** button.
      - Next click on the **New Folder** button on the top left of the dialogue box, and name your folder: **sentiment-analysis**, and press **Enter** on your keyboard.
      - Press the **Select Folder** button on the bottom left of the dialogue box. Good job!
+<img src="images/9-create-folder-pc.png" style="width:800px;padding:10px;border: 1px solid #555;" alt="Create a project folder on a Windows computer"><br>
 4. Next you're going to create a file to put your Python script in, and give it a descriptive name:
    - Go to the **File** menu and then select **New Text File**.
    - Click on the **Select a language** link in the new file, then scroll down the list of languages, and select **Python**.
