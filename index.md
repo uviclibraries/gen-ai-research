@@ -34,11 +34,10 @@ At the end of this **Intermediate** portion of this workshop, you will be able t
 
 1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
 5. Use the local GenAI software and select a folder of documents on your computer to use as training data; then ask questions of the documents.
-6. **COMING Summer 2024:** Use advanced literature review tools for graduate-level research.
-8. **COMING Summer 2024:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
-9. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
-10. **COMING Summer 2024:** Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
-11. **COMING Summer 2024:** Use GenAI tools to create LaTex code from a formatted document.
+6. **COMING Spring 2025:** Use advanced literature review tools for graduate-level research.
+7. **COMING Spring 2025:** Integrate citation managers into your search strategy using tools like Zotero & Research Rabbit.
+8. Transcribe interviews using cloud-based AI transcription services and an AI-powered program that runs locally on your computer.
+9. Use GenAI tools to conduct Sentiment Analysis on free-form survey questions or social media posts.
 
 **NOTE**: _You can earn DSC Badges by completing the Introductory and/or the Intermediate portions of this workshop._
  
