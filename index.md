@@ -29,7 +29,7 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 9. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity.
 10. Stay Informed: Be familiar with other places on campus, like LTSI, which can support you in the effective and appropriate use of GenAI.
 
-### Intermediate Generative AI for Student Research (COMING SOON)
+### Intermediate Generative AI for Student Research
 At the end of this **Intermediate** portion of this workshop, you will be able to:
 
 1. Install GenAI software on your laptop including 1 or more large language models (not cloud-based), and use it to answer a question.
