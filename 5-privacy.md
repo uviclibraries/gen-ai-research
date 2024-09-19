@@ -18,13 +18,13 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 2. Please click on the green "Protected" button in the top right of the Copilot screen to confirm that you are using the UVic-licensed version, which means that you have strong privacy settings in place that cannot be changed (like they can in if you signed up individually for Copilot).
 <br><img src="images/5-copilot-privacy.png"  alt="Copilot privacy screenshot"><br>
 
-## Privacy & Data Collection in ChgatGPT
-1. The good news is that you can change the privacy setting in ChatGPT so that your user data and prompts are not used by ChatGPT as training Data.
+## Privacy & Data Collection in ChatGPT
+1. The good news is that you can change the privacy setting in ChatGPT so that your user data and prompts are not used by ChatGPT as Training Data.
 2. Follow the instructions below to stop ChatGPT from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
 <br><img src="images/5-chatgpt-privacy.png"  alt="ChatGPT privacy screenshot"><br>
 
 ## Privacy & Data Collection in Perplexity.ai
-1. The good news is that you can change the privacy settings in Perplexity so that your user data and prompts are not used by Perplexity as training Data.
+1. The good news is that you can change the privacy settings in Perplexity so that your user data and prompts are not used by Perplexity as Training Data.
 2. Follow the instructions below to stop Perplexity from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
 <br><img src="images/5-perplexity-privacy.png"  alt="Perplexity privacy screenshot"><br>
 
