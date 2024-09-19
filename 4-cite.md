@@ -36,7 +36,7 @@ Create a citation for Following a prompt in your GenAI tool and then go through 
 4. Add the date of your transcript export as it does not do this by default 
 5. Acknowledge how you used the tool (even if you only use GenAI to help you brainstorm or conduct a literature review, and you don't include any of its generated content)
   - E.g. “**I conducted the literature review for this assignment with the assistance of [ProductName, Version, from CompanyName, Year].**”
-6. Follow along with the UVic Libraries How to cite text with Generative AI instructions with the style guide of your choice.
+6. Follow along with the UVic Libraries [How to cite text generated with A.I.](https://libguides.uvic.ca/AI_Tools/citing_AI_text) instructions with the style guide of your choice.
 <br><img src="images/5-style-guides.png"  alt="style guide instructions on UVic libraries website"><br>
 
 ### Resources and further reading

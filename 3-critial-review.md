@@ -10,7 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 # Critically Review All GenAI Output for Errors
 We know that GenAI tools will confidently make factual errors in their statements (or hallucinate). In this section, we will look at some tips so how do we can find those errors, and how we can craft our prompts to help GenAI tools make fewer errors. 
 
-## Be Aware of Traning Data Bias
+## Be Aware of Training Data Bias
 Generative AI training data bias occurs when the data used to train the AI model reflects societal biases or lacks diversity, sometimes leading to skewed or unfair outputs (ChaGPT 4.0, 2024). Some of the root causes include: 
 
   - **Culture of the source of training data**, which is largely US-centric at the moment
@@ -22,7 +22,7 @@ Generative AI training data bias occurs when the data used to train the AI model
 
 We can try to counteract some of these biases by modifying our prompts. Here are some examples you can try in Copilot:
   - **Gender and racial bias**: ```Create an image of 3 CEO's and make them gender and ethnically diverse```
-  - **Cultural bias**: ```From a Canadian perspective what key events happened when Great Britain invaded Washington DC in the war of 1812? Privide citations.```
+  - **Cultural bias**: ```From a Canadian perspective what key events happened when Great Britain invaded Washington DC in the war of 1812? Provide citations.```
 
 ## Prompt Design Tips
 Let's look at some ways we can modify our prompts to reduce the number of errors GenAI tools make in response to our prompts ([ChaGPT 4.0, 2024](https://chat.openai.com/share/44bebe63-7c14-49bc-8e2b-e5fac9c6f301){:target="_blank"}):
