@@ -5,7 +5,7 @@ nav_order: 1
 ---
 <img src="images/gen-ai-workshop-logo.png" style="float:right;width:180px;" alt="image description">
 
-# Generative AI for Student Research
+# Generative AI for Student Research: A Double-Edged Sword
 
 - Pre-workshop activities: 25 min 
 - Introductory presentation: 15 min
