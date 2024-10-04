@@ -1,4 +1,4 @@
-# Generative AI for Student Research
+# Generative AI for Student Research: A Double-Edged Sword
 ### UVic Libraries Digital Scholarship Commmons
 
 Link to workshop: https://uviclibraries.github.io/gen-ai-research/
