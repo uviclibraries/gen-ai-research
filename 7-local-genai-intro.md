@@ -52,7 +52,7 @@ Now we have _GPT4All_ installed on your laptop, we need to install a large langu
 <img src="images/7-select-model.png" style="width:800px;" alt="Select the large language model you want to use."><br>
 3. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
-<img src="images/7-first-prompt.png" style="width:800px;" alt="First prompt">
+<img src="images/7-first-prompt2.png" style="width:800px;" alt="First prompt">
   - How reasonable do the results look to you?
   - Do you notice any significant omissions from the "not be a good fit" section? Housing availability? Cost of living?
 3. Now let's test GPT4All with something you know a lot about:
