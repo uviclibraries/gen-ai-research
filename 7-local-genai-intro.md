@@ -41,14 +41,14 @@ Let's get started installing and using GPT4All for basic tasks!
 Now we have _GPT4All_ installed on your laptop, we need to install a large language model before you can start asking it questions. There are a dozen or more models to choose from, but for now, we'll install one of the best overall models (as of Summer 2024) which is the _Llama 3 Instruct_ model. 
 <img src="images/7-find-models.png" style="float:right;width:280px;" alt="Find Models button">
 1. Click on the green **Find models** button to the right of the windows.
-2. Take a look at all the models available to download, and then click on the green **Install** button beside the _Llama 3 Instruct_ model description.
+2. Take a look at all the models available to download, and then click on the green **Install** button beside the _Llama 3.2 8B Instruct_ model description.
 > _Note: The download is quite large at 4.3GB so it may take a while for it to download. For this model, GPT4All recommends that your computer have at least 8GB of memory for your computer to run the model at a reasonable speed._ If you have any questions about this please ask your instructor.
-4. Once the model has finished downloading, click on the green **X** in the top right to close the "Discover and Download Models" window. Next, you can get down to business and start testing the language model's accuracy and speed!
+4. Once the model has finished downloading, click on the green **Chats** button on the left navigation bar. Next, you can get down to business and start testing the language model's accuracy and speed!
 
 ## Test GPT4All's Accuracy & Speed
 1. Before we can start testing, we need to tell GPT4All that we want to use the _Llama 3 Instruct_ model:
   - Click on the **Choose a model...** drop down box at the middle top of the window.
-  - Select **Llama 3 Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
+  - Select **Llama 3.2 8B Instruct** model. Depending on the speed of your laptop it should take between take 10 to 60 seconds for the model to finish loading.
 <img src="images/7-select-llm.gif" style="width:800px;" alt="Select the large language model you want to use."><br>
 3. Let's test _GPT4All & Llama 3 Instruct_ with a generic prompt to start with. Copy and paste the following text into the Send a Message field and review the results:<br>
 ```Why would someone want to attend the University of Victoria in Canada? Why might the university not be a good fit for someone? Provide citations.```<br>
