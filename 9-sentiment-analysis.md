@@ -63,6 +63,7 @@ In order for Python to have access to all the wonderful GPT4All tools, you need 
 1. If you are using a **Mac computer** please do the following:
    - Open the MacOS Terminal tool by pressing and holding the _Command_ button down, then pressing the _Space Bar_. (or _Command_ + _Space bar_).
    - Once the _Spotlight Search_ box opens, type **terminal** into the search box and then press enter. You should now have a black terminal opened on your computer.
+   - In the terminal type ```python3 -m pip install --upgrade pip``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.
    - In the terminal type ```pip install gpt4all``` and then press enter. If you get an error message, please ask the person leading the workshop for assistance.<br>
 <img src="images/9-terminal-open.gif" style="width:800px;padding:10px;border: 1px solid #555;" alt="GPT4all manual sentiment analysis example"><br>
 2. If you are using a **Windows computer** please do the following:
