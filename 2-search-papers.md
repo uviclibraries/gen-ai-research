@@ -2,7 +2,7 @@
 layout: default
 title: 2 - Search for Papers
 nav_order: 4
-parent: Workshop Activities - Introduction
+parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
