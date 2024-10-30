@@ -1,4 +1,10 @@
-
+---
+layout: default
+title: 7 - Local GenAI Intro
+nav_order: 10
+parent: Workshop Activities - Intermediate
+customjs: http://code.jquery.com/jquery-1.4.2.min.js
+--- 
 
 # GPT4All on Your Laptop & Test It
 <img src="images/7-gpt4all-animation.gif" style="float:right;width:520px;" alt="GPT4All in action!">
