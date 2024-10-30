@@ -2,7 +2,7 @@
 layout: default
 title: 4 - Cite Properly
 nav_order: 6
-parent: Workshop Activities - Introduction
+parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/4-citing-ai.png" style="float:right;width:320px;height:320px;" alt="A person citing AI generated content"> 
