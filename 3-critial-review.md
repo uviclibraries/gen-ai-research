@@ -2,7 +2,7 @@
 layout: default
 title: 3 - Critically Review
 nav_order: 5
-parent: Workshop Activities - Introduction
+parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 <img src="images/3-critical-review-student.png" style="float:right;width:320px;height:320px;" alt="A student critically reviewing output from a GenAI tool on their laptop."> 
