@@ -2,7 +2,7 @@
 layout: default
 title: 1 - Prompt Design & Idea Generation
 nav_order: 3
-parent: Workshop Activities - Introduction
+parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 --- 
 
