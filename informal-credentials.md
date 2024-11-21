@@ -20,7 +20,7 @@ If you’d like to earn a DSC badge for this workshop, please email the followin
 2. Screenshot or photo of the prompt and GenAI response for the image you created using your own prompt (activity 1).
 3. In one or two sentences describe the key ethical and privacy considerations when deciding whether or not it would be appropriate to GenAI tools in academic work.
 4. Copy and paste the citation in your style guide of choice (e.g. APA, Chicago, IEEE, etc.) for either the GenAI image or text-based GenAI output you are submitting for the badge (activity 4).
-5. In one or two sentences, please provide an overview of UVic’s policy on using GenAI for academic research or assignments (activity 5).
+5. In one or two sentences, please provide an overview of UVic’s policy on using GenAI for academic research or assignments (activity 4).
 
 
 ### Learn how you can share your DSC Badge
