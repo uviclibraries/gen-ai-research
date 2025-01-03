@@ -30,10 +30,10 @@ Even if the guide you are using does not require it, we recommend that you refer
 ## Let's Practice!
 Create a citation for Following a prompt in your GenAI tool and then go through the process so that you could cite it properly if necessary.
 1. Put a prompt into your GenAI tool. For example: ```How can informal credentials help makerspace users in their job searches?```
-2. In CoPilot, save a transcript of your chat (including prompts) by clicking on the download button, and then select a TEXT export.
+2. In CoPilot, save a transcript of your response by clicking on the **copy** button. Note you must copy the prompts seperately to track prompts as well and then format it in a document. 
 <br><img src="images/copilot-copy.png"  alt="Copilot copy button"><br>
-3. Include the chat transcript as an appendix to your work
-4. Add the date of your transcript export as it does not do this by default 
+3. Include the chat transcript as an appendix to your work              
+4. Add the date of your transcript to a Word or Google Document
 5. Acknowledge how you used the tool (even if you only use GenAI to help you brainstorm or conduct a literature review, and you don't include any of its generated content)
   - E.g. “**I conducted the literature review for this assignment with the assistance of [ProductName, Version, from CompanyName, Year].**”
 6. Follow along with the UVic Libraries [How to cite text generated with A.I.](https://libguides.uvic.ca/AI_Tools/citing_AI_text) instructions with the style guide of your choice.
