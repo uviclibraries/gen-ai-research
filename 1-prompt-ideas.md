@@ -13,23 +13,12 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 ## Prompt Design
 ### Prompt Design Basics: The CRAFT Framework
 While it is easy to get started using Generative AI tools, it takes time and practice to get the best results out of Generative AI tools. 
-Each element below of the CRAFT framework contributes to the overall effectiveness of your prompts, making sure that the outputs are clear, relevant, and well-structured.
+Each element of the CRAFT framework below contributes to the overall effectiveness of your prompt, making sure that the outputs are clear, relevant, and well-structured:
 - **Context**: Set the stage by providing background information. Include key details like the purpose of the task, audience, or tone. Example: ```Write a formal email to a professor about missing class due to illness.```
 - **Role**: Specify the perspective or role the AI should take on. Example: ```Act as a historian explaining the causes of the French Revolution.```
 - **Action**: Clearly describe the specific action or outcome you want. Example: ```Summarize the main points of this article in two paragraphs.```
 - **Format**: State the structure or format of the response (e.g., list, essay, dialogue). Example: ```Provide the answer in bullet points for easy reading.```
 - **Targe Audience**: Identify who the output is intended for, which can affect tone and style. Example: ```Write for a high school student unfamiliar with this topic.```
-
-
-1. **Be Clear & concise** in your language to avoid ambiguity:
-  - Poor: "Weather?"
-  - Better: "What is the current weather in Victoria, BC, Canada?
-2. **Provide Specific details** to guide the AI toward the desired response:
-  - Poor: "Tell me about the weather."
-  - Better: "Provide a detailed weather forecast in 500 words or less, for Victoria, BC, Canada, for the next three days, including temperature, precipitation, and wind speed."
-3. Include **relevant Context** & **Instruction** to help the AI understand the prompt better:
-  - Poor: "Tell me about the weather."
-  - Better: "I am a teacher teaching grade 2 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson."
 
 ### Let's Practice!
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}. If you are a UVic student you can use a version of Copilot licensed for you by UVic by logging on with your UVic email address (e.g. _noahsmith@uvic.ca_). The UVic version of Copilot runs on servers located in Canada and does not share any of the prompts you create with Microsoft, or resulting data for training data, which is great from a privacy perspective. Perplexity is a great option if you don't want to use a login, but does not allow you to generate images like the UVic version of CoPilot.
