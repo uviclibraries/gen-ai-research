@@ -31,7 +31,7 @@ Each element of the CRAFT framework below contributes to the overall effectivene
 ```Tell me about the weather.```<br>
 <br><img src="images/prompt-lesson-poor.png"  alt="An image of Copilot with a weather poor weather prompt example"><br>
   - What are the results from this prompt telling you?
-3. Now let's try a prompt that includes more details relevant to the hypothetical help we need by copying and pasting the following text into your GenAI tool:
+3. Now let's try a prompt that includes more details relevant to the hypothetical help we need to create a lesson plan and activity for a grade 2 class by copying and pasting the following text into your GenAI tool:
 <br>```I am a teacher teaching grade 2 students about the weather. Please assume the role of a teacher and generate a lesson plan in bullet point form for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson. The activity instruction should be at a grade 2 level. Please provide sources.```<br>
 <br><img src="images/1-prompt-weather-lesson.png"  alt="An image of Copilot with a weather lesson prompt example"><br>
 >  - **How does the response to this prompt differ from the "_poor_" prompt above?**
