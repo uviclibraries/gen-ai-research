@@ -9,9 +9,6 @@ This workshop consists of a small amount of instruction so that most of the sche
 - [Perplexity](https://www.perplexity.ai/){:target="_blank"} (general purpose)
 - [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)
 - [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)
-- [Semantic Scholar](){:target="_blank"} (literature reviews)
-- [Elicit](https://elicit.com/){:target="_blank"} (literature reviews)
-- [Research Rabbit](https://researchrabbitapp.com/){:target="_blank"} (literature reviews)
 
 To be ready to jump right into the interactive activities during the workshop, **please watch these short videos beforehand**:
 
@@ -21,7 +18,5 @@ To be ready to jump right into the interactive activities during the workshop, *
 <iframe width="560" height="315" src="https://www.youtube.com/embed/0O93IdzBijo" title="Generative AI & Academic Integrity" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 - [Generative AI in Education](https://www.youtube.com/watch?v=kpjqxalCKdg&t=10s){:target="_blank"} (7 min)<br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpjqxalCKdg&t" title="Generative AI in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-- [What different types of Artificial Intelligence (AI) & how Generative AI relates to other forms of AI](https://www.youtube.com/watch?v=Yq0QkCxoTHM){:target="_blank"} (10 min)<br>
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Yq0QkCxoTHM" title="Artificial Intelligence" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 [NEXT STEP: Introduction to Hands-On Activities](activities-intro.html){: .btn .btn-blue }
