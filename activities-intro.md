@@ -2,7 +2,7 @@
 layout: default
 title: Activities Introduction
 nav_order: 1
-parent: Workshop Activities - Introduction
+parent: Workshop Activities
 ---
 # Activities Introduction
 
