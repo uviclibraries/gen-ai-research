@@ -18,8 +18,8 @@ DSC badges are awarded at the request of workshop participants after a DSC staff
 If you’d like to earn a DSC badge for this workshop, please email the following to: [dscommons@uvic.ca](mailto:dscommons@uvic.ca){:target="_blank"}
 1. Screenshot or photo of the prompt and GenAI response for a topic you know a lot about including at least one follow-up prompt to refine your query (activity 1).
 2. Screenshot or photo of the prompt and GenAI response for the image you created using your own prompt.
-3. In one or two sentences describe the key ethical and privacy considerations when deciding whether or not it would be appropriate to GenAI tools in academic work.
-5. In one or two sentences, please provide an overview of UVic’s policy on using GenAI for academic research or assignments.
+3. In one or two sentences describe the key ethical and privacy considerations when deciding whether or not it would be appropriate to use GenAI tools in academic work.
+4. In one or two sentences, please provide an overview of UVic’s policy on using GenAI for academic research or assignments.
 
 
 ### Learn how you can share your DSC Badge
