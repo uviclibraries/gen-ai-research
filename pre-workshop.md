@@ -9,6 +9,7 @@ This workshop consists of a small amount of instruction so that most of the sche
 - [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)
 - [Meta.ai](https://meta.ai){:target="_blank"} (general purpose, good free images)
 - [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)
+- [Claude](https://claude.ai/){:target="_blank"} (general purpose)
 - [Microsoft CoPilot (UVic licensed)](https://copilot.microsoft.com){:target="_blank"} (general purpose) (general purpose)
 
 To be ready to jump right into the interactive activities during the workshop, **please watch these short videos beforehand**:
