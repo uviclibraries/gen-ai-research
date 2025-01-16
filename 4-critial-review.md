@@ -1,11 +1,11 @@
 ---
 layout: default
-title: 3 - Critically Review
-nav_order: 5
+title: 4 - Critically Review
+nav_order: 6
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
-<img src="images/3-critical-review-student.png" style="float:right;width:320px;height:320px;" alt="A student critically reviewing output from a GenAI tool on their laptop."> 
+<img src="images/4-critical-review-student.png" style="float:right;width:320px;height:320px;" alt="A student critically reviewing output from a GenAI tool on their laptop."> 
 
 # Critically Review All GenAI Output for Errors
 We know that GenAI tools will confidently make factual errors in their statements (or hallucinate). In this section, we will look at some tips so how do we can find those errors, and how we can craft our prompts to help GenAI tools make fewer errors. 
@@ -15,7 +15,7 @@ Generative AI training data bias occurs when the data used to train the AI model
 
   - **Culture of the source of training data**, which is largely US-centric at the moment
   - **Underrepresentation of certain groups** like visible minorities and gender bias
-<img src="images/3-white-ceos.jpeg" style="float:right;width:320px;height:320px;" alt="3 white male ceo's"> 
+<img src="images/4-white-ceos.jpeg" style="float:right;width:320px;height:320px;" alt="3 white male ceo's"> 
   - **Racial & gender bias** in images: Ask Copilot for an image of 3 CEO's and it will probably create a picture of 3 male presenting, white people in suits, which is not representative
   - **Lack of complete data** because not all information is freely accessible on the internet to general-purpose GenAI tools like Copilot, Gemini, and ChatGPT
   - **Historical biases** embedded in the data sources.
