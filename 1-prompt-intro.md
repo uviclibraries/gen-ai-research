@@ -51,4 +51,4 @@ Each element of the CRAFT framework below contributes to the overall effectivene
 ## Go further
 There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
 
-[NEXT STEP: Intermediate Prompt Design](2-prompt-design-inter.html){: .btn .btn-blue }
+[NEXT STEP: Intermediate Prompt Design](2-prompt-inter.html){: .btn .btn-blue }
