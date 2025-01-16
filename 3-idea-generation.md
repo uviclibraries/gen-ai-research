@@ -38,4 +38,4 @@ Now let's look at how we can use GenAI tools for creativity and innovation, incl
 ## Go further
 There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
 
-[NEXT STEP: Intermediate Prompt Design](4-critical-review.html){: .btn .btn-blue }
+[NEXT STEP: Critical Review](4-critical-review.html){: .btn .btn-blue }
