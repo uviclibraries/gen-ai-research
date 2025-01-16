@@ -5,10 +5,11 @@ nav_order: 2
 ---
 ## Pre-Workshop Videos & Activities
 This workshop consists of a small amount of instruction so that most of the scheduled time can be devoted to interactive practice with various Generative AI (GenAI) tools. This allows participants to learn to use key features of these GenAI tools for research purposes and indirectly for general productivity. Some of the GenAI tools included in the active learning portion of the workshop are:
-- [Microsoft CoPilot](https://copilot.microsoft.com/){:target="_blank"} (UVic licensed) (general purpose)
 - [Perplexity](https://www.perplexity.ai/){:target="_blank"} (general purpose)
 - [ChatGPT](https://chat.openai.com/){:target="_blank"} (general purpose)
+- [Meta.ai](https://meta.ai){:target="_blank"} (general purpose, good free images)
 - [Google Gemini](https://gemini.google.com/){:target="_blank"} (general purpose)
+- [Microsoft CoPilot (UVic licensed)](https://copilot.microsoft.com){:target="_blank"} (general purpose) (general purpose)
 
 To be ready to jump right into the interactive activities during the workshop, **please watch these short videos beforehand**:
 
