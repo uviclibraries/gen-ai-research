@@ -62,4 +62,4 @@ Remember, while these strategies can help reduce the likelihood of encountering 
 > - **How will you try to craft your prompts to make the response less biased and more inclusive?**
 > - **What are the key things you can do to critically review GenAI generated responses?**
 
-[NEXT STEP: Cite GenAI Output](4-cite.html){: .btn .btn-blue }
+[NEXT STEP: Privacy & The Environment](5-privacy.html){: .btn .btn-blue }
