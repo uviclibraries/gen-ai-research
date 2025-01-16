@@ -72,7 +72,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - Start a "New topic" by pressing the blue button on the bottom left of the screen, and then paste in the following text and press enter:
 <br>```I am a teacher teaching grade 4 students about the weather. Please generate a lesson plan for a one-hour lesson about weather including a 30-minute activity to help students remember what they learned in the instruction portion of the lesson.```<br>
   - Now look through the lesson plan and look at the "Activity" section. Let's ask Copilot to give us more details by asking the following:
-<br>```Please provide additional and detailed step-by-step student instructions for the activity portion of the lesson plan.```<br>
+<br>```Please provide additional and detailed step-by-step student instructions for the activity portion of the lesson plan at a grade 4 language level.```<br>
 2. Reflection time:
 >  - **How useful is the lesson plan your GenAI tool created?**
 >  - **Do you have enough background knowledge in global warming and teaching to critically evaluate the quality of your GenAI tool's response?**
