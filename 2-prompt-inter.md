@@ -64,7 +64,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 <br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
   - Tone:
 <br>```Reword it using the humorous tone and language of a Dr. Seuss book.```<br>
-  - Image generation:
+  - Image generation using **[Meta.ai](https://meta.ai){:target="_blank"}** or **[Copilot](https://copilot.microsot.vom){:target="_blank"}**:
 <br>```Create an image of a grade 4 student learning about the global warming.```<br>
 <img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
   - Image modification:
