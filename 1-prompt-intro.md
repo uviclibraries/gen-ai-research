@@ -10,8 +10,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning effective GenAI prompt design">
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## Prompt Design
-### Prompt Design Basics: The CRAFT Framework
+## Prompt Design Basics: The CRAFT Framework
 While it is easy to get started using Generative AI tools, it takes time and practice to get the best results out of Generative AI tools. 
 Each element of the CRAFT framework below contributes to the overall effectiveness of your prompt, making sure that the outputs are clear, relevant, and well-structured:
 - **Context**: Set the stage by providing background information. Include key details like the purpose of the task, audience, or tone. Example: ```Write a formal email to a professor about missing class due to illness.```
