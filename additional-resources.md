@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Generative AI for Student Research Resources
+## Generative AI Prompt Design
 - More resources coming soon...
 
 ## Acknowledgements
