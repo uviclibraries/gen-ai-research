@@ -21,7 +21,6 @@ If you’d like to earn a DSC badge for this workshop, please email the followin
 3. In one or two sentences describe the key ethical and privacy considerations when deciding whether or not it would be appropriate to use GenAI tools in academic work.
 4. In one or two sentences, please provide an overview of UVic’s policy on using GenAI for academic research or assignments.
 
-
 ### Learn how you can share your DSC Badge
 To learn more about DSC badges and how you can share them on your LinkedIn profile, personal website, or resume, check our [DSC Badges webpage](https://onlineacademiccommunity.uvic.ca/dsc/badges/){:target="_blank"}.
 
