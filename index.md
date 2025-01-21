@@ -26,6 +26,8 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 5. Evaluate Quality and Reliability: Teach participants how to critically evaluate the outputs of Generative AI tools, including assessing accuracy, relevance, and potential biases.
 6. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity.
 
+[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
+
 ## Generative AI Workshop Pathway
 
 This workshop is part of our Generative AI Workshop Pathway. The Pathway workshops are designed to help subject area experts and non-experts, and help meet the needs of students, faculty, & staff by offering foundational to advanced research & productivity skills training:
@@ -33,5 +35,3 @@ This workshop is part of our Generative AI Workshop Pathway. The Pathway worksho
 - **[GenAI Introduction](https://uviclibraries.github.io/genai-pathway/#introductory-workshops){:target="_blank"}**
 - **[GenAI Intermediate](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
 - **[GenAI Advanced](https://uviclibraries.github.io/genai-pathway/#intermediate-workshops){:target="_blank"}**
-
-[NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
