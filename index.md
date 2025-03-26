@@ -22,9 +22,11 @@ At the end of this **Introductory** portion of this workshop, you will be able t
 1. Understand Generative AI: Define Generative AI and explain its relevance and potential applications in student research.
 2. Apply strategies such as prompt design, critical review of terms and conditions, and adjustments to privacy settings to address GenAI ethics and safety issues.
 3. Explore Use Cases: Identify specific use cases of different GenAI in academic settings, such as idea generation, and data analysis.
-4. Practical Applications: Demonstrate how to use Generative AI tools effectively for research purposes, including tips for generating useful outputs and refining queries.
-5. Evaluate Quality and Reliability: Teach participants how to critically evaluate the outputs of Generative AI tools, including assessing accuracy, relevance, and potential biases.
-6. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity.
+5. Practical Applications:
+   - Demonstrate how to use Generative AI tools effectively for research purposes, including tips for generating useful outputs & refining queries.
+   - Demonstrate how to provide feedback on assignments before submitting them while following academic integrity guidelines.
+7. Evaluate Quality and Reliability: Teach participants how to critically evaluate the outputs of Generative AI tools, including assessing accuracy, relevance, and potential biases.
+8. UVic Policies: Describe UVic policies and guidelines that relate to the use of GenAI, and understand their implications for academic integrity.
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
