@@ -1,7 +1,7 @@
 ---
 layout: default
-title: 6 - Literature Review Tools
-nav_order: 8
+title: 7 - Literature Review Tools
+nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
