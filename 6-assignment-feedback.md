@@ -7,9 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Assignment Feedback or Formative Assessment
-"The use of user prompts as training data for Generative AI tools raises significant privacy concerns. When personal information is included in training datasets, it can lead to unintended disclosures and misuse. Users must be aware of how their data is used and protected to ensure their privacy is maintained." ([ChatGPT 4.0, 2024](https://chat.openai.com/share/f84eb3ac-b9be-435c-ae38-9676702a02f9){:target="_blank"})
-
-The source for this activity is [Christian Schmidt's excellent AI resources](https://www.canva.com/design/DAF8EoHZ_kA/N4d3y1TPeF5LklU9sj6_YQ/edit){:target="_blank"}.
+Let's start work on a practical exercise that will demonstrate the power of Generative AI as your personal assignment pre-submission feedback partner. In this hands-on activity, you'll experience firsthand how to effectively provide a GenAI tool with assignment instructions and your completed assignment. We'll then explore specific prompts you can use to gain valuable insights into whether you've fully addressed all aspects of the assignment and to receive targeted suggestions for enhancing the clarity and quality of your writing. 
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
@@ -21,13 +19,5 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 ## Privacy & Data Collection in ChatGPT
 1. The good news is that you can change the privacy setting in ChatGPT so that your user data and prompts are not used by ChatGPT as Training Data.
 2. Follow the instructions below to stop ChatGPT from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
-<br><img src="images/5-chatgpt-privacy.png"  alt="ChatGPT privacy screenshot"><br>
-
-## Privacy & Data Collection in Perplexity.ai
-1. The good news is that you can change the privacy settings in Perplexity so that your user data and prompts are not used by Perplexity as Training Data.
-2. Follow the instructions below to stop Perplexity from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
-<br><img src="images/5-perplexity-privacy.png"  alt="Perplexity privacy screenshot"><br>
-
-
 
 [NEXT STEP: Literature Review Activities](7-lit-review.html){: .btn .btn-blue }
