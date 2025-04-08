@@ -12,8 +12,8 @@ Let's start work on a practical exercise that will demonstrate how GenAI tools c
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
-## Getting started
-1. Access Gemini. Open the Gemini interface. This might be through a website (like gemini.google.com) or an application, depending on how you are accessing it.
+## Let's Get Started
+1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
 2. Start a New Chat. Initiate a new conversation or chat session with Gemini.
 3. Provide Context - The Assignment Instructions. Clearly state that you would like feedback on an assignment. Copy and paste the exact instructions for the assignment into the chat. This is crucial for Gemini to understand the requirements and expectations of your work.
 4. Provide Your Work. Once you've provided the instructions, clearly indicate that you will now share your work.
