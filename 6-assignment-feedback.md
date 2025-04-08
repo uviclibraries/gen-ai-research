@@ -6,6 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
+# UNDER CONSTRUCTION
 # Assignment Feedback
 <img src="images/6-genai-feedback-2.png" style="float:right;width:320px;" alt="A computer helping a child with their assignment">
 Let's start work on a practical exercise that will demonstrate how GenAI tools can become your personal assignment pre-submission feedback partner. In this hands-on activity, you'll explore how to effectively provide a GenAI tool with assignment instructions along with your completed assignment to give you custom feedback. We'll then explore specific prompts you can use to gain valuable insights into whether you've fully addressed all aspects of the assignment and to receive targeted suggestions for enhancing the clarity and quality of your writing. 
