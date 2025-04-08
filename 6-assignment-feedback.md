@@ -32,17 +32,12 @@ Copy and paste the content of your assignment directly into the chat. Ensure all
 6. Submit Your Request. Send your message containing the assignment instructions, your work, and your specific feedback requests to Gemini.
 7. Review Gemini's Feedback. Gemini will process your input and provide feedback based on your request. Read the feedback carefully.
 
-Step 8: Ask Follow-Up Questions (Optional). If you need clarification or have further questions about the feedback, don't hesitate to ask Gemini for more details or examples. You can engage in a dialogue to deepen your understanding.
-
-Step 9: Revise Your Work. Use the feedback you received from Gemini to revise and improve your assignment before submitting it.
-
-Example of how you might structure your conversation with Gemini:
-
-You: "Hi Gemini, I'd like some feedback on an assignment I've completed. Here are the instructions: [Paste assignment instructions here]"
-
-You: "Okay, here is my work: [Paste your assignment content here]"
-
-You: "Could you please provide feedback on how well my work addresses all parts of the assignment, the clarity of my arguments, and any areas where I could improve the structure and organization? Thank you."
+## Follow-up questions or prompts
+8. Ask Follow-Up Questions (Optional). If you need clarification or have further questions about the feedback, don't hesitate to ask Gemini for more details or examples. You can engage in a dialogue to deepen your understanding.
+9. Revise Your Work. Use the feedback you received from Gemini to revise and improve your assignment before submitting it. Example of how you might structure your conversation with Gemini:
+- You: "Hi Gemini, I'd like some feedback on an assignment I've completed. Here are the instructions: [Paste assignment instructions here]"
+- You: "Okay, here is my work: [Paste your assignment content here]"
+- You: "Could you please provide feedback on how well my work addresses all parts of the assignment, the clarity of my arguments, and any areas where I could improve the structure and organization? Thank you."
 
 By following these steps, you can effectively use Gemini to get valuable feedback on your assignments. Remember to be clear and specific in your requests to get the most helpful responses.
 
