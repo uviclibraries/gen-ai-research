@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
 # Assignment Feedback or Formative Assessment
-<img src="images/6-genai-feedback.png" style="float:right;width:320px;" alt="A computer helping a child with their assignment">
+<img src="images/6-genai-feedback-2.png" style="float:right;width:320px;" alt="A computer helping a child with their assignment">
 Let's start work on a practical exercise that will demonstrate the power of Generative AI as your personal assignment pre-submission feedback partner. In this hands-on activity, you'll experience firsthand how to effectively provide a GenAI tool with assignment instructions and your completed assignment. We'll then explore specific prompts you can use to gain valuable insights into whether you've fully addressed all aspects of the assignment and to receive targeted suggestions for enhancing the clarity and quality of your writing. 
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
