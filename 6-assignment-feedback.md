@@ -16,7 +16,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 ## Let's Get Started
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
 3. We need two things in order to request feedback on an assignment you're ready to submit. You can use your own completed assignment and assignment instructions -OR- you can use the following sample completed assignment and assignment instructions:
-   - [**Completed assignment**](images/6-assignment-1.pdf){:target="_blank"} (PDF download)
+   - [**Download sample completed assignment**](images/6-assignment-1.pdf){:target="_blank"} (Please note where the sample assignment PDF file downloads on your computer)
    - **Assignment instructions**:
       - Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on;
       - Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats);
