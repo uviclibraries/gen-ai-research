@@ -11,6 +11,8 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 <img src="images/6-genai-feedback-2.png" style="float:right;width:320px;" alt="A computer helping a child with their assignment">
 Let's start work on a practical exercise that will demonstrate how GenAI tools can become your personal assignment pre-submission feedback partner. In this hands-on activity, you'll explore how to effectively provide a GenAI tool with assignment instructions along with your completed assignment to give you custom feedback. We'll then explore specific prompts you can use to gain valuable insights into whether you've fully addressed all aspects of the assignment and to receive targeted suggestions for enhancing the clarity and quality of your writing. 
 
+The use GenAI tools for self-assessment is encouraged by UVic's Learning and Teaching Support and Innovation (LTSI). Here is a supportive quote from UVic’s Generative Artificial Intelligence (GenAI) Position Statement: "The use of GAITs for self-assessment is encouraged" ([LTSI, 2024](https://teachanywhere.uvic.ca/top-post/genai-position-statement/){:target="_blank"}.
+
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## A Text Only Assignment Example
