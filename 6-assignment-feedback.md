@@ -74,7 +74,7 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
 4. Attach the completed assignment to the chat (this is the sample assignment is the PDF file you downloaded in Step 3).
 <br><img style="border:1px solid black;" src="images/6-prompt-assignment-2b.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback including an uploaded PDF document." border="1"><br>   
 6. Press the **Enter** key on your keyboard to submit your request.
-<br><img style="border:1px solid black;" src="images/6-genai-feedback-2.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback" border="1"><br>
+<br><img style="border:1px solid black;" src="images/6-genai-feedback-2b.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback" border="1"><br>
 9. Review your GenAI tool's Feedback.  Read the feedback carefully for potential errors and omissions.
 >   - Has it suggested to add things from the assignment instructions that you missed?
 >   - Can you see any mistakes that it's made?
