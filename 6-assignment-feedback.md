@@ -34,7 +34,7 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
    - Clarity and coherence
    - Accuracy of information
    - Areas for improvement
-4. Here's the feedback we'll ask for. **Copy and paste this text into the chatbox of your favourite GenAI tool**, but don't press enter on your keyboard yet: ```I'd like feedback on an assignment I've completed including, yow well I address the assignment instructions, for clarity and coherence, and please provide a bullet point list for areas of improvement. ```
+4. Here's the feedback we'll ask for. **Copy and paste this text into the chatbox of your favourite GenAI tool**, but don't press enter on your keyboard yet: ```I'd like feedback on an assignment I've completed including, how well I address the assignment instructions, for clarity and coherence, and please provide a bullet point list for areas of improvement. ```
 5. **Copy and paste the assignment instructions into the chatbox after the feedback text you just gave it**: ```Assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc. ```
 6. **Copy and paste the assignment text into the chatbox after the assignment instructions text you just gave it**: ```Returning from spring break I felt prepared to continue through the semester and finish my degree on a high note. This week our class touched on annotation and curation, specifically working with some digital tools that aid with annotations like zotero and hypothes.is. The latter functions as a group annotation plug-in, allowing more social interaction and personal feedback and information from others rather than the popular model of anonymity and compilation/conglomeration of sources on the regular web. The ability to rank information gives a different perspective on what’s being presented to you. Rather than an algorithm carefully picking which information to feed you, it feels more crowdsourced and objective instead of a viewpoint being forced upon you. Zotero is a tool that helps organize and save sources being used in most capacities. The ability to keep track of sources being used when writing a lengthy essay or research paper can be very helpful. Overall it’s not one I will likely use going forward as I haven’t had any issues with citation generators and tracking sources myself. Overall they were both helpful to learn and broaden my understanding of what is available in terms of browser extensions.```<br>
 <br><img style="border:1px solid black;" src="images/6-prompt-assignment-1.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback" border="1"><br>
@@ -53,7 +53,7 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
 ## A Mixed-Media Assignment Example
 ### Let's Get Started
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
-3. We need two things in order to request feedback on an assignment you're ready to submit. You can use your own completed assignment and assignment instructions from your instructor **-OR-** you can use the following sample completed assignment and assignment instructions:
+2. We need two things in order to request feedback on an assignment you're ready to submit. You can use your own completed assignment and assignment instructions from your instructor **-OR-** you can use the following sample completed assignment and assignment instructions:
    - [**Download sample completed assignment**](images/6-assignment-1.pdf){:target="_blank"} (Please note where the sample assignment PDF file downloads on your computer)
    - **Assignment instructions**:
       - Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on;
@@ -62,18 +62,24 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
       - Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.
 
 ### What Kind Of Feedback Do You Want?
-5. Determine the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
+1. Determine the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
    - How well it addresses the assignment instructions
    - Clarity and coherence
    - Accuracy of information
    - Structure and organization
    - Strength of arguments (if applicable)
    - Areas for improvement
-6. Next we'll bring together the **prompt**, the **assignment instructions**, and the **completed assignment**.
-5. Copy and paste the following prompt into Perplexity or Microsoft Copilot: ```I'd like feedback on an assignment I've completed, including feedback on completion o. Here are the assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.```
-6. Attach the completed assignment (the sample assignment is the PDF file you downloaded in Step 3).
-7. Submit Your Request. Send your message containing the assignment instructions, your work, and your specific feedback requests to Gemini.
-8. Review Gemini's Feedback. Gemini will process your input and provide feedback based on your request. Read the feedback carefully.
+2. Here's the feedback we'll ask for. **Copy and paste this text into the chatbox of your favourite GenAI tool**, but don't press enter on your keyboard yet: ```I'd like feedback on an assignment I've completed including, how well I address the assignment instructions, for clarity and coherence, accuracy of information, strength of arguments, and please provide a bullet point list for areas of improvement. ```
+3. **Copy and paste the assignment instructions into the chatbox after the feedback text you just gave it**: ```Assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc. ```
+4. Attach the completed assignment to the chat (this is the sample assignment is the PDF file you downloaded in Step 3).
+<br><img style="border:1px solid black;" src="images/6-prompt-assignment-2.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback including an uploaded PDF document." border="1"><br>   
+6. Press the **Enter** key on your keyboard to submit your request.
+<br><img style="border:1px solid black;" src="images/6-genai-feedback-2.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback" border="1"><br>
+9. Review your GenAI tool's Feedback.  Read the feedback carefully for potential errors and omissions.
+>   - Has it suggested to add things from the assignment instructions that you missed?
+>   - Can you see any mistakes that it's made?
+>   - Has it suggested any areas of improvement? Are they good suggestions?
+>   - Have you found the GenAI feedback useful overall?
 
 ### Follow-up Questions or Prompts
 8. Ask Follow-Up Questions (Optional). If you need clarification or have further questions about the feedback, don't hesitate to ask Gemini for more details or examples. You can engage in a dialogue to deepen your understanding.
