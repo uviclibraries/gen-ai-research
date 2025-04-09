@@ -13,6 +13,8 @@ Let's start work on a practical exercise that will demonstrate how GenAI tools c
 
 The use GenAI tools for self-assessment is encouraged by UVic's department of Learning and Teaching Support and Innovation (LTSI). Here is a quote from LTSI on their Teach Anywhere website: "The use of GAITs for self-assessment is encouraged" ([LTSI, 2024](https://teachanywhere.uvic.ca/top-post/genai-position-statement/){:target="_blank"}. 
 
+> **NOTE: TALK ABOUT HOW IF A PROF DOES NOT ALL THE USE OF AI FOR THE ASSIGNMENT, THEN THE ONLY PERMITTED USE WOULD BE FOR ASSIGNMENT FEEDBACK...**
+
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
 ## A Text Only Assignment Example
