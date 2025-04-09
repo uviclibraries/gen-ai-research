@@ -22,12 +22,9 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 >     - Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats);
 >     - Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues;
 >     - Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.
-4. Copy and paste the following prompt into Perplexity or Microsoft Copilot: ```I'd like feedback on an assignment I've completed. Here are the assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.```
-5. Attach the completed assignment (the sample assignment is the PDF file you downloaded in Step 3).
-6. 
 
 ## Specify the feedback you would like
-5. Specify the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
+4. Specify the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
    - Clarity and coherence
    - Accuracy of information
    - How well it addresses the assignment prompt
@@ -36,8 +33,10 @@ If you have any questions or get stuck as you work through this in-class GenAI e
    - Strength of arguments (if applicable)
    - Areas for improvement
    - Specific sections or aspects of your work
-6. Submit Your Request. Send your message containing the assignment instructions, your work, and your specific feedback requests to Gemini.
-7. Review Gemini's Feedback. Gemini will process your input and provide feedback based on your request. Read the feedback carefully.
+5. Copy and paste the following prompt into Perplexity or Microsoft Copilot: ```I'd like feedback on an assignment I've completed. Here are the assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.```
+6. Attach the completed assignment (the sample assignment is the PDF file you downloaded in Step 3).
+7. Submit Your Request. Send your message containing the assignment instructions, your work, and your specific feedback requests to Gemini.
+8. Review Gemini's Feedback. Gemini will process your input and provide feedback based on your request. Read the feedback carefully.
 
 ## Follow-up questions or prompts
 8. Ask Follow-Up Questions (Optional). If you need clarification or have further questions about the feedback, don't hesitate to ask Gemini for more details or examples. You can engage in a dialogue to deepen your understanding.
