@@ -6,7 +6,7 @@ parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 ---
 
-# **** **UNDER CONSTRUCTION** ****
+# ****  **UNDER CONSTRUCTION**  ****
 # Assignment Feedback
 <img src="images/6-genai-feedback-2.png" style="float:right;width:320px;" alt="A computer helping a child with their assignment">
 Let's start work on a practical exercise that will demonstrate how GenAI tools can become your personal assignment pre-submission feedback partner. In this hands-on activity, you'll explore how to effectively provide a GenAI tool with assignment instructions along with your completed assignment to give you custom feedback. We'll then explore specific prompts you can use to gain valuable insights into whether you've fully addressed all aspects of the assignment and to receive targeted suggestions for enhancing the clarity and quality of your writing. 
@@ -15,21 +15,28 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 
 ## Let's Get Started
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
-3. Provide Context - The Assignment Instructions. You should clearly state that you would like feedback on an assignment. This is crucial for the GenAI tools to understand the requirements and expectations of your work. Copy and paste the following into the chat and note the results:<br>
+2. We need two things in order to request feedback on an assignment you're ready to submit. 
+   - Your completed assignment.
+   - The assignment instructors from your professor.
+3. You can use your own completed assignment and assignment instructions or you can use the following sample documents:
+   - [**Completed assignment download**](images/6-assignment-1.pdf){:target="_blank"}.
+   - Assignment instructions download.
+
+5. Provide Context - The Assignment Instructions. You should clearly state that you would like feedback on an assignment. This is crucial for the GenAI tools to understand the requirements and expectations of your work. Copy and paste the following into the chat and note the results:<br>
 ```I'd like some feedback on an assignment I've completed. **Here are the assignment instructions** (I will provide my work to be assessed the next prompt): Include a concise summary of the technologies, teaching methods, or topics you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks (especially for language revitalization), age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc. **Here is my assignment**: ```<br>
-4. Provide Your Work. Once you've provided the instructions, clearly indicate that you will now share your work.
+6. Provide Your Work. Once you've provided the instructions, clearly indicate that you will now share your work.
 Copy and paste the content of your assignment directly into the chat. Ensure all relevant parts of your work are included.
 
 ## Specify the feedback you would like
 5. Specify the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
-- Clarity and coherence
-- Accuracy of information
-- How well it addresses the assignment prompt
-- Grammar and spelling
-- Structure and organization
-- Strength of arguments (if applicable)
-- Areas for improvement
-- Specific sections or aspects of your work
+   - Clarity and coherence
+   - Accuracy of information
+   - How well it addresses the assignment prompt
+   - Grammar and spelling
+   - Structure and organization
+   - Strength of arguments (if applicable)
+   - Areas for improvement
+   - Specific sections or aspects of your work
 6. Submit Your Request. Send your message containing the assignment instructions, your work, and your specific feedback requests to Gemini.
 7. Review Gemini's Feedback. Gemini will process your input and provide feedback based on your request. Read the feedback carefully.
 
