@@ -27,17 +27,13 @@ If you have any questions or get stuck as you work through this in-class GenAI e
       - Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.
    - **Sample completed assignment**:
 ```Returning from reading break I felt prepared to continue through the semester and finish my degree on a high note. Our EDIC unit touched on annotation and curation, specifically working with some digital tools that aid with annotations like zotero and hypothes.is. The latter functions as a group annotation plug-in, allowing more social interaction and personal feedback and information from others rather than the popular model of anonymity and compilation/conglomeration of sources on the regular web. The ability to rank information gives a different perspective on what’s being presented to you. Rather than an algorithm carefully picking which information to feed you, it feels more crowdsourced and objective instead of a viewpoint being forced upon you.
-
 Zotero is a tool that helps organize and save sources being used in most capacities. The ability to keep track of sources being used when writing a lengthy essay or research paper can be very helpful. Overall it’s not one I will likely use going forward as I haven’t had any issues with citation generators and tracking sources myself. Overall they were both helpful to learn and broaden my understanding of what is available in terms of browser extensions. ```
      
-
 ### What Kind Of Feedback Do You Want?
 5. Determine the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
    - How well it addresses the assignment instructions
    - Clarity and coherence
    - Accuracy of information
-   - Structure and organization
-   - Strength of arguments (if applicable)
    - Areas for improvement
 6. Next we'll bring together the **prompt**, the **assignment instructions**, and the **completed assignment**.
 5. Copy and paste the following prompt into Perplexity or Microsoft Copilot: ```I'd like feedback on an assignment I've completed, including feedback on completion o. Here are the assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.```
