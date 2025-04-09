@@ -72,7 +72,7 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
 2. Here's the feedback we'll ask for. **Copy and paste this text into the chatbox of your favourite GenAI tool**, but don't press enter on your keyboard yet: ```I'd like feedback on an assignment I've completed including, how well I address the assignment instructions, for clarity and coherence, accuracy of information, strength of arguments, and please provide a bullet point list for areas of improvement. ```
 3. **Copy and paste the assignment instructions into the chatbox after the feedback text you just gave it**: ```Assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc. ```
 4. Attach the completed assignment to the chat (this is the sample assignment is the PDF file you downloaded in Step 3).
-<br><img style="border:1px solid black;" src="images/6-prompt-assignment-2.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback including an uploaded PDF document." border="1"><br>   
+<br><img style="border:1px solid black;" src="images/6-prompt-assignment-2b.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback including an uploaded PDF document." border="1"><br>   
 6. Press the **Enter** key on your keyboard to submit your request.
 <br><img style="border:1px solid black;" src="images/6-genai-feedback-2.png"  alt="Submitting assignment instructions and the assignment for GenAI feedback" border="1"><br>
 9. Review your GenAI tool's Feedback.  Read the feedback carefully for potential errors and omissions.
@@ -80,7 +80,7 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
 >   - Can you see any mistakes that it's made?
 >   - Has it suggested any areas of improvement? Are they good suggestions?
 >   - Have you found the GenAI feedback useful overall?
-
+b
 ### Follow-up Questions or Prompts
 8. Ask Follow-Up Questions (Optional). If you need clarification or have further questions about the feedback, don't hesitate to ask Gemini for more details or examples. You can engage in a dialogue to deepen your understanding.
 9. Revise Your Work. Use the feedback you received from Gemini to revise and improve your assignment before submitting it. Example of how you might structure your conversation with Gemini:
