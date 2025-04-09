@@ -53,7 +53,7 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
 ## A Mixed-Media Assignment Example
 ### Let's Get Started
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
-2. We need two things in order to request feedback on an assignment you're ready to submit. You can use your own completed assignment and assignment instructions from your instructor **-OR-** you can use the following sample completed assignment and assignment instructions:
+2. We need two things in order to request feedback on an assignment you're ready to submit:
    - [**Download sample completed assignment**](images/6-assignment-1.pdf){:target="_blank"} (Please note where the sample assignment PDF file downloads on your computer)
    - **Assignment instructions**:
       - Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on;
