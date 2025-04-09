@@ -80,14 +80,11 @@ Now we'll bring together the **prompt instructions**, the **assignment instructi
 >   - Can you see any mistakes that it's made?
 >   - Has it suggested any areas of improvement? Are they good suggestions?
 >   - Have you found the GenAI feedback useful overall?
-b
-### Follow-up Questions or Prompts
-8. Ask Follow-Up Questions (Optional). If you need clarification or have further questions about the feedback, don't hesitate to ask Gemini for more details or examples. You can engage in a dialogue to deepen your understanding.
-9. Revise Your Work. Use the feedback you received from Gemini to revise and improve your assignment before submitting it. Example of how you might structure your conversation with Gemini:
-- You: ```I'd like some feedback on an assignment I've completed. Here are the instructions: [Paste assignment instructions here]```
-- You: ```Okay, here is my work: [Paste your assignment content here]```
-- You: ```Could you please provide feedback on how well my work addresses all parts of the assignment, the clarity of my arguments, and any areas where I could improve the structure and organization? Thank you.```
 
-By following these steps, you can effectively use Gemini to get valuable feedback on your assignments. Remember to be clear and specific in your requests to get the most helpful responses.
+### Follow-up Questions or Prompts
+8. If needed, you can ask follow-up questions of your GenAI tool. You can engage in a dialogue to clarify suggestions or ask it to expand on something.
+9. Revise Your Work: Upon critical reflection for each suggestion, use the feedback of the good suggestions as the basis for revising and improving your assignment before submitting it. NOTE: You are not copying or pasting anything from the suggestions but are using the suggestions as inspiration to revise your assignment text in your own words.
+
+By following these steps, you can effectively use GenAI tools to get valuable feedback on your assignments. Remember to be clear and specific in your requests to get the most helpful responses.
 
 [NEXT STEP: Literature Review Activities](7-lit-review.html){: .btn .btn-blue }
