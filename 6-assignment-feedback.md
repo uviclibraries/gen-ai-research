@@ -20,12 +20,14 @@ If you have any questions or get stuck as you work through this in-class GenAI e
    - The assignment instructors from your professor.
 3. You can use your own completed assignment and assignment instructions or you can use the following sample documents:
    - [**Completed assignment download**](images/6-assignment-1.pdf){:target="_blank"}.
-   - Assignment instructions download.
-
-5. Provide Context - The Assignment Instructions. You should clearly state that you would like feedback on an assignment. This is crucial for the GenAI tools to understand the requirements and expectations of your work. Copy and paste the following into the chat and note the results:<br>
-```I'd like some feedback on an assignment I've completed. **Here are the assignment instructions** (I will provide my work to be assessed the next prompt): Include a concise summary of the technologies, teaching methods, or topics you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks (especially for language revitalization), age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc. **Here is my assignment**: ```<br>
-6. Provide Your Work. Once you've provided the instructions, clearly indicate that you will now share your work.
-Copy and paste the content of your assignment directly into the chat. Ensure all relevant parts of your work are included.
+   - [**Assignment instructions**]:
+      - Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on;
+      - Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats);
+      - Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues;
+      - Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.
+4. Copy and paste the following prompt into Perplexity or Microsoft Copilot: ```I'd like feedback on an assignment I've completed. Here are the assignment instructions: Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on; Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats); Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues; Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.```
+5. Attach the completed assignment (the sample assignment is the PDF file you downloaded in Step 3).
+6. 
 
 ## Specify the feedback you would like
 5. Specify the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
