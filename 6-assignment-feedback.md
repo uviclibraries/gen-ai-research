@@ -8,10 +8,10 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 
 # %%%%  **UNDER CONSTRUCTION**  %%%%
 # Assignment Feedback
-<img src="images/6-genai-feedback-2.png" style="float:right;width:320px;" alt="A computer helping a child with their assignment">
+<img src="images/6-genai-feedback-2.png" style="float:right;width:300px;" alt="A computer helping a child with their assignment">
 Let's start work on a practical exercise that will demonstrate how GenAI tools can become your personal assignment pre-submission feedback partner. In this hands-on activity, you'll explore how to effectively provide a GenAI tool with assignment instructions along with your completed assignment to give you custom feedback. We'll then explore specific prompts you can use to gain valuable insights into whether you've fully addressed all aspects of the assignment and to receive targeted suggestions for enhancing the clarity and quality of your writing. 
 
-The use GenAI tools for self-assessment is encouraged by UVic's Learning and Teaching Support and Innovation (LTSI). Here is a supportive quote from UVic’s Generative Artificial Intelligence (GenAI) Position Statement: "The use of GAITs for self-assessment is encouraged" ([LTSI, 2024](https://teachanywhere.uvic.ca/top-post/genai-position-statement/){:target="_blank"}.
+The use GenAI tools for self-assessment is encouraged by UVic's department of Learning and Teaching Support and Innovation (LTSI). Here is a quote from LTSI on their Teach Anywhere website: "The use of GAITs for self-assessment is encouraged" ([LTSI, 2024](https://teachanywhere.uvic.ca/top-post/genai-position-statement/){:target="_blank"}. 
 
 If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
 
@@ -19,12 +19,12 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 ### Let's Get Started
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
 3. We need two things in order to request feedback on an assignment you're ready to submit. You can use your own completed assignment and assignment instructions from your instructor **-OR-** you can use the following sample completed assignment and assignment instructions:
-   - [**Download sample completed assignment**](images/6-assignment-1.pdf){:target="_blank"} (Please note where the sample assignment PDF file downloads on your computer)
    - **Assignment instructions**:
       - Include a concise summary of the technologies, teaching methods, or topics from this week's class that you are reflecting on or commenting on;
       - Employ a multimedia strategy for your post by using text and one or more other media to enrich your post and help make it more engaging (e.g., screencast, podcast, video, sketchnote, image, infographics, or other formats);
       - Your post demonstrates a critical reflection on the technologies, or teaching methods, including (but not limited to): possible benefits & drawbacks, age appropriateness, possible or actual privacy & security issues, and possible equity issues;
       - Utilize social writing strategies such as hyperlinks to blog posts (e.g., trackbacks) or to articles/resources consulted, including web pages, images, videos, etc.
+   - **Sample completed assignment**(images/6-assignment-1.pdf){:target="_blank"} (Please note where the sample assignment PDF file downloads on your computer)
 
 ### What Kind Of Feedback Do You Want?
 5. Determine the Type of Feedback You Need. Be specific about what kind of feedback you are looking for. For example, you could ask for feedback on:
@@ -47,7 +47,7 @@ If you have any questions or get stuck as you work through this in-class GenAI e
 - You: ```Okay, here is my work: [Paste your assignment content here]```
 - You: ```Could you please provide feedback on how well my work addresses all parts of the assignment, the clarity of my arguments, and any areas where I could improve the structure and organization? Thank you.```
 
-## A Mixed Media Assignment Example
+## A Mixed-Media Assignment Example
 ### Let's Get Started
 1. If you haven't already, in your favourite web browser please open either [**Perplexity.ai**](https://www.perplexity.ai/){:target="_blank"} (no account required) -OR- [**Microsoft Copilot**](https://copilot.microsoft.com/){:target="_blank"}.
 3. We need two things in order to request feedback on an assignment you're ready to submit. You can use your own completed assignment and assignment instructions from your instructor **-OR-** you can use the following sample completed assignment and assignment instructions:
