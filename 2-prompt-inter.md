@@ -49,7 +49,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
   - New Prompt (leveraging precedent): ```Explain the concept of LA NIÑA and its impact on global weather patterns. Provide sources.```
 8. **Assign a role** to the GenAI to the tool in order to provide additional context for the result: 
 ```You are the head of a creative department for a leading advertising agency...```
-9. **Create an Image** in **[Meta.ai](https://meta.ai){:target="_blank"}** or **[Copilot](https://copilot.microsot.vom){:target="_blank"}** (the free version of Perplexity.ai does not allow you to generate images). The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
+9. **Create an Image** in **[Meta.ai](https://meta.ai){:target="_blank"}** or **[Copilot](https://copilot.microsoft.com){:target="_blank"}** (the free version of Perplexity.ai does not allow you to generate images). The image to the right was created by Copilot using the prompt below. Be sure to take a close look at the child's left hand, and notice the extra finger that Copilot has accidentally included. GenAI image generators will sometimes do weird things.
 (Note: The free version ChatGPT as of January 2025 does not allow users to generate images):
   - Successful prompt: ```Create an image of a grade 2 student learning about the weather.```
   - Use your own prompt now and experiment with creating your own images.
@@ -64,7 +64,7 @@ Please practice each of the following tips by trying out the _"poor"_ and _"bett
 <br>```Limit the text to 300 words in the language that a grade 4 student can understand.```<br>
   - Tone:
 <br>```Reword it using the humorous tone and language of a Dr. Seuss book.```<br>
-  - Image generation using **[Meta.ai](https://meta.ai){:target="_blank"}** or **[Copilot](https://copilot.microsot.vom){:target="_blank"}**:
+  - Image generation using **[Meta.ai](https://meta.ai){:target="_blank"}** or **[Copilot](https://copilot.microsoft.com){:target="_blank"}**:
 <br>```Create an image of a grade 4 student learning about the global warming.```<br>
 <img src="images/1-global-warming-seuss.jpeg" style="float:right;width:320px;height:320px;" alt="A GenAI created picture of a student learning about the global warming">
   - Image modification:
