@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1 - Prompt Design Intro
+title: 1 - Prompt Design 1
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
