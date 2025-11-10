@@ -176,5 +176,17 @@ Constraints: Use only my list; no new sources.
 ---
 `Lit Review: add scope→search→skim→synthesize workflow, prompts, triage/synthesis tables, and citation hygiene`
 
+## PRISMA-lite log (keep it simple)
+| Stage | Count | Notes |
+|---|---|---|
+| Records identified |  |
+| Duplicates removed |  |
+| Screened (title/abstract) |  |
+| Full-text assessed |  |
+| Included in review |  |
+
+> Tip: keep this in your notes or a sheet; it saves time later.
+
+
 [NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
 ```
