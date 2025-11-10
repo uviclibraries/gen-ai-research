@@ -163,5 +163,7 @@ If unsure or the source is paywalled, say "NOT SURE" or "PAYWALL"—do not guess
 
 ---
 
+Critical Review: add claim-audit workflow, evidence/correction templates, bias counter-prompts; fix typos, alt text, and link hygiene
+
 [NEXT STEP: Privacy & The Environment](5-privacy.html){: .btn .btn-blue }
 
