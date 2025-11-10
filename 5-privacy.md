@@ -1,57 +1,152 @@
+
 ---
 layout: default
 title: 5 - Privacy & Environment
 nav_order: 7
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
+description: "Practical privacy, redaction, and sustainable GenAI use—with hands-on drills and step-by-step toggles for Copilot, ChatGPT, and Perplexity."
+last_modified_date: 2025-11-09
 ---
 
-# Privacy, The Environment & Generative AI Tools
-"The use of user prompts as training data for Generative AI tools raises significant privacy concerns. When personal information is included in training datasets, it can lead to unintended disclosures and misuse. Users must be aware of how their data is used and protected to ensure their privacy is maintained." ([ChatGPT 4.0, 2024](https://chat.openai.com/share/f84eb3ac-b9be-435c-ae38-9676702a02f9){:target="_blank"})
+# Privacy, the Environment & Generative AI
 
-The source for this activity is [Christian Schmidt's excellent AI resources](https://www.canva.com/design/DAF8EoHZ_kA/N4d3y1TPeF5LklU9sj6_YQ/edit){:target="_blank"}.
+GenAI tools are powerful—but they aren’t private by default, and heavy usage can be wasteful. This page shows how to protect personal/research data, set safer defaults in tools, and use GenAI more sustainably. If you get stuck, ask the instructor.
 
-If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
+> Adapted in part from [Christian Schmidt’s AI resources](https://www.canva.com/design/DAF8EoHZ_kA/N4d3y1TPeF5LklU9sj6_YQ/edit){:target="_blank" rel="noopener"}.
 
-## Privacy & Data Collection in UVic's Copilot
-1. The good news is that UVic has turned on all the privacy features in the version of [Microsoft Copilot](https://copilot.microsoft.com){:target="_blank"} that they have licensed for the UVic community.
-2. Please click on the green "Protected" button in the top right of the Copilot screen to confirm that you are using the UVic-licensed version, which means that you have strong privacy settings in place that cannot be changed (like they can in if you signed up individually for Copilot).
-<br><img src="images/5-copilot-privacy.png"  alt="Copilot privacy screenshot"><br>
+---
 
-## Privacy & Data Collection in ChatGPT
-1. The good news is that you can change the privacy setting in ChatGPT so that your user data and prompts are not used by ChatGPT as Training Data.
-2. Follow the instructions below to stop ChatGPT from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
-<br><img src="images/5-chatgpt-privacy.png"  alt="ChatGPT privacy screenshot"><br>
+## What you’ll learn
+- What data GenAI tools may collect (chat, files/links, metadata) and how to limit it.
+- How to **redact** PII and sensitive info with reusable patterns.
+- A quick **tool-hygiene** checklist (history, training, browsing, exports, deletion).
+- File hygiene (metadata scrubbing for docs/images/audio).
+- “Greener GenAI” habits that reduce waste.
 
-## Privacy & Data Collection in Perplexity.ai
-1. The good news is that you can change the privacy settings in Perplexity so that your user data and prompts are not used by Perplexity as Training Data.
-2. Follow the instructions below to stop Perplexity from using your prompts as training data (note that this will also turn off your chat history which can be an inconvenience to some):
-<br><img src="images/5-perplexity-privacy.png"  alt="Perplexity privacy screenshot"><br>
+> **Reminder:** Follow course rules and UVic guidance before using GenAI on assessed work or research data.
 
-# The Environment
-The primary environmental impacts of Generative AI largely stem from the significant energy consumption associated with training and operating these models. Here are a few key points to consider:
-<img src="images/5-server_farm.jpg" style="float:right;width:320px;" alt="An image of a row of computer servers.">
-1. Energy Consumption:
-- Generative AI models, especially large ones, consume vast amounts of energy during training and inference.
-- For instance, OpenAI’s ChatGPT (created in San Francisco, California) is estimated to consume the energy equivalent of 33,000 homes1.
-- As AI systems scale up, their energy demands could rival those of entire nations ([Nature, 2024](https://www.nature.com/articles/d41586-024-00478-x){:target="_blank"}).
-2. Water Usage:
-- Cooling data centers and powering AI processors require enormous amounts of fresh water.
-- In West Des Moines, Iowa, OpenAI’s data center for its advanced model, GPT-4, used about 6% of the district’s water during training.
-- Google and Microsoft also experienced significant spikes in water use while developing their large language models ([Nature, 2024](https://www.nature.com/articles/d41586-024-00478-x){:target="_blank"}).
-3. Environmental Footprint:
-- Generative AI’s pursuit of scale has been called the “elephant in the room” by researchers.
-- The industry must prioritize pragmatic actions to limit its ecological impact.
-- This includes designing more energy-efficient models, rethinking data center usage, and considering water conservation ([Nature, 2024](https://www.nature.com/articles/d41586-024-00478-x){:target="_blank"}).
-4. Comparative Benefit-Cost Evaluation:
-- MIT researchers emphasize the need for responsible development of generative AI.
-- A comparative benefit-cost evaluation framework can guide sustainable practices ([MIT, 2024]([https://www.nature.com/articles/d41586-024-00478-x](https://impactclimate.mit.edu/2024/04/10/considering-the-environmental-impacts-of-generative-ai-to-spark-responsible-development/)){:target="_blank"}).
-5. Hidden Costs:
-- While generative AI is powerful, its hidden environmental costs warrant attention.
-- Companies can take steps to make these systems greener, such as using more efficient models and minimizing energy consumption ([HBR, 2023]([https://www.nature.com/articles/d41586-024-00478-x](https://hbr.org/2023/07/how-to-make-generative-ai-greener)){:target="_blank"}).
+---
 
-The environmental impact of generative AI is a growing area of concern and study, prompting calls for more sustainable practices in the field of artificial intelligence.
+## What’s safe to paste? (fast classification)
 
-NOTE: The text in "The Environment" section of this document was generated by Microsoft CoPilot in April 2024, and was edited by Rich McCue.
+| Category | Examples | OK to paste? | What to do |
+|---|---|---|---|
+| **Public** | Published article URL, press release | **Yes** | Cite source; still verify facts |
+| **Internal (non-sensitive)** | Generic course info | **Yes, with care** | Avoid names/IDs; prefer paraphrase |
+| **Personal/PII** | Names, emails, student IDs, phone numbers | **No (unless policy allows)** | **Redact** using placeholders (below) |
+| **Sensitive** | Grades, health, HR/legal, confidential grants | **No** | Use approved secure workflows only |
+| **Research data** | Non-public data, interviews, raw datasets | **No** | Use policy-approved/secure tools only |
 
-[NEXT STEP: Assignment Feedback](6-assignment-feedback.html){: .btn .btn-blue }
+### Redaction patterns you can reuse
+Replace specifics with role-based placeholders **before** pasting:
+- People: `Jane Smith` → `[Person_A]` (then `[Person_B]`, …)  
+- Email: `jane@uvic.ca` → `[Email_1]`  
+- Student ID: `V00xxxxxx` → `[ID_###]`  
+- Organization: `Company X` → `[Org_A]`  
+- Location: `Victoria, BC` → `[City_A]`  
+- Dates: `2025-11-09` → `[Date_2025-11-09]` (keep meaning, hide ID)
+
+Keep a tiny “redaction rules” note so you can reverse-map if needed.
+
+---
+
+## Privacy & data controls in tools
+
+### UVic-licensed Microsoft Copilot
+1. Sign in with your UVic account.  
+2. Confirm you see the **green “Protected”** indicator at top right (UVic-licensed environment).  
+3. Review data controls and browsing mode before pasting sensitive text.  
+<br><img src="images/5-copilot-privacy.png" alt="Copilot privacy screenshot showing the Protected indicator"><br>
+
+### ChatGPT (Data Controls)
+1. Open **Settings → Data Controls**.  
+2. Turn off content used to improve models; review chat history settings.  
+<br><img src="images/5-chatgpt-privacy.png" alt="ChatGPT privacy screenshot showing data controls"><br>
+
+### Perplexity (Privacy)
+1. Open **Settings → Privacy/Data**.  
+2. Disable content-for-improvement; review history retention.  
+<br><img src="images/5-perplexity-privacy.png" alt="Perplexity privacy screenshot showing privacy options"><br>
+
+> Policies and UI change over time. Confirm current settings each term and follow UVic policy.
+
+---
+
+## Tool-hygiene checklist (do this every time)
+- **New chat per task** (prevents cross-contamination).  
+- **History/training:** disable training on your content where possible.  
+- **Browsing:** off unless you really need it.  
+- **Sources:** demand links and dates; forbid guessing (“If unsure, say NOT SURE.”).  
+- **Exports:** save what you need, then **delete** the conversation/file from the tool.  
+- **Accounts:** prefer edu/enterprise accounts for school work when permitted.  
+- **Policy:** when in doubt, don’t paste—summarize or use placeholders.
+
+---
+
+## File hygiene (docs, images, audio)
+- **Docs (Word/PDF):** Inspect/Remove personal info (author, path).  
+- **Images:** Strip EXIF (e.g., “Remove Properties”, or `exiftool -all= file.jpg`).  
+- **Audio/video transcripts:** Replace names with `[Speaker_A]`, `[Speaker_B]`.  
+- **Screenshots:** Crop out IDs, emails, and unique codes.  
+- **Keep originals offline** when possible; paste only the **minimum** text needed.
+
+---
+
+## Greener GenAI: use less, get more
+- Prefer **text** tasks over image/video generation when possible.  
+- **Specify length** (e.g., 120–150 words) and avoid repeated re-rolls.  
+- Use **smaller models** or simpler prompts for simple tasks.  
+- **Batch** questions into one structured prompt.  
+- Reuse verified snippets/templates instead of starting from scratch.
+
+---
+
+## Hands-on drills (15–20 min)
+
+### A) Redaction drill (8–10 min)
+Paste a paragraph with names, emails, and an ID (create one if needed).  
+**Prompt:**
+```
+
+Redact PII with role-based placeholders before we continue.
+People -> [Person_A], [Person_B]
+Emails -> [Email_1], [Email_2]
+IDs -> [ID_###]
+Return a diff-style list of replacements only.
+
+```
+**Acceptance:** all identifiers replaced; meaning preserved.
+
+### B) Tool settings check (3–5 min)
+Open your tool’s settings. Locate and toggle: history/training, browsing, data controls.  
+**Acceptance:** you can point to each setting and explain what it does.
+
+### C) Metadata clean (3–5 min)
+Take an image or DOC/PDF and remove properties/EXIF.  
+**Acceptance:** properties pane shows blanks for author, GPS, device.
+
+> **Badge evidence:** screenshot of your redaction output and a settings screen.
+
+---
+
+## Environment: why usage habits matter
+<img src="images/5-server_farm.jpg" style="float:right;width:320px;" alt="Row of computer servers">
+- Large models consume significant **energy** for training and inference; researchers urge pragmatic steps to limit impact ([Nature, 2024](https://www.nature.com/articles/d41586-024-00478-x){:target="_blank" rel="noopener"}).  
+- **Water use** can rise for data-center cooling during model runs; several operators report increases while scaling AI ([Nature, 2024](https://www.nature.com/articles/d41586-024-00478-x){:target="_blank" rel="noopener"}).  
+- Groups suggest **responsible development** and comparative **benefit–cost** evaluation to guide sustainable practices ([MIT Impact Climate, 2024](https://impactclimate.mit.edu/2024/04/10/considering-the-environmental-impacts-of-generative-ai-to-spark-responsible-development/){:target="_blank" rel="noopener"}; [HBR, 2023](https://hbr.org/2023/07/how-to-make-generative-ai-greener){:target="_blank" rel="noopener"}).
+
+Focus on **right-sizing** tasks (see “Greener GenAI” above) and choosing efficient options when you can.
+
+---
+
+## Self-check (2 min)
+- Did you **classify** data before pasting and **redact** PII?  
+- Are tool **history/training** settings reviewed?  
+- Did you strip **metadata** from any files you shared?  
+- Did you keep the task **text-first** and **length-bound**?
+
+---
+
+[**NEXT STEP: Assignment Feedback (pre-submit check)**](6-assignment-feedback.html){: .btn .btn-blue }
+```
