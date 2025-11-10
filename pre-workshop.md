@@ -7,6 +7,7 @@ last_modified_date: 2025-11-09
 ---
 
 ## Pre-Workshop: 25-minute prep
+Pre-workshop: add 25-min prep plan, fix links/embeds, safety rules, and readiness checks
 
 This workshop is mostly hands-on. Do these light prep steps so you can jump straight into practice.
 
