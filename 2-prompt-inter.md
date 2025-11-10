@@ -196,6 +196,12 @@ The plan must fit 60 minutes total, list 3 materials only, and include one forma
 - Would your output pass your own **acceptance criteria**?
 
 ---
+### Acceptance criteria mini-library
+- **Summary**: 120–150 words, neutral tone, no new facts, 1 quote ≤10 words.
+- **Plan**: 5 steps; each has Objective • Inputs • Acceptance; total ≤180 words.
+- **Table**: Columns fixed; max 6 rows; no empty cells.
+- **Evidence**: Each claim has URL + date; if unsure → “NOT SURE”.
+
 
 ## Go further
 A practical overview of techniques worth skimming next:  
