@@ -161,4 +161,16 @@ Then run the **RQ drill** above to tighten one question.
 For more prompting techniques (tone, examples, format control), a short overview you can skim next:  
 [Prompt engineering techniques](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank" rel="noopener"}
 
+## Idea Canvas (one-pager you can reuse)
+| Section | Notes (≤40 words) |
+|---|---|
+| Problem (who/where) |  |
+| Why now (evidence) |  |
+| 3 candidate ideas | 1)  2)  3)  |
+| Top criteria (pick 3) | Novelty • Feasibility • Data • Impact • Scope |
+| Shortlist (2 ideas) |  |
+| Risks & checks |  |
+| Next 3 actions (dates) | 1)  2)  3)  |
+
+
 [NEXT STEP: Critical Review](4-critical-review.html){: .btn .btn-blue }
