@@ -56,11 +56,6 @@ Getting started is easy; getting **good** takes structure and practice. Use **CR
 
 ---
 
-## Quick-start template (copy/paste)
-Use this to speed up your first prompt:
-
----
-
 ## Bad → Better → Best (weather lesson)
 
 **Bad (too vague)**
