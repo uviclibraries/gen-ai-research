@@ -4,38 +4,173 @@ title: 3 - Idea Generation
 nav_order: 5
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
+description: "Beginner-friendly idea generation with a simple diverge→cluster→converge workflow, measurable criteria, and safe summarization."
+last_modified_date: 2025-11-09
 --- 
 
-# Idea Generation Introduction
-<img src="images/prompt-design-image.png" style="float:right;width:320px;" alt="A student at a computer learning effective GenAI prompt design">
-If you have any questions or get stuck as you work through this in-class GenAI exercise, please ask the instructor for assistance.  Have fun!
+# Idea Generation — Introduction
+<img src="images/prompt-design-image.png" style="float:right;width:320px;padding:6px;" alt="Student at a computer brainstorming with GenAI">
+If you get stuck as you work through this in-class exercise, ask the instructor. Have fun—this one is hands-on.
 
-## Let's Practice Idea Generation!
-> Please remember that **you must have permission from your instructor to use GenAI to assist you in any class assignment**. Your instructor may forbid the use of GenAI, allow limited use of GenAI, or all full use of GenAI for specific assignments. Please follow your instructors' guidelines for how to cite and document your use of GenAI in assignments. If you have any questions about using GenAI in your class, please look at your course outline, and if you don't find guidance there, ask your instructor directly, as using GenAI without permission from your instructor is a form of plagiarism and is a violation of UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php). 
+---
 
-Now let's look at how we can use GenAI tools for creativity and innovation, including how to generate new ideas and overcome creative blocks ([ChatGPT 4.0, 2024](https://chat.openai.com/share/ec126ed8-937c-4f48-a322-cebde4bddd55){:target="_blank"}). Type or copy and paste the prompts below into Copilot and then let's look at the results.
-1. First let's look at a technique to help us generate possible ideas for undergraduate honours research projects. Note that you probably won't get any truly unique topics suggested by GenAI tools, however, they can be useful for brainstorming and may prompt you to think of other related ideas as you look at what the GenAI tool has suggested.
-  - Topic exploration: ```I am an undergraduate student getting ready to start an honours research project. I am interested in university-level academic makerspaces. What are some topics of inquiry that might be interesting for me to research or explore on this topic?```
-  - Now try exploring a topic that you are interested in!
-2. Research Question Formulation: ChatGPT can assist in refining research questions by providing feedback on clarity, focus, and feasibility.
-  - Next, we'll take one of the bullet points from the Topic Exploration output, and add to the beginning of it: "Suggest 5 research questions with measurable outcomes for the following topic:"  This should provide us with ideas for research questions based on the topic. Note that even if you love one of the suggested research questions, you'll almost certainly modify it to suit your specific situation and possibly location. Here is an example:
-<br>```Suggest 5 research questions for the following topic: Evaluate the effectiveness of makerspace programs. What assessment methods can be used to measure learning outcomes? How can we assess the impact of makerspaces on students’ employability?```
-  - Now try using one of your own generated topics and request it to suggest research questions.
-3. Summarize a document, but be very careful as currently (March 2024) **free GenAI tools have limits on the size of documents that they can summarize**. You can ask the GenAI tool to let you know if it can't "read" the whole article to summarize it.
-  - Request a summary of an article titled, [LEGO helps Langford man recapture life after induced coma in 2018](https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837){:target="_blank"}, by opening the article, and copying the text of the article to use in the next step.
-<br>```Please summarize the main points in this article. If you cannot summarize the whole article please tell me that you couldn't: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837```<br>
-  - Follup with the following prompt requesting a more detailed summary:
-<br>```Please expand the summary to 5 or more bullet points.```<br>
-  - Are the two summaries significantly different? If so in what ways?
-  - Now try summarizing one of your own documents, or a web page!
-> NOTE: The standard version of Copilot (which UVic has licenced for us) is not able to summarize large bodies of text, including documents over approximately 3,100 characters (as of March 2024). 
-4. Reflection Time:
->  - **How useful were the research topic ideas that your GenAI tool created?**
->  - **Do you have enough background knowledge to critically evaluate the quality of Copilot's suggested research topics?**
->  - **How useful were the research questions that GenAI tool created?**
->  - **Did you GenAI tool do a good job in summarizing the document?**
->
+## Reminder on academic integrity
+You **must have permission** from your instructor to use GenAI in any assessed work. Some courses forbid it; others allow limited or full use. Follow your course outline and citation rules. Using GenAI without permission is academic misconduct under UVic’s [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php){:target="_blank" rel="noopener"}.
+
+---
+
+## What you’ll learn
+- A simple, repeatable ideation pipeline: **diverge → cluster → converge**.  
+- How to turn topics into **measurable research questions**.  
+- How to **summarize safely** (tool limits, chunking, verification).
+
+## Before you start
+Open one tool: Perplexity, Copilot, ChatGPT, Gemini, Claude, or Meta.ai (any is fine).  
+> **Safety:** Don’t paste confidential/personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`).
+
+---
+
+## A. Diverge (5–7 min): create many options
+Goal: generate a broad list of plausible directions without judging them yet.
+
+**Prompt (copy/paste, replace angle brackets):**
+Role: Research mentor
+Action: Propose 20 distinct topic ideas about <your broad area>.
+Format: Table with columns = Idea, One-sentence rationale, Tags(3).
+Constraints: No duplicates; vary methods (survey, experiment, case study), contexts (K–12/higher ed/industry), and scales (classroom/institution/community).
+
+
+**Now try your own:** If 20 is too many, ask for 10. If it’s too generic, add constraints (e.g., “Canada only,” “undergraduate makerspaces,” “low-cost data”).
+
+---
+
+## B. Cluster (5–7 min): find patterns
+Goal: reduce noise by grouping related ideas.
+
+**Prompt:**
+Action: Cluster the 20 ideas into 5 labeled themes.
+Format: Table with columns = Theme, Ideas included, Why this theme matters (≤20 words).
+Constraints: No theme overlaps; each idea appears once.
+
+
+Optional follow-up:
+Action: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.
+
+
+---
+
+## C. Converge (8–10 min): pick winners with criteria
+Goal: select 2–3 ideas worth pursuing using measurable criteria.
+
+**Prompt:**
+Action: Score each theme 0–5 on Novelty, Feasibility (skills/time), Data availability, Scope fit, Potential impact.
+Format: Table with columns = Theme, Novelty, Feasibility, Data, Scope, Impact, Notes.
+Constraints: Brief notes with concrete risks or assumptions.
+
+
+**Decide:** Keep the top 2–3 themes. Write 1–2 risks you will check next (e.g., “access to participants,” “IRB/ethics needed,” “data exists?”).
+
+---
+
+## D. Turn topics into measurable research questions (RQ drill)
+Goal: convert a theme into sharp questions you can test/evaluate.
+
+**Prompt:**
+
+Role: Research methods tutor
+Action: Propose 5 research questions for the theme <chosen theme>.
+Format: Table with columns = RQ, Variables/constructs, Method (1 line), Measurable outcome, Feasibility note.
+Constraints: Use clear, observable outcomes; avoid vague verbs; align with an undergraduate project scope.
+
+
+**Refine one RQ** with acceptance criteria:
+Action: Rewrite RQ #2 so it is specific and measurable.
+Constraints: Time-bounded; identifies population and setting; feasible data source; ethical to implement.
+
+
+---
+
+## E. Summarize a document safely (tool limits & chunking)
+Free tiers and some enterprise tools limit input size. If a tool can’t “read” the whole article, it should say so. Ask it to be explicit—and chunk long text.
+
+1) **Pick an article** (example news story):  
+[LEGO helps Langford man recapture life after induced coma in 2018](https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837){:target="_blank" rel="noopener"}
+
+2) **Ask the tool to confirm capacity first:**
+
+Can you summarize the article at this URL? If not, say "TOO LONG" and ask me to paste text in chunks of your preferred size.
+URL: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837
+
+
+3) **If too long, paste in chunks:**  
+Here is CHUNK 1/3 (do not summarize yet). Acknowledge receipt only.
+
+(Repeat for CHUNK 2/3 and 3/3.)
+
+4) **Then summarize across chunks:**
+Action: Produce a 5-bullet summary using only the content from CHUNKS 1–3.
+Constraints: No new facts; quote 2 short phrases (≤10 words) with bullet numbers.
+
+
+5) **Compare summaries:** Are the “quick” and “expanded” versions different in quality/coverage?
+
+---
+
+## Guided examples you can try right now
+
+**1) Topic exploration (makerspaces)**
+
+I am an undergraduate student starting an honours project about university makerspaces.
+Generate 15 distinct topics. Vary method (survey/experiment/case), context (course/program/library), and outcome (learning/employability/access).
+Return a table with Idea, Rationale, Tags.
+
+Now try a topic you care about.
+
+**2) Research questions from a bullet**
+Suggest 5 research questions with measurable outcomes for:
+"Evaluate the effectiveness of makerspace programs."
+Return a table with RQ, Variables, Method, Outcome, Feasibility note.
+
+Then run the **RQ drill** above to tighten one question.
+
+**3) Article summary (with limits)**
+- Ask for capacity, then either summarize the URL or paste chunks.  
+- Follow with: `Expand to ≥5 bullets; keep quotes short; no new facts.`
+
+> **Note:** Limits change over time. If a tool doesn’t acknowledge limits, assume it may not have processed everything—ask it to show its work.
+
+---
+
+## Reflection (2–3 min)
+- Which **two criteria** mattered most for your down-selection?  
+- Which **prompt change** improved quality the most—tone, scope, or format?  
+- What **risk** will you check next (data, ethics, access)?
+
+> **Badge evidence:** Save a screenshot of your “top 3” table (with scores) or your “5 research questions” table.
+
+---
+
+## Self-check (2 min)
+- Did you **diverge** (≥10 ideas), **cluster** (clear themes), and **converge** (scored & selected)?  
+- Are your RQs **measurable** and scoped to your time/resources?  
+- Did you verify at least one claim or data assumption?
+
+---
+
 ## Go further
-There are many excellent resources on the internet with tips and tricks for prompt design, to please feel free to go deeper with [articles like this](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank"} if you'd like to improve your prompt design skill set.
+For more prompting techniques (tone, examples, format control), a short overview you can skim next:  
+[Prompt engineering techniques](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank" rel="noopener"}
+
+## Idea Canvas (one-pager you can reuse)
+| Section | Notes (≤40 words) |
+|---|---|
+| Problem (who/where) |  |
+| Why now (evidence) |  |
+| 3 candidate ideas | 1)  2)  3)  |
+| Top criteria (pick 3) | Novelty • Feasibility • Data • Impact • Scope |
+| Shortlist (2 ideas) |  |
+| Risks & checks |  |
+| Next 3 actions (dates) | 1)  2)  3)  |
+
 
 [NEXT STEP: Critical Review](4-critical-review.html){: .btn .btn-blue }
