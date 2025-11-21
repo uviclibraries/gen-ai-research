@@ -60,6 +60,7 @@ Getting started is easy; getting **good** takes structure and practice. Use **CR
 
 **Bad (too vague)**
 Tell me about the weather.`
+
 _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 
 **Better (uses CRAFT)**
