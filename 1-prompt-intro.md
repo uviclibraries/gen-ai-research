@@ -59,7 +59,7 @@ Getting started is easy; getting **good** takes structure and practice. Use **CR
 ## Bad → Better → Best (weather lesson)
 
 **Bad (too vague)**
-Tell me about the weather.`
+Tell me about the weather.
 
 _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 
