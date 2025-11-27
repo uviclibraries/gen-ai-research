@@ -1,3 +1,4 @@
+<!--
 ---
 layout: default
 title: 7 - Literature Review Tools
@@ -7,6 +8,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 description: "A simple scope→search→skim→synthesize workflow with safe GenAI assists, note-taking templates, and citation hygiene."
 last_modified_date: 2025-11-09
 ---
+-->
 
 # Literature Review Tools
 
