@@ -180,7 +180,7 @@ Use **Perplexity** or **Microsoft Copilot**:
 
 ---
 Assignment Feedback: rubric-first scoring, structured comments, Top-5 Fix Plan, targeted rewrites, citation hygiene, attribution note`
-[**NEXT STEP: Literature Review Helpers**](7-lit-review.html){: .btn .btn-blue }
+[**NEXT STEP: Earn a Workshop Badge**](informal-credentials.html){: .btn .btn-blue }
 ```
 
 
