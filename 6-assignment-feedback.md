@@ -70,8 +70,6 @@ Use **Perplexity** or **Microsoft Copilot**:
 ---
 
 ## Self-check (2 min)
-- Do I have a **rubric table** with scores and evidence quotes?  
-- Do I have a **Top-5 Fix Plan** with locations and actions?  
 - Did I verify **facts** and add/format **citations**?  
 - Does my draft now match **length** and **format** requirements?  
 - If GenAI was used, did I include a **short attribution** if required?
