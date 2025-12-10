@@ -64,20 +64,20 @@ Tell me about the weather.
 _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 
 **Better (uses CRAFT)**
-`Context: I’m teaching a one-hour lesson about weather.
-Role: Elementary school teacher.
-Action: Create a lesson plan with a 30-minute activity.
-Format: Bullet points with headings: Objectives, Materials, Steps, Assessment.
+`Context: I’m teaching a one-hour lesson about weather.<br>
+Role: Elementary school teacher.<br>
+Action: Create a lesson plan with a 30-minute activity.<br>
+Format: Bullet points with headings: Objectives, Materials, Steps, Assessment.<br>
 Target Audience: Grade 2 students.`
 
 
 **Best (CRAFT+)**
-`Context: I’m teaching a one-hour weather lesson next week.
-Role: Elementary school teacher.
-Action: Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.
-Format: Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.
-Target Audience: Grade 2 students.
-Constraints: Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.
+`Context: I’m teaching a one-hour weather lesson next week.<br>
+Role: Elementary school teacher.<br>
+Action: Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.<br>
+Format: Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.<br>
+Target Audience: Grade 2 students.<br>
+Constraints: Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.<br>
 Evidence: Provide 2 age-appropriate sources or curriculum references with URLs.`
 
 
