@@ -37,18 +37,18 @@ GenAI tools sometimes **hallucinate**—they state things that sound right but a
 Use **CRAFT + CE** (Context, Role, Action, Format, Target Audience + Constraints, Evidence).
 
 **Ask for evidence on purpose**
-Return 5 numbered claims with a source link for each claim.
-If you are unsure, say "NOT SURE" and stop. Do not invent sources.
+`Return 5 numbered claims with a source link for each claim.
+If you are unsure, say "NOT SURE" and stop. Do not invent sources.`
 
 
 **Constrain the scope/time**
 
-Use sources published in 2023 or later and list the publication dates.
-If a source is paywalled or inaccessible, say "PAYWALL" and skip it.
+`Use sources published in 2023 or later and list the publication dates.
+If a source is paywalled or inaccessible, say "PAYWALL" and skip it.`
 
 
 **Request structure**
-Format: Table with columns = #, Claim, Source URL, Source Date, Confidence(0–5).
+`Format: Table with columns = #, Claim, Source URL, Source Date, Confidence(0–5).`
 
 
 ---
@@ -72,9 +72,9 @@ Bias appears when training data is **skewed** (e.g., over-represents certain reg
 ## The Claim Audit (10–15 min)
 
 **Step 1 — Extract claims from the model**
-From the answer above, extract 5–8 key claims.
+`From the answer above, extract 5–8 key claims.
 For each claim, provide: Claim (≤20 words), Source URL, Source Title, Source Date.
-If a claim lacks a source, mark "NO SOURCE".
+If a claim lacks a source, mark "NO SOURCE".`
 
 
 **Step 2 — Verify independently**
@@ -94,15 +94,15 @@ Open each source yourself. Check that:
 
 **Step 4 — Ask the model to correct itself**
 
-Based on my verification notes below, correct any inaccurate or unsupported claims.
+`Based on my verification notes below, correct any inaccurate or unsupported claims.
 If evidence is missing, replace the claim with "NOT VERIFIED" or remove it.
-Keep only what is supported; list corrected claims with sources and dates.
+Keep only what is supported; list corrected claims with sources and dates.`
 
 
 **Step 5 — (Optional) Teach-back summary**
 
-Produce a 120-word summary using only the verified claims.
-Include 2 short quotes (≤10 words) with citation labels [S1], [S2].
+`Produce a 120-word summary using only the verified claims.
+Include 2 short quotes (≤10 words) with citation labels [S1], [S2].`
 
 
 ---
@@ -123,11 +123,11 @@ Include 2 short quotes (≤10 words) with citation labels [S1], [S2].
 1) **Topic you know well**  
 Ask a question about a local person/place/topic you can verify from your own knowledge or trusted sites.  
 **Prompt:**
-Return 6 numbered claims with a source URL and date for each claim.
+`Return 6 numbered claims with a source URL and date for each claim.
 If unsure, say "NOT SURE". Do not invent sources.
 Format: table with #, Claim, Source, Date.
 
- Run the **Claim Audit** steps. Note any ❌ and correct them.
+ Run the **Claim Audit** steps. Note any ❌ and correct them.`
 
 2) **Bias & perspective**  
 Re-ask the same question with diversity or locale constraints (e.g., “Canadian perspective”, “gender-diverse examples”). Compare outputs.
