@@ -125,9 +125,9 @@ Ask a question about a local person/place/topic you can verify from your own kno
 **Prompt:**
 `Return 6 numbered claims with a source URL and date for each claim.
 If unsure, say "NOT SURE". Do not invent sources.
-Format: table with #, Claim, Source, Date.
+Format: table with #, Claim, Source, Date.'
 
- Run the **Claim Audit** steps. Note any ❌ and correct them.`
+Run the **Claim Audit** steps. Note any ❌ and correct them.
 
 2) **Bias & perspective**  
 Re-ask the same question with diversity or locale constraints (e.g., “Canadian perspective”, “gender-diverse examples”). Compare outputs.
