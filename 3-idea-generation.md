@@ -34,10 +34,10 @@ Open one tool: Perplexity, Copilot, ChatGPT, Gemini, Claude, or Meta.ai (any is 
 Goal: generate a broad list of plausible directions without judging them yet.
 
 **Prompt (copy/paste, replace angle brackets):**
-Role: Research mentor
+`Role: Research mentor
 Action: Propose 20 distinct topic ideas about <your broad area>.
 Format: Table with columns = Idea, One-sentence rationale, Tags(3).
-Constraints: No duplicates; vary methods (survey, experiment, case study), contexts (K–12/higher ed/industry), and scales (classroom/institution/community).
+Constraints: No duplicates; vary methods (survey, experiment, case study), contexts (K–12/higher ed/industry), and scales (classroom/institution/community).`
 
 
 **Now try your own:** If 20 is too many, ask for 10. If it’s too generic, add constraints (e.g., “Canada only,” “undergraduate makerspaces,” “low-cost data”).
@@ -48,13 +48,13 @@ Constraints: No duplicates; vary methods (survey, experiment, case study), conte
 Goal: reduce noise by grouping related ideas.
 
 **Prompt:**
-Action: Cluster the 20 ideas into 5 labeled themes.
+`Action: Cluster the 20 ideas into 5 labeled themes.
 Format: Table with columns = Theme, Ideas included, Why this theme matters (≤20 words).
-Constraints: No theme overlaps; each idea appears once.
+Constraints: No theme overlaps; each idea appears once.`
 
 
 Optional follow-up:
-Action: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.
+`Action: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.`
 
 
 ---
@@ -63,9 +63,9 @@ Action: For each theme, generate 2 “stretch” variations that increase novelt
 Goal: select 2–3 ideas worth pursuing using measurable criteria.
 
 **Prompt:**
-Action: Score each theme 0–5 on Novelty, Feasibility (skills/time), Data availability, Scope fit, Potential impact.
+`Action: Score each theme 0–5 on Novelty, Feasibility (skills/time), Data availability, Scope fit, Potential impact.
 Format: Table with columns = Theme, Novelty, Feasibility, Data, Scope, Impact, Notes.
-Constraints: Brief notes with concrete risks or assumptions.
+Constraints: Brief notes with concrete risks or assumptions.`
 
 
 **Decide:** Keep the top 2–3 themes. Write 1–2 risks you will check next (e.g., “access to participants,” “IRB/ethics needed,” “data exists?”).
@@ -77,15 +77,15 @@ Goal: convert a theme into sharp questions you can test/evaluate.
 
 **Prompt:**
 
-Role: Research methods tutor
+`Role: Research methods tutor
 Action: Propose 5 research questions for the theme <chosen theme>.
 Format: Table with columns = RQ, Variables/constructs, Method (1 line), Measurable outcome, Feasibility note.
-Constraints: Use clear, observable outcomes; avoid vague verbs; align with an undergraduate project scope.
+Constraints: Use clear, observable outcomes; avoid vague verbs; align with an undergraduate project scope.`
 
 
 **Refine one RQ** with acceptance criteria:
-Action: Rewrite RQ #2 so it is specific and measurable.
-Constraints: Time-bounded; identifies population and setting; feasible data source; ethical to implement.
+`Action: Rewrite RQ #2 so it is specific and measurable.
+Constraints: Time-bounded; identifies population and setting; feasible data source; ethical to implement.`
 
 
 ---
@@ -98,21 +98,21 @@ Free tiers and some enterprise tools limit input size. If a tool can’t “read
 
 2) **Ask the tool to confirm capacity first:**
 
-Can you summarize the article at this URL? If not, say "TOO LONG" and ask me to paste text in chunks of your preferred size.
-URL: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837
+`Can you summarize the article at this URL? If not, say "TOO LONG" and ask me to paste text in chunks of your preferred size.
+URL: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837`
 
 
 3) **If too long, paste in chunks:**  
-Here is CHUNK 1/3 (do not summarize yet). Acknowledge receipt only.
+`Here is CHUNK 1/3 (do not summarize yet). Acknowledge receipt only.`
 
 (Repeat for CHUNK 2/3 and 3/3.)
 
 4) **Then summarize across chunks:**
-Action: Produce a 5-bullet summary using only the content from CHUNKS 1–3.
-Constraints: No new facts; quote 2 short phrases (≤10 words) with bullet numbers.
+`Action: Produce a 5-bullet summary using only the content from CHUNKS 1–3.
+Constraints: No new facts; quote 2 short phrases (≤10 words) with bullet numbers.`
 
 
-5) **Compare summaries:** Are the “quick” and “expanded” versions different in quality/coverage?
+5) **Compare summaries:** `Are the “quick” and “expanded” versions different in quality/coverage?`
 
 ---
 
@@ -120,16 +120,16 @@ Constraints: No new facts; quote 2 short phrases (≤10 words) with bullet numbe
 
 **1) Topic exploration (makerspaces)**
 
-I am an undergraduate student starting an honours project about university makerspaces.
+`I am an undergraduate student starting an honours project about university makerspaces.
 Generate 15 distinct topics. Vary method (survey/experiment/case), context (course/program/library), and outcome (learning/employability/access).
-Return a table with Idea, Rationale, Tags.
+Return a table with Idea, Rationale, Tags.`
 
 Now try a topic you care about.
 
 **2) Research questions from a bullet**
-Suggest 5 research questions with measurable outcomes for:
+`Suggest 5 research questions with measurable outcomes for:
 "Evaluate the effectiveness of makerspace programs."
-Return a table with RQ, Variables, Method, Outcome, Feasibility note.
+Return a table with RQ, Variables, Method, Outcome, Feasibility note.`
 
 Then run the **RQ drill** above to tighten one question.
 
