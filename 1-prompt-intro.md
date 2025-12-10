@@ -38,19 +38,19 @@ You may use other tools if you prefer:
 Getting started is easy; getting **good** takes structure and practice. Use **CRAFT**:
 
 - **Context** — Background and purpose. Who’s asking and why?  
-  _Example:_ “I’m preparing a 60-minute lesson about weather for Grade 2.”
+  _Example:_ `I’m preparing a 60-minute lesson about weather for Grade 2.`
 
 - **Role** — Who should the assistant act as?  
-  _Example:_ “Act as an elementary school teacher.”
+  _Example:_ `Act as an elementary school teacher.`
 
 - **Action** — What exactly should be produced?  
-  _Example:_ “Create a one-hour lesson plan plus a 30-minute activity.”
+  _Example:_ `Create a one-hour lesson plan plus a 30-minute activity.`
 
 - **Format** — How should it be structured?  
-  _Example:_ “Return bullet points with headings: Objectives, Materials, Steps, Assessment.”
+  _Example:_ `Return bullet points with headings: Objectives, Materials, Steps, Assessment.`
 
 - **Target Audience** — Who is this for? Adjust tone and level.  
-  _Example:_ “Write at a Grade 2 reading level.”
+  _Example:_ `Write at a Grade 2 reading level.`
 
 > **CRAFT+ (recommended):** Add **Constraints** (time, word count, must include/avoid), and **Evidence** (citations/URLs) when facts matter.
 
@@ -64,22 +64,21 @@ Tell me about the weather.
 _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 
 **Better (uses CRAFT)**
-Context: I’m teaching a one-hour lesson about weather.
+`Context: I’m teaching a one-hour lesson about weather.
 Role: Elementary school teacher.
 Action: Create a lesson plan with a 30-minute activity.
 Format: Bullet points with headings: Objectives, Materials, Steps, Assessment.
-Target Audience: Grade 2 students.
+Target Audience: Grade 2 students.`
 
 
 **Best (CRAFT+)**
-Context: I’m teaching a one-hour weather lesson next week.
+`Context: I’m teaching a one-hour weather lesson next week.
 Role: Elementary school teacher.
 Action: Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.
 Format: Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.
 Target Audience: Grade 2 students.
-
 Constraints: Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.
-Evidence: Provide 2 age-appropriate sources or curriculum references with URLs.
+Evidence: Provide 2 age-appropriate sources or curriculum references with URLs.`
 
 
 ---
@@ -89,7 +88,7 @@ Evidence: Provide 2 age-appropriate sources or curriculum references with URLs.
 ### 1) Test a poor prompt (2 min)
 Copy/paste into your tool:
 
-Tell me about the weather.
+`Tell me about the weather.`
 
 <img src="images/prompt-lesson-poor.png" alt="Copilot showing a generic response to a vague weather prompt"><br>
 **Question:** What’s missing? (Audience, goal, format, constraints, evidence.)
@@ -97,14 +96,13 @@ Tell me about the weather.
 ### 2) Try the improved prompt (5–7 min)
 Copy/paste this:
 
-Context: I’m teaching a one-hour lesson about weather.
+`Context: I’m teaching a one-hour lesson about weather.
 Role: Elementary school teacher.
 Action: Create a lesson plan with a 30-minute activity.
 Format: Bullet points with headings: Objectives, Materials, Steps, Assessment.
 Target Audience: Grade 2 students.
-
 Constraints: Keep it concise; activity uses common classroom supplies.
-Evidence: Include 2 sources or curriculum references with URLs.
+Evidence: Include 2 sources or curriculum references with URLs.`
 
 <img src="images/1-prompt-weather-lesson.png" alt="Copilot producing a structured Grade 2 weather lesson plan"><br>
 
