@@ -179,8 +179,9 @@ Use **Perplexity** or **Microsoft Copilot**:
 | 5 |  |  |  |  |
 
 ---
-Assignment Feedback: rubric-first scoring, structured comments, Top-5 Fix Plan, targeted rewrites, citation hygiene, attribution note`
+Assignment Feedback: rubric-first scoring, structured comments, Top-5 Fix Plan, targeted rewrites, citation hygiene, attribution note
+
+
 [**NEXT STEP: Earn a Workshop Badge**](informal-credentials.html){: .btn .btn-blue }
-```
 
 
