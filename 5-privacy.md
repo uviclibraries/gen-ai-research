@@ -93,9 +93,9 @@ Keep a tiny “redaction rules” note so you can reverse-map if needed.
 ---
 
 ## Greener GenAI: use less, get more
-- Prefer **text** tasks over image/video generation when possible.  
+- Use **text & image** generation tools over video generation when possible.  
 - **Specify length** (e.g., 120–150 words) and avoid repeated re-rolls.  
-- Use **smaller models** or simpler prompts for simple tasks.  
+- Use **smaller models** and avoid **Deep Research** tools for simple tasks.  
 - **Batch** questions into one structured prompt.  
 - Reuse verified snippets/templates instead of starting from scratch.
 
