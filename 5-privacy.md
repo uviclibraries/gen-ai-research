@@ -59,7 +59,7 @@ Keep a tiny “redaction rules” note so you can reverse-map if needed.
 ### ChatGPT (Data Controls)
 1. Open **Settings → Data Controls**.  
 2. Turn off content used to improve models; review chat history settings.  
-<br><img src="images/5-chatgpt-privacy.png" alt="ChatGPT privacy screenshot showing data controls"><br>
+<br><img src="images/5-chatgpt-privacy.png" alt="ChatGPT privacy screenshot showing data controls">
 
 ### Google Gemini (Privacy)
 1. Go to [gemini.google.com](https://gemini.google.com/){:target="_blank" rel="noopener"}.
@@ -71,7 +71,7 @@ Keep a tiny “redaction rules” note so you can reverse-map if needed.
    - **Turn off**: Stops saving future chats for training.
    - **Turn off and delete activity**: Stops future training and wipes your existing history.
 
-<br><img src="images/5-gemini-privacy-1.png" alt="Perplexity privacy screenshot showing privacy options"><br>
+<br><img src="images/5-gemini-privacy-1.png" alt="Gemini privacy screenshot showing privacy options" width="500">
 
 If you want to keep your main history on but have a specific conversation that is private and not used for training, use the new **Temporary Chat feature**.
 
@@ -80,7 +80,7 @@ If you want to keep your main history on but have a specific conversation that i
 
 **Privacy Note**: While in this mode, chats are deleted as soon as you close the window and are not used to train the model.  
 
-<br><img src="images/5-gemini-privacy-2.png" alt="Perplexity privacy screenshot showing privacy options"><br>
+<br><img src="images/5-gemini-privacy-2.png" alt="Perplexity privacy screenshot showing privacy options"  width="300">
 
 > Policies and UI change over time. Confirm current settings each term and follow UVic policy.
 
