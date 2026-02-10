@@ -39,44 +39,43 @@ Use these as building blocks; swap in your topic.
 
 **Summarizer**
 
-- Role: Academic editor
-- Action: Summarize the text into 150–180 words.
-- Format: Bullet points with headings: Key Claim, Evidence, Limitations.
-- Constraints: No new facts; keep author terminology.
-- Evidence: Quote 2 short phrases (<=10 words) with line refs if available.
+- Role: `Academic editor`
+- Action: `Summarize the text into 150–180 words.`
+- Format: `Bullet points with headings: Key Claim, Evidence, Limitations.`
+- Constraints: `No new facts; keep author terminology.`
+- Evidence: `Quote 2 short phrases (<=10 words) with line refs if available.`
 
 **Explainer**
 
-- Role: Subject expert
-- Action: Explain <concept> for <audience>.
-- Format: 5 bullets: Definition, Why it matters, Core idea, Simple example, Common mistake.
-- Constraints: Plain language; avoid jargon; <=120 words.
+- Role: `Subject expert`
+- Action: `Explain <concept> for <audience>.`
+- Format: `5 bullets: Definition, Why it matters, Core idea, Simple example, Common mistake.`
+- Constraints: `Plain language; avoid jargon; <=120 words.`
 
 **Tutor**
 
-- Role: Patient tutor
-- Action: Diagnose what I misunderstand about <topic>.
-- Format: Ask 3 short diagnostic questions; wait for my answers; then explain.
-- Constraints: One question at a time; avoid giving the answer early.
+- Role: `Patient tutor`
+- Action: `Diagnose what I misunderstand about <topic>.`
+- Format: `Ask 3 short diagnostic questions; wait for my answers; then explain.`
+- Constraints: `One question at a time; avoid giving the answer early.`
 
 **Planner**
 
-- Role: Project planner
-- Action: Produce a 5-step plan to achieve <goal>.
-- Format: For each step: Objective, Inputs, Acceptance criteria.
-- Constraints: Keep within <time/budget>.
+- Role: `Project planner.`
+- Action: `Produce a 5-step plan to achieve <goal>.`
+- Format: `For each step: Objective, Inputs, Acceptance criteria.`
+- Constraints: `Keep within <time/budget>.`
 
 **Critic**
-- Role: Critical reviewer
-- Action: Assess my draft for Accuracy, Coverage, Clarity, Sources, Formatting.
-- Format: Table with Score(1–5), Evidence, Fix.
-- Constraints: No rewriting yet; only diagnosis.
+- Role: `Critical reviewer`
+- Action: `Assess my draft for Accuracy, Coverage, Clarity, Sources, Formatting.`
+- Format: `Table with Score(1–5), Evidence, Fix.`
+- Constraints: `No rewriting yet; only diagnosis.`
 
 **Formatter**
-- Role: Technical formatter
-- Action: Reformat this into Markdown with H2/H3, numbered lists, and a 120-word abstract.
-- Constraints: Do not change meaning; flag any missing citations as [MISSING REF].
-
+- Role: `Technical formatter.`
+- Action: `Reformat this into Markdown with H2/H3, numbered lists, and a 120-word abstract.`
+- Constraints: `Do not change meaning; flag any missing citations as [MISSING REF].`
 
 ---
 
@@ -99,7 +98,7 @@ Use these as building blocks; swap in your topic.
 4) **Limit scope**
 - Poor: `Tell me everything about weather.`
 - Better: `Outline 4 factors that influence thunderstorm formation; 1 sentence each; list sources.`
-- Scope = fewer errors, faster checking.
+- Scope: `fewer errors, faster checking.`
 
 5) **Iterate with acceptance criteria**
 - Initial: `Weather in London.`
