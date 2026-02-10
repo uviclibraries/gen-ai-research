@@ -40,16 +40,13 @@ Use **CRAFT + CE** (Context, Role, Action, Format, Target Audience + Constraints
 `Return 5 numbered claims with a source link for each claim.
 If you are unsure, say "NOT SURE" and stop. Do not invent sources.`
 
-
 **Constrain the scope/time**
 
 `Use sources published in 2023 or later and list the publication dates.
 If a source is paywalled or inaccessible, say "PAYWALL" and skip it.`
 
-
 **Request structure**
 `Format: Table with columns = #, Claim, Source URL, Source Date, Confidence(0–5).`
-
 
 ---
 
@@ -69,13 +66,10 @@ Bias appears when training data is **skewed** (e.g., over-represents certain reg
 
 ---
 
-## The Claim Audit (10–15 min)
+## The Claim Audit to Verify All GenAI Claims (10–15 min)
 
 **Step 1 — Extract claims from the model**
-`From the answer above, extract 5–8 key claims.
-For each claim, provide: Claim (≤20 words), Source URL, Source Title, Source Date.
-If a claim lacks a source, mark "NO SOURCE".`
-
+- `From the answer above, extract 5–8 key claims. For each claim, provide: Claim (≤20 words), Source URL, Source Title, Source Date. If a claim lacks a source, mark "NO SOURCE".`
 
 **Step 2 — Verify independently**
 Open each source yourself. Check that:
@@ -84,24 +78,23 @@ Open each source yourself. Check that:
 - The **date** is appropriate for your question (recent enough).  
 
 
-**Step 3 — Log the results (use this table)**
-| # | Claim | Source URL | Source Date | Check Result (✅/❌) | Notes / Exact Quote |
-|---|-------|------------|-------------|----------------------|---------------------|
-| 1 |       |            |             |                      |                     |
-| 2 |       |            |             |                      |                     |
-
-
+**Step 3 — Log the results from each claim made by the GenAI that you audit (using the following format)**
+- Claim
+- Source URL
+- Source Date
+- Check Result (✅/❌)
+- Notes / Exact Quote
 
 **Step 4 — Ask the model to correct itself**
 
-`Based on my verification notes below, correct any inaccurate or unsupported claims.
+- `Based on my verification notes below, correct any inaccurate or unsupported claims.
 If evidence is missing, replace the claim with "NOT VERIFIED" or remove it.
 Keep only what is supported; list corrected claims with sources and dates.`
 
 
 **Step 5 — (Optional) Teach-back summary**
 
-`Produce a 120-word summary using only the verified claims.
+- `Produce a 120-word summary using only the verified claims.
 Include 2 short quotes (≤10 words) with citation labels [S1], [S2].`
 
 
@@ -121,19 +114,17 @@ Include 2 short quotes (≤10 words) with citation labels [S1], [S2].`
 ## Practice (15–20 min)
 
 1) **Topic you know well**  
-Ask a question about a local person/place/topic you can verify from your own knowledge or trusted sites.  
-**Prompt:**
-`Return 6 numbered claims with a source URL and date for each claim.
+- Ask a question about a local person/place/topic you can verify from your own knowledge or trusted sites.  
+- **Prompt:**: `Return 6 numbered claims with a source URL and date for each claim.
 If unsure, say "NOT SURE". Do not invent sources.
 Format: table with #, Claim, Source, Date.'
-
-Run the **Claim Audit** steps. Note any ❌ and correct them.
+- Run the **Claim Audit** steps. Note any ❌ and correct them.
 
 2) **Bias & perspective**  
-Re-ask the same question with diversity or locale constraints (e.g., “Canadian perspective”, “gender-diverse examples”). Compare outputs.
+- Re-ask the same question with diversity or locale constraints (e.g., “Canadian perspective”, “gender-diverse examples”). Compare outputs.
 
 3) **Image bias spot-check (optional)**  
-Generate an image (if your tool supports it). Check for artifacts (extra fingers, garbled text) and demographic stereotypes. Adjust the prompt to improve representation and realism.
+- Generate an image (if your tool supports it). Check for artifacts (extra fingers, garbled text) and demographic stereotypes. Adjust the prompt to improve representation and realism.
 
 > **Badge evidence:** Save a screenshot of your **Evidence Table** with at least one ❌ correction, or a before/after bias-adjusted output.
 
@@ -149,16 +140,14 @@ Generate an image (if your tool supports it). Check for artifacts (extra fingers
 ## Quick reference prompts (copy/paste)
 
 **Evidence demand**
-List 5 numbered claims with a working source link and publication date for each.
-If you can’t find a source, say "NO SOURCE" for that claim.
-
+- List 5 numbered claims with a working source link and publication date for each.
+- If you can’t find a source, say "NO SOURCE" for that claim.
 
 **Time filter**
-Use sources from 2023+ only. Show dates next to each citation.
-
+- Use sources from 2023+ only. Show dates next to each citation.
 
 **Non-invention rule**
-If unsure or the source is paywalled, say "NOT SURE" or "PAYWALL"—do not guess.
+- If unsure or the source is paywalled, say "NOT SURE" or "PAYWALL"—do not guess.
 
 
 ---
