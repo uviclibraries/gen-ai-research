@@ -117,16 +117,14 @@ Use these as building blocks; swap in your topic.
 - New prompt: `Explain La Niña and its impact on global weather patterns. Provide sources.`
 
 8) **Assign a useful role**
-
-You are the head of a creative department at an ad agency.
-Action: Brainstorm 5 campaign taglines for <product>.
-Constraints: Family-friendly; avoid superlatives; 6 words max per tagline.
-
+- Role: `You are the head of a creative department at an ad agency.`
+- Action: `Brainstorm 5 campaign taglines for <product>.`
+- Constraints: `Family-friendly; avoid superlatives; 6 words max per tagline.`
 
 9) **Image generation (availability varies by tool/tier)**
 - Try **[Meta.ai](https://meta.ai){:target="_blank" rel="noopener"}** or **[Copilot](https://copilot.microsoft.com){:target="_blank" rel="noopener"}**.
 - Prompt: `Create an image of a Grade 2 student learning about the weather in a classroom.`  
-  Check for artifacts (extra fingers, text gibberish, anatomy errors) before using.
+- Constraints: `Check for artifacts (extra fingers, text gibberish, anatomy errors) before using.`
 
 > **Badge evidence:** capture a screenshot of your own image prompt + output.
 
