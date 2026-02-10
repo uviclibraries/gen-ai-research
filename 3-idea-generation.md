@@ -34,11 +34,10 @@ Open one tool: Copilot, Gemini, ChatGPT, Perplexity, or Claude (any is fine).
 **Goal**: generate a broad list of plausible directions without judging them yet.
 
 **Prompt (copy/paste, replace angle brackets):**
-`**Role**: Research mentor.`
-`**Action**: Propose 20 distinct topic ideas about <your broad area>.`
-`**Format**: Table with columns = Idea, One-sentence rationale, Tags(3).`
-`**Constraints**: No duplicates; vary methods (survey, experiment, case study), contexts (K–12/higher ed/industry), and scales (classroom/institution/community).`
-
+- `**Role**: Research mentor.`
+- `**Action**: Propose 20 distinct topic ideas about <your broad area>.`
+- `**Format**: Table with columns = Idea, One-sentence rationale, Tags(3).`
+- `**Constraints**: No duplicates; vary methods (survey, experiment, case study), contexts (K–12/higher ed/industry), and scales (classroom/institution/community).`
 
 **Now try your own:** If 20 is too many, ask for 10. If it’s too generic, add constraints (e.g., “Canada only,” “undergraduate makerspaces,” “low-cost data”).
 
@@ -55,7 +54,6 @@ Open one tool: Copilot, Gemini, ChatGPT, Perplexity, or Claude (any is fine).
 
 Optional follow-up:
 - `**Action**: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.`
-
 
 ---
 
@@ -85,7 +83,6 @@ Optional follow-up:
 - `**Action**: Rewrite RQ #2 so it is specific and measurable.`
 - `**Constraints**: Time-bounded; identifies population and setting; feasible data source; ethical to implement.`
 
-
 ---
 
 ## E. Summarize a document safely (tool limits & chunking)
@@ -98,7 +95,6 @@ Free tiers and some enterprise tools limit input size. If a tool can’t “read
 
 `Can you summarize the article at this URL? If not, say "TOO LONG" and ask me to paste text in chunks of your preferred size.
 URL: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837`
-
 
 3) **If too long, paste in chunks:**  
 `Here is CHUNK 1/3 (do not summarize yet). Acknowledge receipt only.`
