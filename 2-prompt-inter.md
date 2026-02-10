@@ -39,48 +39,43 @@ Use these as building blocks; swap in your topic.
 
 **Summarizer**
 
-Role: Academic editor
-Action: Summarize the text into 150–180 words.
-Format: Bullet points with headings: Key Claim, Evidence, Limitations.
-Constraints: No new facts; keep author terminology.
-Evidence: Quote 2 short phrases (<=10 words) with line refs if available.
-
+- Role: Academic editor
+- Action: Summarize the text into 150–180 words.
+- Format: Bullet points with headings: Key Claim, Evidence, Limitations.
+- Constraints: No new facts; keep author terminology.
+- Evidence: Quote 2 short phrases (<=10 words) with line refs if available.
 
 **Explainer**
 
-Role: Subject expert
-Action: Explain <concept> for <audience>.
-Format: 5 bullets: Definition, Why it matters, Core idea, Simple example, Common mistake.
-Constraints: Plain language; avoid jargon; <=120 words.
-
+- Role: Subject expert
+- Action: Explain <concept> for <audience>.
+- Format: 5 bullets: Definition, Why it matters, Core idea, Simple example, Common mistake.
+- Constraints: Plain language; avoid jargon; <=120 words.
 
 **Tutor**
 
-Role: Patient tutor
-Action: Diagnose what I misunderstand about <topic>.
-Format: Ask 3 short diagnostic questions; wait for my answers; then explain.
-Constraints: One question at a time; avoid giving the answer early.
-
+- Role: Patient tutor
+- Action: Diagnose what I misunderstand about <topic>.
+- Format: Ask 3 short diagnostic questions; wait for my answers; then explain.
+- Constraints: One question at a time; avoid giving the answer early.
 
 **Planner**
 
-Role: Project planner
-Action: Produce a 5-step plan to achieve <goal>.
-Format: For each step: Objective, Inputs, Acceptance criteria.
-Constraints: Keep within <time/budget>.
-
+- Role: Project planner
+- Action: Produce a 5-step plan to achieve <goal>.
+- Format: For each step: Objective, Inputs, Acceptance criteria.
+- Constraints: Keep within <time/budget>.
 
 **Critic**
-Role: Critical reviewer
-Action: Assess my draft for Accuracy, Coverage, Clarity, Sources, Formatting.
-Format: Table with Score(1–5), Evidence, Fix.
-Constraints: No rewriting yet; only diagnosis.
-
+- Role: Critical reviewer
+- Action: Assess my draft for Accuracy, Coverage, Clarity, Sources, Formatting.
+- Format: Table with Score(1–5), Evidence, Fix.
+- Constraints: No rewriting yet; only diagnosis.
 
 **Formatter**
-Role: Technical formatter
-Action: Reformat this into Markdown with H2/H3, numbered lists, and a 120-word abstract.
-Constraints: Do not change meaning; flag any missing citations as [MISSING REF].
+- Role: Technical formatter
+- Action: Reformat this into Markdown with H2/H3, numbered lists, and a 120-word abstract.
+- Constraints: Do not change meaning; flag any missing citations as [MISSING REF].
 
 
 ---
@@ -140,46 +135,22 @@ Constraints: Family-friendly; avoid superlatives; 6 words max per tagline.
 ## Practice set (15–20 min)
 
 **A. Global warming (text)**
-- Initial:  
-
-What is global warming and what are its causes? Provide sources.
-
-- Scope:  
-Limit to 300 words at a Grade 4 reading level.
-
-- Tone (style shift):  
-
-Reword in a playful style suitable for Grade 4, while keeping facts accurate and cited.
+- Initial: `What is global warming and what are its causes? Provide sources.`
+- Scope: `Limit to 300 words at a Grade 4 reading level.`
+- Tone (style shift): `Reword in a playful style suitable for Grade 4, while keeping facts accurate and cited.`
 
 (Avoid asking for an identifiable author’s proprietary style; keep it generic.)
 
 **B. Global warming (image)**
-- Prompt:  
-Create an image of a Grade 4 student learning about global warming in a classroom.
-
-
+- Prompt: `Create an image of a Grade 4 student learning about global warming in a classroom.`
 <img src="images/1-global-warming-seuss.jpeg" style="width:320px;height:320px;" alt="AI-generated drawing of a student learning about global warming">
-
-- Variation:  
-
-Adjust the illustration to look like simple children’s book line art.
-
-
+- Variation: `Adjust the illustration to look like simple children’s book line art.`
 
 **C. Lesson plan chaining**
-- Start a new chat, then:  
-
-I teach Grade 4. Generate a 60-minute lesson on local weather with a 30-minute hands-on activity.
-Format: Objectives, Materials, Steps with times, Assessment, Differentiation.
-
-- Follow-up:  
-
-Provide step-by-step student instructions for the activity at a Grade 4 reading level.
-
-- Add acceptance criteria:  
-
-The plan must fit 60 minutes total, list 3 materials only, and include one formative check.
-
+- Start a new chat, then: `I teach Grade 4. Generate a 60-minute lesson on local weather with a 30-minute hands-on activity.`
+- Format: `Objectives, Materials, Steps with times, Assessment, Differentiation.`
+- Follow-up: `Provide step-by-step student instructions for the activity at a Grade 4 reading level.`
+- Add acceptance criteria: `The plan must fit 60 minutes total, list 3 materials only, and include one formative check.`
 
 **Reflection (2–3 min)**
 - Which acceptance criteria improved quality the most?  
