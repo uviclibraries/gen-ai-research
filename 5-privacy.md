@@ -16,7 +16,7 @@ GenAI tools are powerful—but they aren’t private by default, and heavy usage
 
 ## What you’ll learn
 - What data GenAI tools may collect (chat, files/links, metadata) and how to limit it.
-- How to **redact** PII and sensitive info with reusable patterns.
+- How to **redact** Personally Identifying Information and sensitive info with reusable patterns.
 - A quick **tool-hygiene** checklist (history, training, browsing, exports, deletion).
 - File hygiene (metadata scrubbing for docs/images/audio).
 - “Greener GenAI” habits that reduce waste.
@@ -31,7 +31,7 @@ GenAI tools are powerful—but they aren’t private by default, and heavy usage
 |---|---|---|---|
 | **Public** | Published article URL, press release | **Yes** | Cite source; still verify facts |
 | **Internal (non-sensitive)** | Generic course info | **Yes, with care** | Avoid names/IDs; prefer paraphrase |
-| **Personal/PII** | Names, emails, student IDs, phone numbers | **No (unless policy allows)** | **Redact** using placeholders (below) |
+| **Personally Identifying Information** | Names, emails, student IDs, phone numbers | **No (unless policy allows)** | **Redact** using placeholders (below) |
 | **Sensitive** | Grades, health, HR/legal, confidential grants | **No** | Use approved secure workflows only |
 | **Research data** | Non-public data, interviews, raw datasets | **No** | Use policy-approved/secure tools only |
 
@@ -122,7 +122,7 @@ Paste a paragraph with names, emails, and an ID (create one if needed).
 **Prompt:**
 ```
 
-Redact PII with role-based placeholders before we continue.
+Redact Personally Identifying Information with role-based placeholders before we continue.
 People -> [Person_A], [Person_B]
 Emails -> [Email_1], [Email_2]
 IDs -> [ID_###]
@@ -154,7 +154,7 @@ Focus on **right-sizing** tasks (see “Greener GenAI” above) and choosing eff
 ---
 
 ## Self-check (2 min)
-- Did you **classify** data before pasting and **redact** PII?  
+- Did you **classify** data before pasting and **redact** Personally Identifying Information?  
 - Are tool **history/training** settings reviewed?  
 - Did you strip **metadata** from any files you shared?  
 - Did you keep the task **text-first** and **length-bound**?
