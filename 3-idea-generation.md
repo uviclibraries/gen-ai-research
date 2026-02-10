@@ -128,9 +128,9 @@ Now try a topic you care about.
 **2) Research questions from a bullet**
 `Suggest 5 research questions with measurable outcomes for:
 "Evaluate the effectiveness of makerspace programs."
-Return a table with RQ, Variables, Method, Outcome, Feasibility note.`
+Return a table with Research Questions, Variables, Method, Outcome, Feasibility note.`
 
-Then run the **RQ drill** above to tighten one question.
+Then run the **Research Questions drill** above to tighten one question.
 
 **3) Article summary (with limits)**
 - Ask for capacity, then either summarize the URL or paste chunks.  
@@ -151,7 +151,7 @@ Then run the **RQ drill** above to tighten one question.
 
 ## Self-check (2 min)
 - Did you **diverge** (≥10 ideas), **cluster** (clear themes), and **converge** (scored & selected)?  
-- Are your RQs **measurable** and scoped to your time/resources?  
+- Are your Research Questions **measurable** and scoped to your time/resources?  
 - Did you verify at least one claim or data assumption?
 
 ---
@@ -159,17 +159,6 @@ Then run the **RQ drill** above to tighten one question.
 ## Go further
 For more prompting techniques (tone, examples, format control), a short overview you can skim next:  
 [Prompt engineering techniques](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank" rel="noopener"}
-
-## Idea Canvas (one-pager you can reuse)
-| Section | Notes (≤40 words) |
-|---|---|
-| Problem (who/where) |  |
-| Why now (evidence) |  |
-| 3 candidate ideas | 1)  2)  3)  |
-| Top criteria (pick 3) | Novelty • Feasibility • Data • Impact • Scope |
-| Shortlist (2 ideas) |  |
-| Risks & checks |  |
-| Next 3 actions (dates) | 1)  2)  3)  |
 
 
 [NEXT STEP: Critical Review](4-critical-review.html){: .btn .btn-blue }
