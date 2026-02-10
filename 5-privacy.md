@@ -61,10 +61,26 @@ Keep a tiny “redaction rules” note so you can reverse-map if needed.
 2. Turn off content used to improve models; review chat history settings.  
 <br><img src="images/5-chatgpt-privacy.png" alt="ChatGPT privacy screenshot showing data controls"><br>
 
-### Perplexity (Privacy)
-1. Open **Settings → Privacy/Data**.  
-2. Disable content-for-improvement; review history retention.  
-<br><img src="images/5-perplexity-privacy.png" alt="Perplexity privacy screenshot showing privacy options"><br>
+### Google Gemini (Privacy)
+1. Go to [gemini.google.com](https://gemini.google.com/){:target="_blank" rel="noopener"}.
+2. Click the **Menu** icon (three horizontal lines) in the top-left corner.
+3. Select **Settings & help** at the bottom of the sidebar.
+4. Click **Activity** (this will open the Gemini Apps Activity page).
+5. Find the Keep **Activity toggle** and click **Turn off**.
+6. You will be prompted with two choices:
+   - **Turn off**: Stops saving future chats for training.
+   - **Turn off and delete activity**: Stops future training and wipes your existing history.
+
+<br><img src="images/5-gemini-privacy-1.png" alt="Perplexity privacy screenshot showing privacy options"><br>
+
+If you want to keep your main history on but have a specific conversation that is private and not used for training, use the new **Temporary Chat feature**.
+
+- Look for the **model selector** at the top of the chat (where it says "Gemini 3").
+- Click the dropdown and toggle on Temporary Chat.
+
+**Privacy Note**: While in this mode, chats are deleted as soon as you close the window and are not used to train the model.  
+
+<br><img src="images/5-gemini-privacy-2.png" alt="Perplexity privacy screenshot showing privacy options"><br>
 
 > Policies and UI change over time. Confirm current settings each term and follow UVic policy.
 
