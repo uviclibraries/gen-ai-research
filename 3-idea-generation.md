@@ -25,7 +25,7 @@ You **must have permission** from your instructor to use GenAI in any assessed w
 - How to **summarize safely** (tool limits, chunking, verification).
 
 ## Before you start
-Open one tool: Perplexity, Copilot, ChatGPT, Gemini, Claude, or Meta.ai (any is fine).  
+Open one tool: Copilot, Gemini, ChatGPT, Perplexity, or Claude (any is fine).  
 > **Safety:** Don’t paste confidential/personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`).
 
 ---
@@ -48,13 +48,13 @@ Open one tool: Perplexity, Copilot, ChatGPT, Gemini, Claude, or Meta.ai (any is 
 **Goal**: reduce noise by grouping related ideas.
 
 **Prompt:**
-`**Action**: Cluster the 20 ideas into 5 labeled themes.`
-`**Format**: Table with columns = Theme, Ideas included, Why this theme matters (≤20 words).`
-`**Constraints**: No theme overlaps; each idea appears once.`
+- `**Action**: Cluster the 20 ideas into 5 labeled themes.`
+- `**Format**: Table with columns = Theme, Ideas included, Why this theme matters (≤20 words).`
+- `**Constraints**: No theme overlaps; each idea appears once.`
 
 
 Optional follow-up:
-`**Action**: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.`
+- `**Action**: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.`
 
 
 ---
@@ -63,9 +63,9 @@ Optional follow-up:
 **Goal**: select 2–3 ideas worth pursuing using measurable criteria.
 
 **Prompt:**
-`**Action**: Score each theme 0–5 on Novelty, Feasibility (skills/time), Data availability, Scope fit, Potential impact.`
-`**Format**: Table with columns = Theme, Novelty, Feasibility, Data, Scope, Impact, Notes.`
-`**Constraints**: Brief notes with concrete risks or assumptions.``
+- `**Action**: Score each theme 0–5 on Novelty, Feasibility (skills/time), Data availability, Scope fit, Potential impact.`
+- `**Format**: Table with columns = Theme, Novelty, Feasibility, Data, Scope, Impact, Notes.`
+- `**Constraints**: Brief notes with concrete risks or assumptions.``
 
 **Decide:** Keep the top 2–3 themes. Write 1–2 risks you will check next (e.g., “access to participants,” “IRB/ethics needed,” “data exists?”).
 
@@ -76,15 +76,14 @@ Optional follow-up:
 
 **Prompt:**
 
-`**Role**: Research methods tutor.`
-`**Action**: Propose 5 research questions for the theme <chosen theme>.`
-`**Format**: Table with columns = RQ, Variables/constructs, Method (1 line), Measurable outcome, Feasibility note.`
-`**Constraints**: Use clear, observable outcomes; avoid vague verbs; align with an undergraduate project scope.`
-
+- `**Role**: Research methods tutor.`
+- `**Action**: Propose 5 research questions for the theme <chosen theme>.`
+- `**Format**: Table with columns = RQ, Variables/constructs, Method (1 line), Measurable outcome, Feasibility note.`
+- `**Constraints**: Use clear, observable outcomes; avoid vague verbs; align with an undergraduate project scope.`
 
 **Refine one RQ** with acceptance criteria:
-`**Action**: Rewrite RQ #2 so it is specific and measurable.`
-`**Constraints**: Time-bounded; identifies population and setting; feasible data source; ethical to implement.`
+- `**Action**: Rewrite RQ #2 so it is specific and measurable.`
+- `**Constraints**: Time-bounded; identifies population and setting; feasible data source; ethical to implement.`
 
 
 ---
