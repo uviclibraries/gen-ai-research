@@ -37,19 +37,15 @@ You may use other tools if you prefer:
 ## Prompt Design Basics: The CRAFT Framework
 Getting started is easy; getting **good** takes structure and practice. Use **CRAFT**:
 
-- **Context** — Background and purpose. Who’s asking and why?  
+1. **Context** — Background and purpose. Who’s asking and why?  
   _Example:_ `I’m preparing a 60-minute lesson about weather for Grade 2.`
-
-- **Role** — Who should the assistant act as?  
+2. **Role** — Who should the assistant act as?  
   _Example:_ `Act as an elementary school teacher.`
-
-- **Action** — What exactly should be produced?  
+3. **Action** — What exactly should be produced?  
   _Example:_ `Create a one-hour lesson plan plus a 30-minute activity.`
-
-- **Format** — How should it be structured?  
+4. **Format** — How should it be structured?  
   _Example:_ `Return bullet points with headings: Objectives, Materials, Steps, Assessment.`
-
-- **Target Audience** — Who is this for? Adjust tone and level.  
+5. **Target Audience** — Who is this for? Adjust tone and level.  
   _Example:_ `Write at a Grade 2 reading level.`
 
 > **CRAFT+ (recommended):** Add **Constraints** (time, word count, must include/avoid), and **Evidence** (citations/URLs) when facts matter.
@@ -65,21 +61,21 @@ _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 
 **Better (uses CRAFT)**
 
-- Context: `I’m teaching a one-hour lesson about weather.`
-- Role: `Elementary school teacher.`
-- Action: `Create a lesson plan with a 30-minute activity.`
-- Format: `Bullet points with headings: Objectives, Materials, Steps, Assessment.`
-- Target Audience: `Grade 2 students.`
+1. **Context**: `I’m teaching a one-hour lesson about weather.`
+2. **Role**: `Elementary school teacher.`
+3. **Action**: `Create a lesson plan with a 30-minute activity.`
+4. **Format**: `Bullet points with headings: Objectives, Materials, Steps, Assessment.`
+5. **Target Audience**: `Grade 2 students.`
 
 **Best (CRAFT+)**
 
-- Context: `I’m teaching a one-hour weather lesson next week.`
-- Role: `Elementary school teacher.`
-- Action: `Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.`
-- Format: `Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.`
-- Target Audience: `Grade 2 students.`
-- Constraints: `Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.`
-- Evidence: `Provide 2 age-appropriate sources or curriculum references with URLs.`
+1. **Context**: `I’m teaching a one-hour weather lesson next week.`
+2. **Role**: `Elementary school teacher.`
+3. **Action**: `Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.`
+4. **Format**: `Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.`
+5. **Target Audience**: `Grade 2 students.`
+6. **Constraints**: `Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.`
+7. **Evidence**: `Provide 2 age-appropriate sources or curriculum references with URLs.`
 
 ---
 
