@@ -71,7 +71,7 @@ Keep a tiny “redaction rules” note so you can reverse-map if needed.
    - **Turn off**: Stops saving future chats for training.
    - **Turn off and delete activity**: Stops future training and wipes your existing history.
 
-<br><img src="images/5-gemini-privacy-1.png" alt="Gemini privacy screenshot showing privacy options" width="500">
+<br><img src="images/5-gemini-privacy-1.png" alt="Gemini privacy screenshot showing privacy options" width="700">
 
 If you want to keep your main history on but have a specific conversation that is private and not used for training, use the new **Temporary Chat feature**.
 
@@ -80,7 +80,7 @@ If you want to keep your main history on but have a specific conversation that i
 
 **Privacy Note**: While in this mode, chats are deleted as soon as you close the window and are not used to train the model.  
 
-<br><img src="images/5-gemini-privacy-2.png" alt="Perplexity privacy screenshot showing privacy options"  width="300">
+<br><img src="images/5-gemini-privacy-2.png" alt="Perplexity privacy screenshot showing privacy options"  width="500">
 
 > Policies and UI change over time. Confirm current settings each term and follow UVic policy.
 
@@ -89,10 +89,9 @@ If you want to keep your main history on but have a specific conversation that i
 ## Tool-hygiene checklist (do this every time)
 - **New chat per task** (prevents cross-contamination).  
 - **History/training:** disable training on your content where possible.  
-- **Browsing:** off unless you really need it.  
 - **Sources:** demand links and dates; forbid guessing (“If unsure, say NOT SURE.”).  
 - **Exports:** save what you need, then **delete** the conversation/file from the tool.  
-- **Accounts:** prefer edu/enterprise accounts for school work when permitted.  
+- **Accounts:** prefer educational or enterprise accounts for school work when permitted.  
 - **Policy:** when in doubt, don’t paste—summarize or use placeholders.
 
 ---
@@ -111,7 +110,7 @@ If you want to keep your main history on but have a specific conversation that i
 - **Specify length** (e.g., 120–150 words) and avoid repeated re-rolls.  
 - Use **smaller models** and avoid **Deep Research** tools for simple tasks.  
 - **Batch** questions into one structured prompt.  
-- Reuse verified snippets/templates instead of starting from scratch.
+- **Reuse** verified snippets/templates instead of starting from scratch.
 
 ---
 
