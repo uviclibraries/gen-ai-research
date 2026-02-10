@@ -64,21 +64,21 @@ Getting started is easy; getting **good** takes structure and practice. Use **CR
 _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 
 **Better (uses CRAFT)**
-`Context: I’m teaching a one-hour lesson about weather.
-Role: Elementary school teacher.
-Action: Create a lesson plan with a 30-minute activity.
-Format: Bullet points with headings: Objectives, Materials, Steps, Assessment.
-Target Audience: Grade 2 students.`
+Context: `I’m teaching a one-hour lesson about weather.`
+Role: `Elementary school teacher.`
+Action: `Create a lesson plan with a 30-minute activity.`
+Format: `Bullet points with headings: Objectives, Materials, Steps, Assessment.`
+Target Audience: `Grade 2 students.`
 
 
 **Best (CRAFT+)**
-`Context: I’m teaching a one-hour weather lesson next week.
-Role: Elementary school teacher.
-Action: Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.
-Format: Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.
-Target Audience: Grade 2 students.
-Constraints: Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.
-Evidence: Provide 2 age-appropriate sources or curriculum references with URLs.`
+Context: `I’m teaching a one-hour weather lesson next week.`
+Role: `Elementary school teacher.`
+Action: `Create a timed lesson plan plus a 30-minute activity that reinforces key ideas.`
+Format: `Bullet points with headings: Objectives, Materials, Steps (with times), Assessment, Differentiation.`
+Target Audience: `Grade 2 students.`
+Constraints: `Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.`
+Evidence: `Provide 2 age-appropriate sources or curriculum references with URLs.`
 
 
 ---
