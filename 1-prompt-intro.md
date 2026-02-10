@@ -67,7 +67,7 @@ _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 4. **Format**: `Bullet points with headings: Objectives, Materials, Steps, Assessment.`
 5. **Target Audience**: `Grade 2 students.`
 
-**Best (CRAFT+)**
+**Best (CRAFT+CE)**
 
 1. **Context**: `I’m teaching a one-hour weather lesson next week.`
 2. **Role**: `Elementary school teacher.`
@@ -92,13 +92,13 @@ Copy/paste into your tool:
 ### 2) Try the improved prompt (5–7 min)
 Copy/paste this:
 
-- Context: `I’m teaching a one-hour lesson about weather.`
-- Role: `Elementary school teacher.`
-- Action: `Create a lesson plan with a 30-minute activity.`
-- Format: `Bullet points with headings: Objectives, Materials, Steps, Assessment.`
-- Target: `Audience: Grade 2 students.`
-- Constraints: `Keep it concise; activity uses common classroom supplies.`
-- Evidence: `Include 2 sources or curriculum references with URLs.`
+1. **Context**: `I’m teaching a one-hour lesson about weather.`
+2. **Role**: `Elementary school teacher.`
+3. **Action**: `Create a lesson plan with a 30-minute activity.`
+4. **Format**: `Bullet points with headings: Objectives, Materials, Steps, Assessment.`
+5. **Target**: `Audience: Grade 2 students.`
+6. **Constraints**: `Keep it concise; activity uses common classroom supplies.`
+7. **Evidence**: `Include 2 sources or curriculum references with URLs.`
 
 <img src="images/1-prompt-weather-lesson.png" alt="Copilot producing a structured Grade 2 weather lesson plan"><br>
 
