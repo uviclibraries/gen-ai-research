@@ -12,8 +12,6 @@ last_modified_date: 2025-11-09
 
 GenAI tools are powerful—but they aren’t private by default, and heavy usage can be wasteful. This page shows how to protect personal/research data, set safer defaults in tools, and use GenAI more sustainably. If you get stuck, ask the instructor.
 
-> Adapted in part from [Christian Schmidt’s AI resources](https://www.canva.com/design/DAF8EoHZ_kA/N4d3y1TPeF5LklU9sj6_YQ/edit){:target="_blank" rel="noopener"}.
-
 ---
 
 ## What you’ll learn
@@ -23,7 +21,7 @@ GenAI tools are powerful—but they aren’t private by default, and heavy usage
 - File hygiene (metadata scrubbing for docs/images/audio).
 - “Greener GenAI” habits that reduce waste.
 
-> **Reminder:** Follow course rules and UVic guidance before using GenAI on assessed work or research data.
+> **Reminder:** Follow your instructors guidelines for the assignment your are working on and [UVic GenAI guidance](https://teachanywhere.uvic.ca/top-post/genai-position-statement/){:target="_blank" rel="noopener"} before using GenAI on assessed work or research data.
 
 ---
 
