@@ -1,5 +1,6 @@
 title: GenAI - Intro & Prompt Design
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
+
 
 just_the_docs:
   # This expands all navigation items by default
