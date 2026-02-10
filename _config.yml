@@ -1,6 +1,8 @@
 title: GenAI - Intro & Prompt Design
 remote_theme: pmarsceill/just-the-docs
+
 just_the_docs:
+  # This expands all navigation items by default
   nav_expand_all: true
 
 # Footer "Edit this page on GitHub" link text
