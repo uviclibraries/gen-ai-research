@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 1 - Prompt Design 1
+title: Basic - Prompt Design
 nav_order: 3
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
@@ -35,6 +35,7 @@ You may use other tools if you prefer:
 ---
 
 ## Prompt Design Basics: The CRAFT Framework
+**Prompt → Output → Evaluate → Refine → Re-run**
 Getting started is easy; getting **good** takes structure and practice. Use **CRAFT**:
 
 1. **Context** — Background and purpose. Who’s asking and why?  
@@ -78,10 +79,9 @@ _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 7. **Evidence**: `Provide 2 age-appropriate sources or curriculum references with URLs.`
 
 ---
-
 ## Let’s practice!
 
-### 1) Test a poor prompt (2 min)
+### 1) Test a poor prompt 
 Copy/paste into your tool:
 
 `Tell me about the weather.`
@@ -89,7 +89,7 @@ Copy/paste into your tool:
 <img src="images/prompt-lesson-poor.png" alt="Copilot showing a generic response to a vague weather prompt"><br>
 **Question:** What’s missing? (Audience, goal, format, constraints, evidence.)
 
-### 2) Try the improved prompt (5–7 min)
+### 2) Try the improved prompt
 Copy/paste this:
 
 1. **Context**: `I’m teaching a one-hour lesson about weather.`
@@ -109,7 +109,7 @@ Copy/paste this:
 
 > _Every time we use GenAI tools we must ask: **Do I have the expertise to evaluate this?** If not, verify with trusted sources or a domain expert._
 
-### 3) Your domain (8–10 min)
+### 3) Your domain 
 Pick one or two topics you know well (e.g., “What are the origins of skateboarding?”).
 
 - Ask your tool one focused question about Topic A.  
@@ -122,7 +122,7 @@ Pick one or two topics you know well (e.g., “What are the origins of skateboar
 
 ---
 
-## Self-check (2 min)
+## Self-check 
 - Did you include **all five CRAFT elements**?  
 - Did you add **constraints** and request **evidence** if facts matter?  
 - Is the response **structured** the way you asked?  
