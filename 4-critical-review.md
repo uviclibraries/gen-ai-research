@@ -23,6 +23,15 @@ GenAI tools sometimes **hallucinate**—they state things that sound right but a
 
 ---
 
+## When you MUST audit (don’t skip this)
+Audit GenAI outputs when:
+- You will **publish/share** the output (slides, assignments, reports).  
+- The answer includes **numbers, dates, “first/only/best” claims**, or legal/medical advice.  
+- The output will influence decisions (policy, grading, procurement, research claims).  
+
+---
+
+
 ## Common failure modes (know these red flags)
 - **No sources** or sources that don’t open.  
 - **Made-up citations** (journal sounds real, article doesn’t exist).  
@@ -36,17 +45,17 @@ GenAI tools sometimes **hallucinate**—they state things that sound right but a
 ## Reduce errors with smarter prompts
 Use **CRAFT + CE** (Context, Role, Action, Format, Target Audience + Constraints, Evidence).
 
-**Ask for evidence on purpose**
-`Return 5 numbered claims with a source link for each claim.
-If you are unsure, say "NOT SURE" and stop. Do not invent sources.`
+### Evidence demand (copy/paste)
+`Return 6 numbered claims. For each claim: Source URL + source date.
+If you can’t find a source, write "NO SOURCE" for that claim.
+Do not invent citations.`
 
-**Constrain the scope/time**
+### Structure request (copy/paste)
+`Format: Table with columns = #, Claim (<=20 words), Source URL, Source Date, Confidence (0–5).`
 
-`Use sources published in 2023 or later and list the publication dates.
-If a source is paywalled or inaccessible, say "PAYWALL" and skip it.`
-
-**Request structure**
-`Format: Table with columns = #, Claim, Source URL, Source Date, Confidence(0–5).`
+### Time filter + paywall rule (copy/paste)
+`Use sources published in 2023 or later and show dates.
+If a source is paywalled or inaccessible, write "PAYWALL" and skip it.`
 
 ---
 
@@ -57,13 +66,12 @@ Bias appears when training data is **skewed** (e.g., over-represents certain reg
 <img src="images/4-white-ceos.jpeg" style="float:right;width:320px;height:320px;margin-left:10px;" alt="Illustration of three CEOs often depicted with limited demographic diversity"> 
 
 **Counter-prompts you can use**
-- **Representation:**  
-  `Create an image of three CEOs with visible gender and ethnic diversity.`
-- **Locale:**  
-  `From a Canadian perspective, list key events around the 1814 burning of Washington during the War of 1812. Include citations.`
-- **Time/quality filters:**  
-  `Use 2020+ sources only; include dates and direct quotes ≤10 words with line refs if available.`
-
+- **Locale constraint:**  
+  `Answer from a Canadian context. If norms differ by country, label them explicitly. Include Canadian sources where possible.`
+- **Representation constraint:**  
+  `Give examples that include gender and cultural diversity. Avoid stereotypes.`
+- **Perspective sweep:**  
+  `Provide 3 perspectives: mainstream, critical, and Indigenous/local community (where relevant). Cite sources for each.`
 ---
 
 ## The Claim Audit to Verify All GenAI Claims (10–15 min)
