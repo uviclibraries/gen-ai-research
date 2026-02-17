@@ -22,7 +22,7 @@ You’ll start with **prompt design** and the **ethics/safety** basics that matt
 
 By the end of this **introductory** workshop, you will be able to:
 
-1. **Explain GenAI in plain English** and list where it helps in academic work.  
+1. **Explain GenAI** and list where it helps in academic work.  
 2. **Write better prompts** using audience, format, constraints, and evidence requests.  
 3. **Run a basic fact-check loop** (ask for claims → verify with two sources → correct errors).  
 4. **Adjust privacy settings** and read T&Cs with a safety mindset.  
@@ -30,6 +30,35 @@ By the end of this **introductory** workshop, you will be able to:
 6. **Give pre-submit feedback** on your own assignments using a simple rubric.  
 7. **Evaluate output quality** for accuracy, relevance, bias, and missing context.  
 8. **Follow UVic expectations** for academic integrity and responsible use.
+
+## Prompt vs Prompt Design
+
+**A prompt** = the instructions you give the model.  
+Think: “Do X, in this format, for this audience, using this data, under these constraints.”
+
+**Prompt Design** = the iterative process of turning a vague goal into a prompt that consistently produces usable output.
+
+---
+
+## The Prompt Design Loop 
+
+1) **Idea / Goal** (what outcome do you actually need?)  
+2) **Prompt** (instructions + context + constraints)  
+3) **Result** (model output)  
+4) **Test** (is it correct, usable, safe, complete?)  
+5) **Feedback + Refine** (tighten constraints, add examples, fix format)  
+
+---
+
+## “Art” and “Science” (yes, both)
+
+- **Art**: creativity in framing, examples, roles, and constraints.
+- **Science**: models respond predictably to structure, clarity, scope, and evaluation.
+
+
+---
+
+
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
