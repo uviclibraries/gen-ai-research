@@ -12,6 +12,8 @@ last_modified_date: 2025-11-09
 <img src="images/prompt-design-image.png" style="float:right;width:320px;padding:6px;" alt="Student at a computer brainstorming with GenAI">
 If you get stuck as you work through this in-class exercise, ask the instructor. Have fun—this one is hands-on.
 
+**Goal:** leave with **2–3 strong ideas** and **1 question** you can actually test.
+
 ---
 
 ## Reminder on academic integrity
@@ -70,18 +72,36 @@ Optional follow-up:
 ---
 
 ## D. Turn topics into measurable research questions (RQ drill)
-**Goal**: convert a theme into sharp questions you can test/evaluate.
+This is where ideas stop being vibes and become a real project.
 
-**Prompt:**
+## RQ templates (choose one)
+**A) Comparison**
+- “In `<population>`, does `<approach A>` vs `<approach B>` change `<measurable outcome>` over `<time>`?”
 
-- `**Role**: Research methods tutor.`
-- `**Action**: Propose 5 research questions for the theme <chosen theme>.`
-- `**Format**: Table with columns = RQ, Variables/constructs, Method (1 line), Measurable outcome, Feasibility note.`
-- `**Constraints**: Use clear, observable outcomes; avoid vague verbs; align with an undergraduate project scope.`
+**B) Effect**
+- “What is the effect of `<intervention/exposure>` on `<outcome>` for `<population>` in `<setting>`?”
 
-**Refine one RQ** with acceptance criteria:
-- `**Action**: Rewrite RQ #2 so it is specific and measurable.`
-- `**Constraints**: Time-bounded; identifies population and setting; feasible data source; ethical to implement.`
+**C) Relationship**
+- “How is `<variable X>` associated with `<outcome Y>` among `<population>`?”
+
+---
+
+## RQ generator prompt (Copy/paste)
+- `Role: Research methods tutor.`
+- `Context: My chosen theme is: <paste theme label + 2–3 included ideas>.`
+- `Action: Propose 5 research questions that are specific and measurable.`
+- `Format: Table with columns = RQ, Population/Setting, Variables (IV/DV), Method (1 line), Metric (how measured), Feasibility note.`
+- `Constraints: Avoid vague verbs (explore/understand). Each RQ must include a measurable outcome and a plausible data source.`
+
+### Tighten ONE RQ with acceptance criteria (Copy/paste)
+- `Action: Rewrite RQ #__ to meet all acceptance criteria below.`
+- `Acceptance criteria:`
+  - `Names a population and setting`
+  - `Defines what is being compared or measured`
+  - `Specifies at least one measurable outcome`
+  - `Time-bounded (e.g., "over 2 weeks")`
+  - `Ethically feasible (no sensitive data)`
+- `Format: Return (1) final RQ, (2) IV/DV, (3) method, (4) metric, (5) biggest risk.`
 
 ---
 
@@ -132,6 +152,7 @@ Then run the **Research Questions drill** above to tighten one question.
 - Follow with: `Expand to ≥5 bullets; keep quotes short; no new facts.`
 
 > **Note:** Limits change over time. If a tool doesn’t acknowledge limits, assume it may not have processed everything—ask it to show its work.
+
 
 ---
 
