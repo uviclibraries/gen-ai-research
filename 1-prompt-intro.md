@@ -36,8 +36,16 @@ You may use other tools if you prefer:
 
 ## Prompt Design Basics: The CRAFT Framework
 **Prompt → Output → Evaluate → Refine → Re-run**
-Getting started is easy; getting **good** takes structure and practice. Use **CRAFT**:
+Getting started is easy; getting **good** takes structure and practice. 
 
+A good prompt tells the tool:
+- what you want
+- for whom
+- in what format
+- with what limits
+- and how to handle uncertainty
+  
+Use **CRAFT**:
 1. **Context** — Background and purpose. Who’s asking and why?  
   _Example:_ `I’m preparing a 60-minute lesson about weather for Grade 2.`
 2. **Role** — Who should the assistant act as?  
@@ -77,6 +85,15 @@ _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 5. **Target Audience**: `Grade 2 students.`
 6. **Constraints**: `Use simple language; avoid jargon; total plan <= 200 words; activity must require minimal materials.`
 7. **Evidence**: `Provide 2 age-appropriate sources or curriculum references with URLs.`
+
+---
+
+## Prompt vs response (who does what)
+- **You control:** the goal, structure, scope, constraints, evaluation
+- **The tool controls:** wording, ordering, phrasing, summarization choices
+- **Reality controls:** whether it’s true (so you must verify when facts matter)
+
+---
 
 ---
 ## Let’s practice!
