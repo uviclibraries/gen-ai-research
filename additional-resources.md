@@ -24,6 +24,28 @@ nav_order: 10
 ## Verify & evaluate
 - Fact-checking sites, government data portals, citation guides
 
+## Debugging playbook (why outputs suck, and the exact fix)
+Use this when the model gives you nonsense.
+
+### Problem: Too vague / generic
+**Fix prompt:**  
+`Ask me 3 clarification questions first. Then produce the output using my answers.`
+
+### Problem: Hallucinated facts / made-up citations
+**Fix prompt:**  
+`List each factual claim as a bullet. For each claim: give a source URL + date. If you can’t, write “UNVERIFIED.” Then rewrite using only VERIFIED claims.`
+
+### Problem: Too long / rambling
+**Fix prompt:**  
+`Rewrite to <=90 words. Keep only the top 3 points. Remove examples and filler.`
+
+### Problem: Wrong level for audience
+**Fix prompt:**  
+`Rewrite for <audience>. Add 1 simple example. Remove technical jargon.`
+
+### Problem: Scope creep (“everything about X”)
+**Fix prompt:**  
+`Limit to: <3–5 specific subtopics>. One sentence each. No extras.`
 ## Privacy & safety
 - UVic guidance on GenAI in research
 - Redaction/metadata tools (exiftool, Office “Inspect Document”)
