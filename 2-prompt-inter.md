@@ -21,6 +21,7 @@ If you get stuck during this in-class exercise, ask the instructor. Let’s leve
 - How to **control tone, scope, and structure** so outputs are auditably useful.
 - How to spot/avoid common failure modes (vagueness, missing evidence, scope creep).
 
+> **Privacy note:** Don’t paste confidential or personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`).
 ---
 
 ## CRAFT (fast refresh)
@@ -32,50 +33,83 @@ Use **CRAFT** and add constraints/evidence when facts matter.
 
 > Typo fix from earlier pages: “Target Audience,” not “Targe Audience.” Accuracy starts with you.
 
+**Plus:**
+- **Constraints**: limits + must include/avoid (reduces errors + fluff)
+- **Evidence**: citations/URLs when facts matter
+- **Acceptance Criteria** (the “definition of done”): what a correct answer must include
 ---
 
 ## Patterns library (copy/paste)
 Use these as building blocks; swap in your topic.
 
-**Summarizer**
-
+### 1) Summarizer 
+**Prompt**
+- Context: `You are summarizing for a reader who needs only what is supported by the text.`
 - Role: `Academic editor`
-- Action: `Summarize the text into 150–180 words.`
-- Format: `Bullet points with headings: Key Claim, Evidence, Limitations.`
-- Constraints: `No new facts; keep author terminology.`
-- Evidence: `Quote 2 short phrases (<=10 words) with line refs if available.`
+- Action: `Summarize the text into 140–170 words.`
+- Format: `Headings: Key claim | Evidence used | Limitations | What is NOT stated`
+- Constraints: `No new facts. If missing, say “NOT PROVIDED.”`
+- Evidence: `Include 2 citations or quotes (<=10 words each).`
 
-**Explainer**
-
+### 2) Explainer 
+**Prompt**
 - Role: `Subject expert`
 - Action: `Explain <concept> for <audience>.`
-- Format: `5 bullets: Definition, Why it matters, Core idea, Simple example, Common mistake.`
+- Format: `5 bullets: Definition | Why it matters | Core idea | Simple example | Common mistake`
 - Constraints: `Plain language; avoid jargon; <=120 words.`
 
-**Tutor**
-
-- Role: `Patient tutor`
-- Action: `Diagnose what I misunderstand about <topic>.`
-- Format: `Ask 3 short diagnostic questions; wait for my answers; then explain.`
-- Constraints: `One question at a time; avoid giving the answer early.`
-
-**Planner**
-
-- Role: `Project planner.`
+### 3) Planner 
+**Prompt**
+- Role: `Project planner`
 - Action: `Produce a 5-step plan to achieve <goal>.`
-- Format: `For each step: Objective, Inputs, Acceptance criteria.`
-- Constraints: `Keep within <time/budget>.`
+- Format: `Table: Step | Objective | Inputs | Deliverable | Acceptance criteria`
+- Constraints: `No step longer than 2 lines.`
 
-**Critic**
+### 4) Critic 
+**Prompt**
 - Role: `Critical reviewer`
-- Action: `Assess my draft for Accuracy, Coverage, Clarity, Sources, Formatting.`
-- Format: `Table with Score(1–5), Evidence, Fix.`
-- Constraints: `No rewriting yet; only diagnosis.`
+- Action: `Assess my draft for Accuracy, Coverage, Clarity, Evidence, and Formatting.`
+- Format: `Table: Category | Score(1–5) | Evidence from text | Fix`
+- Constraints: `Do not rewrite yet. Only diagnose.`
 
-**Formatter**
-- Role: `Technical formatter.`
-- Action: `Reformat this into Markdown with H2/H3, numbered lists, and a 120-word abstract.`
-- Constraints: `Do not change meaning; flag any missing citations as [MISSING REF].`
+### 5) Formatter 
+**Prompt**
+- Role: `Technical formatter`
+- Action: `Reformat this into Markdown with H2/H3 and numbered steps.`
+- Constraints: `Do not change meaning. Flag missing refs as [MISSING REF].`
+
+### 6) Template pattern (placeholders)
+**Prompt**
+`Use this exact template. Do not add extra sections:
+Title:
+Goal (1 sentence):
+Key points (3 bullets):
+Risks/uncertainties (2 bullets):
+Next actions (3 numbered steps):`
+---
+
+## Prompting (the “3-step upgrade”)
+Chaining beats one giant prompt. You get less chaos and more control.
+
+**Chain format:**
+1) **Draft** the output  
+2) **Critique** it using acceptance criteria  
+3) **Revise** based on critique
+
+**Example chain (copy/paste)**  
+**Step 1: Draft**
+`Create a structured answer on <topic>. Format: 6 bullets with headings. Include 2 sources.`
+
+**Step 2: Critique**
+`Check your answer against these acceptance criteria:
+- Has a clear definition (1 sentence)
+- Has 2 verifiable sources (URLs)
+- No claims without evidence
+- Max 120 words
+Return a table: Criterion | Pass/Fail | Fix`
+
+**Step 3: Revise**
+`Rewrite the answer applying all fixes. If you cannot verify a claim, mark it “NOT SURE.”`
 
 ---
 
