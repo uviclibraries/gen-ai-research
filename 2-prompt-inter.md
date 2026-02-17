@@ -18,10 +18,15 @@ If you get stuck during this in-class exercise, ask the instructor. Let’s leve
 - A quick **CRAFT** refresh and how to extend it with constraints/evidence.
 - **Reusable prompt patterns** (Summarizer, Explainer, Tutor, Planner, Critic, Formatter).
 - **Prompt chaining** to refine results and build on previous steps.
-- How to **control tone, scope, and structure** so outputs are auditably useful.
+- How to **control tone, scope, and structure** so outputs are audibly useful.
 - How to spot/avoid common failure modes (vagueness, missing evidence, scope creep).
 
-> **Privacy note:** Don’t paste confidential or personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`).
+> **Privacy note:** Don’t paste confidential or personal data. For example, redact any personally identifying information for example:
+> - Names
+> - Emails
+> - Street or postal code Addresses
+> - Birthdates or other significant dates for events in people's lives
+> - GPS data in photos
 ---
 
 ## CRAFT (fast refresh)
@@ -31,7 +36,7 @@ Use **CRAFT** and add constraints/evidence when facts matter.
   **Format** — headings/bullets/JSON; **Target Audience** — who it’s for.
 - **Constraints** (word/time limits, must include/avoid) and **Evidence** (citations/URLs).
 
-> Typo fix from earlier pages: “Target Audience,” not “Targe Audience.” Accuracy starts with you.
+> Typo fix from earlier pages: “Target Audience,” not “Target Audience.” Accuracy starts with you.
 
 **Plus:**
 - **Constraints**: limits + must include/avoid (reduces errors + fluff)
