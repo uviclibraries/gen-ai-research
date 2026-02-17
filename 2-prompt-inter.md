@@ -183,6 +183,43 @@ Return a table: Criterion | Pass/Fail | Fix`
 - Follow-up: `Provide step-by-step student instructions for the activity at a Grade 4 reading level.`
 - Add acceptance criteria: `The plan must fit 60 minutes total, list 3 materials only, and include one formative check.`
 
+**D. Pattern remix (make a reusable prompt)
+Pick a topic you actually care about (course, work, hobby). Copy/paste and fill blanks:
+**Prompt**
+`Context: I need a clean, checkable explanation for <audience>.
+Role: You are a <role>.
+Action: Explain <topic>.
+Format: 5 bullets: Definition | Why it matters | Core idea | Example | Common mistake.
+Constraints: <=120 words, plain language, no jargon.
+Evidence: Include 2 URLs if facts are involved; otherwise say “No sources required.”`
+
+**E. Chain it (draft → critique → revise)
+Use the 3-step chain on ANY topic.
+**Step 1**
+`Draft a structured answer about <topic>.
+Format: Headings + bullets.
+Include 2 sources (URLs).`
+**Step 2**
+`Critique using this rubric (score 1–5 each):
+Accuracy | Completeness | Structure | Evidence | Audience-fit
+Return a table: Category | Score | What failed | Fix`
+**Step 3**
+`Rewrite applying all fixes.
+Constraints: <=140 words. If unsure about a claim, mark it “NOT SURE.”`
+
+**F. Tone + scope A/B test (control the output)
+Run both prompts and compare.
+
+**A (neutral + tight scope)**
+`Explain <topic> in a neutral tone.
+Scope: only 3 key points, 1 sentence each.
+Format: bullets.`
+
+**B (friendly + broader scope)**
+`Explain <topic> in a friendly tone.
+Scope: 6 key points, include 1 example.
+Format: bullets.`
+
 **Reflection (2–3 min)**
 - Which acceptance criteria improved quality the most?  
 - Where did tone or scope reduce errors?  
