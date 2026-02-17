@@ -41,13 +41,13 @@ Use this when the model gives you nonsense.
 
 ## Privacy & safety
 - UVic guidance on GenAI in research
-- Redaction/metadata tools (exiftool, Office “Inspect Document”)
+- Redaction/metadata tools (exhilaration tool, Office “Inspect Document”)
 
 ## Research workflows
 - Zotero, ResearchRabbit/Connected Papers (always verify)
-- Query syntax cheatsheets (Boolean, truncation, phrase search)
+- Query syntax cheat sheets (Boolean, truncation, phrase search)
 
-> Keep this short and vetted. Remove anything dead or duplicative.
+> Keep this short and vetted. Remove anything dead or duplicated.
 
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
