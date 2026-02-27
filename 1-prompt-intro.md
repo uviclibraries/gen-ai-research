@@ -23,7 +23,7 @@ If you get stuck, ask the instructor. Have fun—this is hands-on.
 
 ## Before you start
 Open **one** tool in your browser:
-- [Perplexity](https://www.perplexity.ai/){:target="_blank" rel="noopener"} (often works without an account) **or** [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank" rel="noopener"} (UVic-licensed option available).  
+- [Perplexity](https://www.perplexity.ai/){:target="_blank" rel="noopener"} (often works without an account) **or** [Microsoft Copilot](https://m365.cloud.microsoft/chat/){:target="_blank" rel="noopener"} (UVic-licensed option available).  
 You may use other tools if you prefer:
 [Claude](https://claude.ai/){:target="_blank" rel="noopener"},
 [Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"},
