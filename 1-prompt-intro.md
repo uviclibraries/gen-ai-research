@@ -25,10 +25,9 @@ If you get stuck, ask the instructor. Have fun—this is hands-on.
 Open **one** tool in your browser:
 - [Perplexity](https://www.perplexity.ai/){:target="_blank" rel="noopener"} (often works without an account) **or** [Microsoft Copilot](https://copilot.microsoft.com/){:target="_blank" rel="noopener"} (UVic-licensed option available).  
 You may use other tools if you prefer:
-[ChatGPT](https://chat.openai.com/){:target="_blank" rel="noopener"},
-[Meta.ai](https://www.meta.ai/){:target="_blank" rel="noopener"},
 [Claude](https://claude.ai/){:target="_blank" rel="noopener"},
-[Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"}.
+[Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"},
+[ChatGPT](https://chat.openai.com/){:target="_blank" rel="noopener"}.
 
 > **Privacy note:** Don’t paste confidential or personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`). For data-handling details, see the UVic guidance linked on the Pre-Workshop page.
 
