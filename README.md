@@ -1,16 +1,16 @@
 # GenAI Introduction & Prompt Design: A Double-Edged Sword
 ### UVic Libraries Digital Scholarship Commmons
 
-# GenAI Workshop (Repo Guide)
+## GenAI Workshop (Repo Guide)
 
-## Structure
+### Structure
 - `index.md` (about)
 - `pre-workshop.md` (setup)
 - `1-7` activity pages (core)
 - `workshop-activities*.md` (track hubs)
 - `additional-resources.md`, `informal-credentials.md`, `workshop-survey.md`
 
-## Edit conventions
+### Edit conventions
 - Plain English, short sentences
 - Sections: What you’ll learn • Do this now • Reflection • Self-check
 - External links: add `rel="noopener"`
