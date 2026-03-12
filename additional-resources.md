@@ -6,8 +6,8 @@ nav_order: 10
 # Additional Resources & Acknowledgements
 
 ## Generative AI Prompt Design
-- The [*AI Usage Label*](https://ailabel.netlify.app/){:target="_blank"} is a free tool was developed & made available by [Dr. Faraz Forghan Parast](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} who is a Fellow at the University of Victoria, [Electronic Textual Cultures Lab](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} (ETCL).
-
+<img src="images/ai-usage-label.png" style="float: right;" width = "300px">
+The [**AI Usage Label**](https://ailabel.netlify.app/){:target="_blank"} is a free tool was developed & made available by [Dr. Faraz Forghan Parast](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} who is a Fellow at the University of Victoria, [Electronic Textual Cultures Lab](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} (ETCL).
 
 ## Acknowledgements
 
