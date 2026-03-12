@@ -18,9 +18,6 @@ The [**AI Usage Label**](https://ailabel.netlify.app/){:target="_blank"} is a fr
 
 # Additional Resources
 
-## Learn the basics
-- GenAI overviews and classroom guides (insert your preferred links)
-
 ## Debugging playbook (why outputs suck, and the exact fix)
 Use this when the model gives you nonsense.
 
