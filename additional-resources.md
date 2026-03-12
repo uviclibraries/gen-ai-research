@@ -5,7 +5,7 @@ nav_order: 10
 ---
 # Additional Resources & Acknowledgements
 
-## Generative AI Prompt Design
+## Generative AI Disclosure Tool
 <img src="images/ai-usage-label.png" style="float: right;" width = "300px">
 The [**AI Usage Label**](https://ailabel.netlify.app/){:target="_blank"} is a free tool was developed & made available by [Dr. Faraz Forghan Parast](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} who is a Fellow at the University of Victoria, [Electronic Textual Cultures Lab](https://etcl.uvic.ca/2023/11/16/meet-the-etcl-team-faraz-forghan-parast/){:target="_blank"} (ETCL).
 
@@ -37,15 +37,7 @@ Use this when the model gives you nonsense.
 **Fix prompt:**  `Limit to: <3–5 specific subtopics>. One sentence each. No extras.`
 
 ## Privacy & safety
-- UVic guidance on GenAI in research
-- Redaction/metadata tools (exhilaration tool, Office “Inspect Document”)
-
-## Research workflows
-- Zotero, ResearchRabbit/Connected Papers (always verify)
-- Query syntax cheat sheets (Boolean, truncation, phrase search)
-- Disclose use of AI in research: https://ailabel.netlify.app/
-
-> Keep this short and vetted. Remove anything dead or duplicated.
-
+- [UVic guidance on GenAI in research](https://teachanywhere.uvic.ca/top-post/genai-position-statement){:target="_blank"}
+- **COMING SOON**: Redaction/metadata tools (exhilaration tool, Office “Inspect Document”)
 
 [NEXT STEP: Workshop Evaluation Survey](workshop-survey.html){: .btn .btn-blue }
