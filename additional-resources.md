@@ -15,7 +15,6 @@ nav_order: 10
 - Rich McCue & Zarah Premji presentation: [Generative AI & Academic Assignments: Exclude or Embrace?](https://docs.google.com/presentation/d/1Z7ulU4r8YO4AfHlRwaXLkTzM0V3rxN2bAo7aAD9S_jg/){:target="_blank"} (CC-BY)
 - [UBC Library Research Commons](https://github.com/ubc-library-rc/){:target="_blank"}, for their assistance with the Jekyll template for GitHub Pages.
 
-
 # Additional Resources
 
 ## Learn the basics
@@ -46,6 +45,7 @@ Use this when the model gives you nonsense.
 ## Research workflows
 - Zotero, ResearchRabbit/Connected Papers (always verify)
 - Query syntax cheat sheets (Boolean, truncation, phrase search)
+- Disclose use of AI in research: https://ailabel.netlify.app/
 
 > Keep this short and vetted. Remove anything dead or duplicated.
 
