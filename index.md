@@ -31,13 +31,6 @@ By the end of this **introductory** workshop, you will be able to:
 7. **Evaluate output quality** for accuracy, relevance, bias, and missing context.  
 8. **Follow UVic expectations** for academic integrity and responsible use.
 
-## Prompt vs Prompt Design
-
-**A prompt** = the instructions you give the model.  
-Think: “Do X, in this format, for this audience, using this data, under these constraints.”
-
-**Prompt Design** = the iterative process of turning a vague goal into a prompt that consistently produces usable output.
-
 ---
 
 ## The Prompt Design Loop 
@@ -47,17 +40,6 @@ Think: “Do X, in this format, for this audience, using this data, under these 
 3) **Result** (model output)  
 4) **Test** (is it correct, usable, safe, complete?)  
 5) **Feedback + Refine** (tighten constraints, add examples, fix format)  
-
----
-
-## “Art” and “Science” (yes, both)
-
-- **Art**: creativity in framing, examples, roles, and constraints.
-- **Science**: models respond predictably to structure, clarity, scope, and evaluation.
-
-
----
-
 
 
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
