@@ -1,180 +1,220 @@
 ---
 layout: default
 title: 3 - Idea Generation
-nav_order: 5
+nav_order: 4
 parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
-description: "Beginner-friendly idea generation with a simple diverge→cluster→converge workflow, measurable criteria, and safe summarization."
-last_modified_date: 2025-11-09
---- 
+---
 
 # Idea Generation — Introduction
-<img src="images/prompt-design-image.png" style="float:right;width:320px;padding:6px;" alt="Student at a computer brainstorming with GenAI">
+
+![Student at a computer brainstorming with GenAI](images/prompt-design-image.png)
+
 If you get stuck as you work through this in-class exercise, ask the instructor. Have fun—this one is hands-on.
 
-**Goal:** leave with **2–3 strong ideas** and **1 question** you can actually test.
+**Goal:** leave with **2–3 strong ideas** and **1 research question** you can actually test.
+
+> **Note:** This activity uses general-purpose GenAI tools to *generate and structure* research ideas. Once you have your questions, the **[Literature Searching with AI](https://lib.uvic.ca/ai-lit-search)** workshop shows you how to use specialized tools to *discover peer-reviewed sources* on those topics — the two workshops are designed to work together.
 
 ---
 
 ## Reminder on academic integrity
-You **must have permission** from your instructor to use GenAI in any assessed work. Some courses forbid it; others allow limited or full use. Follow your course outline and citation rules. Using GenAI without permission is academic misconduct under UVic’s [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php){:target="_blank" rel="noopener"}.
+
+You **must have permission** from your instructor to use GenAI in any assessed work. Some courses forbid it; others allow limited or full use. Follow your course outline and citation rules. Using GenAI without permission is academic misconduct under UVic's [Academic Integrity Policy](https://www.uvic.ca/students/academics/academic-integrity/index.php).
 
 ---
 
-## What you’ll learn
-- A simple, repeatable ideation pipeline: **diverge → cluster → converge**.  
-- How to turn topics into **measurable research questions**.  
-- How to **summarize safely** (tool limits, chunking, verification).
+## What you'll learn
+
+* A simple, repeatable ideation pipeline: **diverge → cluster → converge**.
+* How to turn topics into **measurable research questions**.
+* How to **summarize safely** (tool limits, chunking, verification).
 
 ## Before you start
-Open one tool: Copilot, Gemini, ChatGPT, Perplexity, or Claude (any is fine).  
-> **Safety:** Don’t paste confidential/personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`).
+
+Open one tool: Copilot, Gemini, ChatGPT, Perplexity, or Claude (any is fine).
+
+> **Safety:** Don't paste confidential or personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`).
 
 ---
 
 ## A. Diverge (5–7 min): create many options
-**Goal**: generate a broad list of plausible directions without judging them yet.
+
+**Goal:** generate a broad list of plausible directions without judging them yet.
 
 **Prompt (copy/paste, replace angle brackets):**
-- `**Role**: Research mentor.`
-- `**Action**: Propose 20 distinct topic ideas about <your broad area>.`
-- `**Format**: Table with columns = Idea, One-sentence rationale, Tags(3).`
-- `**Constraints**: No duplicates; vary methods (survey, experiment, case study), contexts (K–12/higher ed/industry), and scales (classroom/institution/community).`
+```
+Role: Research mentor.
+Action: Propose 20 distinct topic ideas about <your broad area>.
+Format: Table with columns = Idea, One-sentence rationale, Tags (3).
+Constraints: No duplicates; vary methods (survey, experiment, case study),
+contexts (K–12/higher ed/industry), and scales (classroom/institution/community).
+```
 
-**Now try your own:** If 20 is too many, ask for 10. If it’s too generic, add constraints (e.g., “Canada only,” “undergraduate makerspaces,” “low-cost data”).
+**Now try your own:** If 20 is too many, ask for 10. If results are too generic, add constraints (e.g., "Canada only," "undergraduate makerspaces," "low-cost data").
 
 ---
 
 ## B. Cluster (5–7 min): find patterns
-**Goal**: reduce noise by grouping related ideas.
+
+**Goal:** reduce noise by grouping related ideas.
 
 **Prompt:**
-- `**Action**: Cluster the 20 ideas into 5 labeled themes.`
-- `**Format**: Table with columns = Theme, Ideas included, Why this theme matters (≤20 words).`
-- `**Constraints**: No theme overlaps; each idea appears once.`
-
+```
+Action: Cluster the 20 ideas into 5 labeled themes.
+Format: Table with columns = Theme, Ideas included, Why this theme matters (≤20 words).
+Constraints: No theme overlaps; each idea appears once.
+```
 
 Optional follow-up:
-- `**Action**: For each theme, generate 2 “stretch” variations that increase novelty without losing feasibility.`
+```
+Action: For each theme, generate 2 "stretch" variations that increase
+novelty without losing feasibility.
+```
 
 ---
 
 ## C. Converge (8–10 min): pick winners with criteria
-**Goal**: select 2–3 ideas worth pursuing using measurable criteria.
+
+**Goal:** select 2–3 ideas worth pursuing using measurable criteria.
 
 **Prompt:**
-- `**Action**: Score each theme 0–5 on Novelty, Feasibility (skills/time), Data availability, Scope fit, Potential impact.`
-- `**Format**: Table with columns = Theme, Novelty, Feasibility, Data, Scope, Impact, Notes.`
-- `**Constraints**: Brief notes with concrete risks or assumptions.``
+```
+Action: Score each theme 0–5 on Novelty, Feasibility (skills/time),
+Data availability, Scope fit, Potential impact.
+Format: Table with columns = Theme, Novelty, Feasibility, Data, Scope, Impact, Notes.
+Constraints: Brief notes with concrete risks or assumptions.
+```
 
-**Decide:** Keep the top 2–3 themes. Write 1–2 risks you will check next (e.g., “access to participants,” “IRB/ethics needed,” “data exists?”).
+**Decide:** Keep the top 2–3 themes. Write 1–2 risks you will check next (e.g., "access to participants," "IRB/ethics needed," "data exists?").
 
 ---
 
 ## D. Turn topics into measurable research questions (RQ drill)
-This is where ideas stop being vibes and become a real project.
 
-## RQ templates (choose one)
+This is where ideas stop being vague and become a real project.
+
+### RQ templates (choose one)
+
 **A) Comparison**
-- “In `<population>`, does `<approach A>` vs `<approach B>` change `<measurable outcome>` over `<time>`?”
+`In <population>, does <approach A> vs <approach B> change <measurable outcome> over <time>?`
 
 **B) Effect**
-- “What is the effect of `<intervention/exposure>` on `<outcome>` for `<population>` in `<setting>`?”
+`What is the effect of <intervention/exposure> on <outcome> for <population> in <setting>?`
 
 **C) Relationship**
-- “How is `<variable X>` associated with `<outcome Y>` among `<population>`?”
+`How is <variable X> associated with <outcome Y> among <population>?`
 
 ---
 
-## RQ generator prompt (Copy/paste)
-- `Role: Research methods tutor.`
-- `Context: My chosen theme is: <paste theme label + 2–3 included ideas>.`
-- `Action: Propose 5 research questions that are specific and measurable.`
-- `Format: Table with columns = RQ, Population/Setting, Variables (IV/DV), Method (1 line), Metric (how measured), Feasibility note.`
-- `Constraints: Avoid vague verbs (explore/understand). Each RQ must include a measurable outcome and a plausible data source.`
+### RQ generator prompt (copy/paste)
+```
+Role: Research methods tutor.
+Context: My chosen theme is: <paste theme label + 2–3 included ideas>.
+Action: Propose 5 research questions that are specific and measurable.
+Format: Table with columns = RQ, Population/Setting, Variables (IV/DV),
+Method (1 line), Metric (how measured), Feasibility note.
+Constraints: Avoid vague verbs (explore/understand). Each RQ must include
+a measurable outcome and a plausible data source.
+```
 
-### Tighten ONE RQ with acceptance criteria (Copy/paste)
-- `Action: Rewrite RQ #__ to meet all acceptance criteria below.`
-- `Acceptance criteria:`
-  - `Names a population and setting`
-  - `Defines what is being compared or measured`
-  - `Specifies at least one measurable outcome`
-  - `Time-bounded (e.g., "over 2 weeks")`
-  - `Ethically feasible (no sensitive data)`
-- `Format: Return (1) final RQ, (2) IV/DV, (3) method, (4) metric, (5) biggest risk.`
+### Tighten ONE RQ with acceptance criteria (copy/paste)
+```
+Action: Rewrite RQ #__ to meet all acceptance criteria below.
+Acceptance criteria:
+- Names a population and setting
+- Defines what is being compared or measured
+- Specifies at least one measurable outcome
+- Time-bounded (e.g., "over 2 weeks")
+- Ethically feasible (no sensitive data)
+Format: Return (1) final RQ, (2) IV/DV, (3) method, (4) metric, (5) biggest risk.
+```
 
 ---
 
 ## E. Summarize a document safely (tool limits & chunking)
-Free tiers and some enterprise tools limit input size. If a tool can’t “read” the whole article, it should say so. Ask it to be explicit—and chunk long text.
 
-1) **Pick an article** (example news story):  
-[LEGO helps Langford man recapture life after induced coma in 2018](https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837){:target="_blank" rel="noopener"}
+Free tiers and some enterprise tools limit input size. If a tool can't read the whole article, it should say so — ask it to be explicit, and chunk long text.
 
-2) **Ask the tool to confirm capacity first:**
+1. **Pick an article** (example):
+   [LEGO helps Langford man recapture life after induced coma in 2018](https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837)
 
-`Can you summarize the article at this URL? If not, say "TOO LONG" and ask me to paste text in chunks of your preferred size.
-URL: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837`
+2. **Ask the tool to confirm capacity first:**
+```
+Can you summarize the article at this URL? If not, say "TOO LONG" and ask
+me to paste text in chunks of your preferred size.
+URL: https://www.saanichnews.com/local-news/lego-helps-langford-man-recapture-life-after-induced-coma-in-2018-7333837
+```
 
-3) **If too long, paste in chunks:**  
-`Here is CHUNK 1/3 (do not summarize yet). Acknowledge receipt only.`
+3. **If too long, paste in chunks:**
+   `Here is CHUNK 1/3 (do not summarize yet). Acknowledge receipt only.`
+   (Repeat for CHUNK 2/3 and 3/3.)
 
-(Repeat for CHUNK 2/3 and 3/3.)
+4. **Then summarize across chunks:**
+```
+Action: Produce a 5-bullet summary using only the content from CHUNKS 1–3.
+Constraints: No new facts; quote 2 short phrases (≤10 words) with bullet numbers.
+```
 
-4) **Then summarize across chunks:**
-`Action: Produce a 5-bullet summary using only the content from CHUNKS 1–3.
-Constraints: No new facts; quote 2 short phrases (≤10 words) with bullet numbers.`
-
-
-5) **Compare summaries:** `Are the “quick” and “expanded” versions different in quality/coverage?`
+5. **Compare summaries:**
+   `Are the "quick" and "expanded" versions different in quality or coverage?`
 
 ---
 
 ## Guided examples you can try right now
 
 **1) Topic exploration (makerspaces)**
+```
+I am an undergraduate student starting an honours project about university
+makerspaces. Generate 15 distinct topics. Vary method (survey/experiment/case),
+context (course/program/library), and outcome (learning/employability/access).
+Return a table with Idea, Rationale, Tags.
+```
 
-`I am an undergraduate student starting an honours project about university makerspaces.
-Generate 15 distinct topics. Vary method (survey/experiment/case), context (course/program/library), and outcome (learning/employability/access).
-Return a table with Idea, Rationale, Tags.`
-
-Now try a topic you care about.
+Now try a topic you actually care about.
 
 **2) Research questions from a bullet**
-`Suggest 5 research questions with measurable outcomes for:
+```
+Suggest 5 research questions with measurable outcomes for:
 "Evaluate the effectiveness of makerspace programs."
-Return a table with Research Questions, Variables, Method, Outcome, Feasibility note.`
+Return a table with Research Question, Variables, Method, Outcome, Feasibility note.
+```
 
-Then run the **Research Questions drill** above to tighten one question.
+Then run the RQ drill above to tighten one question.
 
 **3) Article summary (with limits)**
-- Ask for capacity, then either summarize the URL or paste chunks.  
-- Follow with: `Expand to ≥5 bullets; keep quotes short; no new facts.`
 
-> **Note:** Limits change over time. If a tool doesn’t acknowledge limits, assume it may not have processed everything—ask it to show its work.
+* Ask for capacity, then either summarize the URL or paste in chunks.
+* Follow with: `Expand to ≥5 bullets; keep quotes short; no new facts.`
 
+> **Note:** Limits change over time. If a tool doesn't acknowledge its limits, assume it may not have processed everything — ask it to show its work.
 
 ---
 
 ## Reflection (2–3 min)
-- Which **two criteria** mattered most for your down-selection?  
-- Which **prompt change** improved quality the most—tone, scope, or format?  
-- What **risk** will you check next (data, ethics, access)?
 
-> **Badge evidence:** Save a screenshot of your “top 3” table (with scores) or your “5 research questions” table.
+* Which **two criteria** mattered most for your down-selection?
+* Which **prompt change** improved quality the most — tone, scope, or format?
+* What **risk** will you check next (data, ethics, access)?
+
+> **Badge evidence:** Save a screenshot of your "top 3" scored table or your "5 research questions" table.
 
 ---
 
 ## Self-check (2 min)
-- Did you **diverge** (≥10 ideas), **cluster** (clear themes), and **converge** (scored & selected)?  
-- Are your Research Questions **measurable** and scoped to your time/resources?  
-- Did you verify at least one claim or data assumption?
+
+* Did you **diverge** (≥10 ideas), **cluster** (clear themes), and **converge** (scored & selected)?
+* Are your research questions **measurable** and scoped to your time and resources?
+* Did you verify at least one claim or data assumption?
 
 ---
 
-## Go further
-For more prompting techniques (tone, examples, format control), a short overview you can skim next:  
-[Prompt engineering techniques](https://www.geeky-gadgets.com/prompt-engineering-techniques/){:target="_blank" rel="noopener"}
+## What comes next
 
+You now have strong, scoped research questions. Your next two steps:
 
-[NEXT STEP: Critical Review](4-critical-review.html){: .btn .btn-blue }
+* **Activity 4** — learn how to audit any GenAI output for errors and bias before you use it.
+* **[Literature Searching with AI](https://lib.uvic.ca/ai-lit-search)** workshop — use specialized tools like Research Rabbit, Elicit, and Consensus to find peer-reviewed sources on the questions you just built.
+
+---
+
+[NEXT STEP: Critically Review](4-critical-review.html)
