@@ -25,8 +25,8 @@ If you get stuck during this in-class exercise, ask the instructor. Let’s leve
 > - Names
 > - Emails
 > - Street or postal code Addresses
+> - GPS data in photos 
 > - Birthdates or other significant dates for events in people's lives
-> - GPS data in photos
 ---
 
 ## CRAFT (fast refresh)
