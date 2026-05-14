@@ -33,7 +33,7 @@ If you get stuck during this in-class exercise, ask the instructor. Let’s leve
 Use **CRAFT** and add constraints/evidence when facts matter.
 
 - **Context** — why you’re asking; **Role** — who to act as; **Action** — exact deliverable;  
-  **Format** — headings/bullets/JSON; **Target Audience** — who it’s for.
+- **Format** — headings/bullets/JSON; **Target Audience** — who it’s for.
 - **Constraints** (word/time limits, must include/avoid) and **Evidence** (citations/URLs).
 
 > Typo fix from earlier pages: “Target Audience,” not “Target Audience.” Accuracy starts with you.
