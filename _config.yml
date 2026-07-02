@@ -1,5 +1,5 @@
 title: GenAI - Intro & Prompt Design
-remote_theme: pmarsceill/just-the-docs
+remote_theme: just-the-docs/just-the-docs
 
 just_the_docs:
   # This expands all navigation items by default
@@ -38,10 +38,28 @@ Copyright &copy; 2023 <a href=\"https://uvic.ca/library/dsc/\">UVic Libraries Di
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
 last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
 
+callouts:
+  highlight:
+    color: yellow
+  important:
+    title: Important
+    color: blue
+  new:
+    title: New
+    color: green
+  note:
+    title: Note
+    color: purple
+  warning:
+    title: Warning
+    color: red
+
 # Google Analytics Tracking (optional)
 # e.g, UA-1234567-89
 ga_tracking: G-J1P4V8MFWB
 ga_tracking_anonymize_ip: true # Use GDPR compliant Google Analytics settings (true/nil by default)
 
 plugins:
+  - jekyll-remote-theme
   - jekyll-seo-tag
+  - jekyll-include-cache
