@@ -11,15 +11,12 @@ last_modified_date: 2025-11-09
 # Prompt Design Introduction
 <img src="images/prompt-design-image.png" style="float:right;width:320px;padding:6px;" alt="Student at a computer learning effective GenAI prompt design">
 
-**Estimated time:** 20–30 minutes  
-If you get stuck, ask the instructor. Have fun—this is hands-on.
-
----
-
 ## What you’ll learn
 - A simple framework (**CRAFT**) for writing prompts that produce clearer, more useful results.  
 - How to turn a weak, vague prompt into a strong one with structure and constraints.  
 - How to evaluate responses for accuracy and fit to your goal.
+
+> If you get stuck, please ask the instructor for support. Have fun, this is a hands-on workshop!
 
 ## Before you start
 Open **one** tool in your browser:
