@@ -31,17 +31,6 @@ By the end of this **introductory** workshop, you will be able to:
 7. **Evaluate output quality** for accuracy, relevance, bias, and missing context.  
 8. **Follow UVic expectations** for academic integrity and responsible use.
 
----
-
-## The Prompt Design Loop 
-
-1) **Idea / Goal** (what outcome do you actually need?)  
-2) **Prompt** (instructions + context + constraints)  
-3) **Result** (model output)  
-4) **Test** (is it correct, usable, safe, complete?)  
-5) **Feedback + Refine** (tighten constraints, add examples, fix format)  
-
-
 [NEXT STEP: Pre-Workshop Activities](pre-workshop.html){: .btn .btn-blue }
 
 ---
