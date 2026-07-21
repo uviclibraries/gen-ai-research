@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 last_modified_date: 2026-07-21 
 ---
 
-# Create Custom Instructions for Your GenAI Tools to Help Make Them More Redilable!
+# Create Custom Instructions for Your GenAI Tools to Help Make Them More Reliable!
 <img src="images/8-genai-instructions-logo.png" style="float:right;width:350px;padding:6px;" alt="decorative">
 
 Generative AI tools are eager to please, and that can be a problem. By default they often agree with whatever you say, praise your questions, and quietly fill gaps with confident guesses rather than admitting what they do not know. For research, teaching, and writing, that tendency to tell you what you want to hear can lead you astray.
