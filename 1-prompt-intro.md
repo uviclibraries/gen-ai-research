@@ -19,12 +19,12 @@ last_modified_date: 2025-11-09
 > If you get stuck, please ask the instructor for support. Have fun, this is a hands-on workshop!
 
 ## Before you start
-Open **one** tool in your browser:
-- [Perplexity](https://www.perplexity.ai/){:target="_blank" rel="noopener"} (often works without an account) **or** [Microsoft Copilot](https://m365.cloud.microsoft/chat/){:target="_blank" rel="noopener"} (UVic-licensed option available).  
+Open **one** of the following tools in your browser:
+- [Microsoft Copilot](https://m365.cloud.microsoft/chat/){:target="_blank" rel="noopener"} (UVic-licensed option available).  
 You may use other tools if you prefer:
-[Claude](https://claude.ai/){:target="_blank" rel="noopener"},
-[Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"},
-[ChatGPT](https://chat.openai.com/){:target="_blank" rel="noopener"}.
+- [Claude](https://claude.ai/){:target="_blank" rel="noopener"},
+- [Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"},
+- [ChatGPT](https://chat.openai.com/){:target="_blank" rel="noopener"}.
 
 > **Privacy note:** Don’t paste confidential or personal data. Redact names/emails/IDs (e.g., `[Researcher_A]`, `[Email_1]`). For data-handling details, see the UVic guidance linked on the Pre-Workshop page.
 
