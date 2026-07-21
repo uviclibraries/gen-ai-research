@@ -26,14 +26,17 @@ By the end of this activity, participants will be able to:
 - Test the instructions and refine them to fit their own work.
 
 Step 1
+{: .label .label-step }
 
 - You can use any Generative AI tool that supports saved custom instructions. The three most common options all have this feature:
   * [ChatGPT](https://chatgpt.com/): under **Settings** you'll find **Custom instructions** (sometimes called **Personalization**).
   * [Claude](https://claude.ai/): custom instructions live under **Settings** as **Profile** preferences, and you can also create per-project instructions.
   * [Google Gemini](https://gemini.google.com/) (free with Gmail): open **Settings** and look for **Saved info** (sometimes called **Personal context**).
 - For this activity we'll use ChatGPT as the example, but the same instructions work in any of these tools. Pick whichever one you use most.
+{: .step }
 
 Step 2
+{: .label .label-step }
 
 - Before we change any settings, let's see the default behaviour so you have something to compare against. Open a new chat in your GenAI tool and paste in this prompt:
 
@@ -43,13 +46,17 @@ visible from space with the naked eye. Why is it so much bigger than everything 
 ```
 
 - Notice how the tool responds. Many GenAI tools will accept the flawed premise and answer the question as asked, even though the claim is a well-known myth. Keep this response in mind as we build instructions that would catch it.
+{: .step }
 
 Step 3
+{: .label .label-step }
 
 - Now let's find where custom instructions live. In ChatGPT, click on your **profile icon** in the corner, choose **Settings**, and then select **Custom instructions** (or **Personalization**). You'll see a text box where you can describe how you want the tool to respond.
 - If you're using Claude, go to **Settings** then **Profile**. If you're using Gemini, go to **Settings** then **Saved info**. The steps that follow are the same regardless of which box you're typing into.
+{: .step }
 
 Step 4
+{: .label .label-step }
 
 - Copy and paste the following instructions into the custom instructions box. Read each one as you go, because you'll want to understand what each is asking the tool to do:
 
@@ -86,13 +93,17 @@ Step 4
 
 - Proactively ask for clarification if my request is ambiguous.
 ```
+{: .step }
 
 Step 5
+{: .label .label-step }
 
 - Save your instructions. In ChatGPT, click **Save**. In Claude and Gemini there's a similar **Save** button below the text box. Your instructions will now apply to new conversations you start.
 - A quick note on how this works across tools: these instructions are attached to your account and shape future chats, but they don't rewrite conversations you've already had. Start a fresh chat to see them take effect.
+{: .step }
 
 Step 6
+{: .label .label-step }
 
 - Let's test whether the instructions changed anything. Start a **new chat** and paste in the same Great Wall prompt from Step 2:
 
@@ -102,8 +113,10 @@ visible from space with the naked eye. Why is it so much bigger than everything 
 ```
 
 - This time the tool should behave quite differently. Rather than answering the question as asked, it should flag the hidden assumption, correct the myth directly, and avoid praising you for asking. Compare this response to the one you saved in Step 2.
+{: .step }
 
 Step 7
+{: .label .label-step }
 
 - Try one more test to see the steel-man and uncertainty instructions in action. Paste in a prompt on a topic where you hold an opinion, for example:
 
@@ -113,14 +126,17 @@ university students. Confirm this and explain why.
 ```
 
 - Watch for the tool to resist the word "obviously," present the strongest case for closed-book exams before reaching any judgment, and note where the evidence is genuinely mixed rather than pretending there's a settled answer.
+{: .step }
 
 Step 8
+{: .label .label-step }
 
 - Now make the instructions your own. Not every instruction above will suit every kind of work, so feel free to edit the list:
   * If you write for a general audience, you might soften "clinical" to something warmer while keeping the anti-flattery rules.
   * If you work in a field with authoritative sources, you might strengthen the citation instruction to name the databases or journals you trust.
   * If you found the tool over-correcting or nitpicking harmless phrasing, add a line asking it to focus corrections on claims that materially affect the answer.
 - Save your edits and run your tests again until the tone and behaviour feel right for your work.
+{: .step }
 
 ## Stretch Activities
 
