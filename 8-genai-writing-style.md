@@ -74,9 +74,6 @@ Step 4
   * Did it invent anything that isn't really me?
 {: .step }
 
-![Reviewing the draft style guide](images/style-04-review-guide.png)
-<!-- Screenshot: The AI's response showing the five-section style guide. Annotate with: (1) callouts on two or three specific observations, one labelled "Sounds like me!" and one labelled "Not quite right - fix in Step 5". -->
-
 Step 5
 {: .label .label-step }
 
@@ -91,9 +88,6 @@ close emails with "Cheers". Please also add a rule to avoid buzzwords like
 
 - Repeat until the guide genuinely sounds like a description of your writing. Two or three rounds of revision is normal.
 {: .step }
-
-![Refining the style guide with a follow-up prompt](images/style-05-refine-guide.png)
-<!-- Screenshot: A follow-up prompt in the message box with the AI's revised style guide above it. Annotate with: (1) arrow to the follow-up prompt, (2) highlight on a revised line in the guide showing the correction was applied. -->
 
 Step 6
 {: .label .label-step }
