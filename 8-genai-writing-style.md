@@ -35,8 +35,7 @@ Step 2
 - Attach your 3 (or more) writing samples to the conversation using the **paperclip** or **plus (+)** button near the message box. You can usually drag and drop the files as well. If a document won't upload, you can simply copy and paste the text into the message instead.
 {: .step }
 
-![Uploading writing samples to a GenAI chat](images/style-02-upload-samples.png)
-<!-- Screenshot: A GenAI chat interface with the file attachment menu open and three files attached above the message box. Annotate with: (1) circle around the paperclip/plus button, (2) arrow pointing to the three attached file chips. -->
+![Uploading writing samples to a GenAI chat](images/8-training-files.png)
 
 Step 3
 {: .label .label-step }
