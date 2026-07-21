@@ -111,7 +111,7 @@ Step 7
 - The next three steps show you how to save the guide **inside** Gemini, Claude, and ChatGPT so you don't have to paste it in every time. You only need to follow the instructions for the tool (or tools) you actually use.
 {: .step }
 
-Step 8 - Add Your Style Guide to Google Gemini
+Step 8A - Add Your Style Guide to Google Gemini
 {: .label .label-step }
 
 - Open [Google Gemini](https://gemini.google.com/){:target="_blank"} and click on your **profile picture or the gear icon** in the corner, then choose **Settings**, and then **Saved info** (on some accounts this appears as "Personal context" or "Saved information").
@@ -122,7 +122,7 @@ Step 8 - Add Your Style Guide to Google Gemini
 ![Adding the style guide to Gemini's Saved info](images/style-08-gemini-saved-info.png)
 <!-- Screenshot: Gemini's Settings > Saved info screen with the style guide pasted into a new entry. Annotate with: (1) circle around the Settings/Saved info menu items, (2) arrow to the pasted style guide, (3) arrow to the Save button. -->
 
-Step 9 - Add Your Style Guide to Claude
+Step 8B - Add Your Style Guide to Claude
 {: .label .label-step }
 
 - Open [Claude](https://claude.ai/){:target="_blank"} and click on your **initials or profile icon** in the bottom corner, then choose **Settings**, and look for the **Profile** section with the box labelled something like **"What personal preferences should Claude consider in responses?"**
@@ -133,7 +133,7 @@ Step 9 - Add Your Style Guide to Claude
 ![Adding the style guide to Claude's profile preferences](images/style-09-claude-preferences.png)
 <!-- Screenshot: Claude's Settings > Profile screen with the style guide pasted into the preferences box. Annotate with: (1) circle around Settings > Profile in the menu, (2) arrow to the preferences text box with the guide pasted in. -->
 
-Step 10 - Add Your Style Guide to ChatGPT
+Step 8C - Add Your Style Guide to ChatGPT
 {: .label .label-step }
 
 - Open [ChatGPT](https://chatgpt.com/){:target="_blank"} and click on your **profile picture** in the corner, then choose **Customize ChatGPT** (or **Settings** and then **Personalization**, depending on your version).
@@ -154,8 +154,6 @@ Congratulations on creating your personal writing style guide! Your GenAI drafts
 - Every few months, add a new piece of your own writing to the analysis and ask the AI to update the guide. Your voice evolves, and your guide should too.
 - Try giving the **same style guide and the same writing task** to Gemini, Claude, and ChatGPT, and compare which one captures your voice best.
 
-[NEXT STEP: Earn a Workshop Badge](informal-credentials.html){: .btn .btn-blue }
-
-[**NEXT STEP: ????**](#){: .btn .btn-blue }
+[**NEXT STEP: Earn a Workshop Badge**](informal-credentials.html){: .btn .btn-blue }
 
 
