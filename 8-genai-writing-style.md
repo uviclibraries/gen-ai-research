@@ -104,18 +104,12 @@ I'll be away next week and who to contact while I'm gone.
 - Compare the result to how you would actually write that email. If it still doesn't sound like you, go back to Step 5 and refine the guide a bit more.
 {: .step }
 
-![Testing the style guide in a new conversation](images/style-06-test-guide.png)
-<!-- Screenshot: A new conversation showing the pasted style guide, the email request, and the AI's response. Annotate with: (1) callout "New conversation - no documents attached", (2) arrow to a phrase in the output that matches the person's voice. -->
-
 Step 7
 {: .label .label-step }
 
 - Save your finished style guide somewhere you can find it again, such as a document called **my-writing-style.txt** or a note in your favourite note-taking app. You now have a portable description of your voice that works in any GenAI tool.
 - The next three steps show you how to save the guide **inside** Gemini, Claude, and ChatGPT so you don't have to paste it in every time. You only need to follow the instructions for the tool (or tools) you actually use.
 {: .step }
-
-![Saving the style guide as a text file](images/style-07-save-guide.png)
-<!-- Screenshot: A text editor with the final style guide saved as my-writing-style.txt. Annotate with: (1) arrow to the filename in the title bar. -->
 
 Step 8 - Add Your Style Guide to Google Gemini
 {: .label .label-step }
