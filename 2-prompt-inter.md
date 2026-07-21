@@ -41,7 +41,7 @@ Use **CRAFT** and add constraints/evidence when facts matter.
 **Plus:**
 - **Constraints**: limits + must include/avoid (reduces errors + fluff)
 - **Evidence**: citations/URLs when facts matter
-- **Acceptance Criteria** (the “definition of done”): what a correct answer must include
+- **Definition of Done**: what a correct answer must include
 ---
 
 ## Patterns library (copy/paste)
@@ -67,7 +67,7 @@ Use these as building blocks; swap in your topic.
 **Prompt**
 - Role: `Project planner`
 - Action: `Produce a 5-step plan to achieve <goal>.`
-- Format: `Table: Step | Objective | Inputs | Deliverable | Acceptance criteria`
+- Format: `Table: Step | Objective | Inputs | Deliverable | Definition of Done`
 - Constraints: `No step longer than 2 lines.`
 
 ### 4) Critic 
@@ -98,7 +98,7 @@ Chaining beats one giant prompt. You get less chaos and more control.
 
 **Chain format:**
 1) **Draft** the output  
-2) **Critique** it using acceptance criteria  
+2) **Critique** it using Definition of Done  
 3) **Revise** based on critique
 
 **Example chain (copy/paste)**  
@@ -106,7 +106,7 @@ Chaining beats one giant prompt. You get less chaos and more control.
 `Create a structured answer on <topic>. Format: 6 bullets with headings. Include 2 sources.`
 
 **Step 2: Critique**
-`Check your answer against these acceptance criteria:
+`Check your answer against these Definitions of Done:
 - Has a clear definition (1 sentence)
 - Has 2 verifiable sources (URLs)
 - No claims without evidence
@@ -139,10 +139,10 @@ Return a table: Criterion | Pass/Fail | Fix`
 - Better: `Outline 4 factors that influence thunderstorm formation; 1 sentence each; list sources.`
 - Scope: `fewer errors, faster checking.`
 
-5) **Iterate with acceptance criteria**
+5) **Iterate with Definition of Done**
 - Initial: `Weather in London.`
 - Refined: `Weekend forecast for London, UK, with any weather warnings. Format: bullets; include source links.`
-- Add **acceptance criteria**: “Contains date range, temperature range, precipitation chance; max 80 words.”
+- Add **Definition of Done**: “Contains date range, temperature range, precipitation chance; max 80 words.”
 
 6) **Prompt chaining (build on prior output)**
 - First: `What factors affect local weather conditions?`
@@ -186,7 +186,7 @@ Return a table: Criterion | Pass/Fail | Fix`
 - Start a new chat, then: `I teach Grade 4. Generate a 60-minute lesson on local weather with a 30-minute hands-on activity.`
 - Format: `Objectives, Materials, Steps with times, Assessment, Differentiation.`
 - Follow-up: `Provide step-by-step student instructions for the activity at a Grade 4 reading level.`
-- Add acceptance criteria: `The plan must fit 60 minutes total, list 3 materials only, and include one formative check.`
+- Add Definitions of Done: `The plan must fit 60 minutes total, list 3 materials only, and include one formative check.`
 
 **D. Pattern remix (make a reusable prompt)
 Pick a topic you actually care about (course, work, hobby). Copy/paste and fill blanks:
@@ -226,7 +226,7 @@ Scope: 6 key points, include 1 example.
 Format: bullets.`
 
 **Reflection (2–3 min)**
-- Which acceptance criteria improved quality the most?  
+- Which Definition of Done improved quality the most?  
 - Where did tone or scope reduce errors?  
 - What will you reuse as a personal template?
 
@@ -237,12 +237,12 @@ Format: bullets.`
 - Is tone and **scope** appropriate for your audience?
 - Did you **chain** prompts rather than rewrite from scratch?
 - Are sources **verifiable** (and not just names without links)?
-- Would your output pass your own **acceptance criteria**?
+- Would your output pass your own **Definition of Done**?
 
 ---
-### Acceptance criteria mini-library
+### **Definition of Done** mini-library
 - **Summary**: 120–150 words, neutral tone, no new facts, 1 quote ≤10 words.
-- **Plan**: 5 steps; each has Objective • Inputs • Acceptance; total ≤180 words.
+- **Plan**: 5 steps; each has Objective • Inputs • Definition of Done; total ≤180 words.
 - **Table**: Columns fixed; max 6 rows; no empty cells.
 - **Evidence**: Each claim has URL + date; if unsure → “NOT SURE”.
 
