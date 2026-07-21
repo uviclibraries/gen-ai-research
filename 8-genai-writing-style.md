@@ -151,7 +151,7 @@ Congratulations on creating your personal writing style guide! Your GenAI drafts
 **A note on ethics and transparency**: A style guide helps AI drafts sound like you, but the words are still machine-generated until you revise and approve them. Always read AI drafts carefully before sending them, and follow your school's or workplace's guidelines about disclosing when you've used AI assistance. Menu names and settings in these tools change fairly often, so if a menu described above has moved, a quick search for the tool name plus "custom instructions" will point you to the current location.
 {: .step }
 
-Step 9 - Stretch Activities
+Step 10 - Stretch Activities
 {: .label .label-step }
 
 - Ask your GenAI tool to extend your style guide with a **"register by document type"** section, describing how your voice shifts between formal reports, casual emails, and social media posts.
