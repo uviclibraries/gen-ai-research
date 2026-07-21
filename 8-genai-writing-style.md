@@ -62,8 +62,7 @@ clarifying questions before you start if that would improve the summary.
 ```
 {: .step }
 
-![Pasting the style analysis prompt](images/style-03-analysis-prompt.png)
-<!-- Screenshot: The chat interface with the full prompt pasted into the message box and the three files still attached. Annotate with: (1) highlight box around the prompt text, (2) arrow to the send button. -->
+![Pasting the style analysis prompt](images/8-prompt.png)
 
 Step 4
 {: .label .label-step }
