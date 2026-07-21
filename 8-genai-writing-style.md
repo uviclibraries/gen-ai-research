@@ -137,22 +137,27 @@ Step 8C - Add Your Style Guide to ChatGPT
 {: .label .label-step }
 
 - Open [ChatGPT](https://chatgpt.com/){:target="_blank"} and click on your **profile picture** in the corner, then choose **Customize ChatGPT** (or **Settings** and then **Personalization**, depending on your version).
-- In the box that asks something like **"Custom Instructions"** or **"What traits should ChatGPT have?"**, paste your style guide, starting with: *"When writing on my behalf, use this personal writing style:"*. ChatGPT limits your instructions to only 500 characters, so you may have to ask your GenAI tool to summarize your custom instruction to fit the 500 character limit.
+- In the box that asks something like **"Custom Instructions"** or **"What traits should ChatGPT have?"**, paste your style guide, starting with: *"When writing on my behalf, use this personal writing style:"*. ChatGPT limits your instructions to only 1500 characters, so you may have to ask your GenAI tool to summarize your custom instruction to fit the 1500 character limit.
 - Click **Save**. Your style guide will now apply to new conversations. As with the other tools, test it by asking for a short email in a fresh chat.
 {: .step }
 
 ![Adding the style guide to ChatGPT's custom instructions](images/8-chatgpt-instructions.png)
 <!-- Screenshot: ChatGPT's Customize ChatGPT dialog with the style guide pasted into the response preferences box. Annotate with: (1) circle around the profile menu > Customize ChatGPT, (2) arrow to the pasted guide, (3) arrow to the Save button. -->
 
+Step 9
+{: .label .label-step }
 Congratulations on creating your personal writing style guide! Your GenAI drafts should now sound quite a bit more like you, and quite a bit less like everyone else's.
 
 **A note on ethics and transparency**: A style guide helps AI drafts sound like you, but the words are still machine-generated until you revise and approve them. Always read AI drafts carefully before sending them, and follow your school's or workplace's guidelines about disclosing when you've used AI assistance. Menu names and settings in these tools change fairly often, so if a menu described above has moved, a quick search for the tool name plus "custom instructions" will point you to the current location.
+{: .step }
 
-## Stretch Activities
+Step 9 - Stretch Activities
+{: .label .label-step }
 
 - Ask your GenAI tool to extend your style guide with a **"register by document type"** section, describing how your voice shifts between formal reports, casual emails, and social media posts.
 - Every few months, add a new piece of your own writing to the analysis and ask the AI to update the guide. Your voice evolves, and your guide should too.
 - Try giving the **same style guide and the same writing task** to Gemini, Claude, and ChatGPT, and compare which one captures your voice best.
+{: .step }
 
 [**NEXT STEP: Earn a Workshop Badge**](informal-credentials.html){: .btn .btn-blue }
 
