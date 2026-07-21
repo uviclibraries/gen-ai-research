@@ -9,11 +9,11 @@ last_modified_date: 2026-07-21
 
 ![decorative](images/writing-style-logo.jpg)
 
-# Make GenAI Sound Like You: Create a Personal Writing Style Guide!
+# Create a Personal Writing Style Guide for Your GenAI Tools!
 
 Generative AI tools are wonderful writing assistants, but out of the box they all sound a little bit the same: polished, generic, and not quite like you. Fortunately, there is a simple fix. If you give a GenAI tool a few examples of your own writing, it can create a summary of your writing style, and you can then give that summary back to the tool so its drafts sound much more like your authentic voice.
 
-In this activity you will gather at least 3 documents you wrote yourself (without any GenAI help), have a GenAI tool analyze them, refine the resulting style guide, and then learn how to save that guide in [Google Gemini](https://gemini.google.com/){:target="_blank"}, [Claude](https://claude.ai/){:target="_blank"}, and [ChatGPT](https://chatgpt.com/){:target="_blank"} so every future conversation starts with your voice already loaded.
+In this activity you will gather at least 3 documents you wrote yourself without any GenAI help (the more documents the better), have a GenAI tool analyze them, refine the resulting style guide, and then learn how to save that guide in [Google Gemini](https://gemini.google.com/){:target="_blank"}, [Claude](https://claude.ai/){:target="_blank"}, and [ChatGPT](https://chatgpt.com/){:target="_blank"} so every future conversation starts with your voice already loaded.
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
 
