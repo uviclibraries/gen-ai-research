@@ -1,13 +1,13 @@
 ---
 layout: default
-title: 7 - GenAI & Your Writing Style
-nav_order: 8
+title: 8 - GenAI & Your Writing Style
+nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
 last_modified_date: 2026-07-21 
 ---
 
-![decorative](images/writing-style-logo.jpg)
+![decorative](images/genai-instructions-logo.png)
 
 # Create a Personal Writing Style Guide for Your GenAI Tools!
 
