@@ -137,7 +137,7 @@ Step 8C - Add Your Style Guide to ChatGPT
 {: .label .label-step }
 
 - Open [ChatGPT](https://chatgpt.com/){:target="_blank"} and click on your **profile picture** in the corner, then choose **Customize ChatGPT** (or **Settings** and then **Personalization**, depending on your version).
-- In the box that asks something like **"What traits should ChatGPT have?"** or **"How would you like ChatGPT to respond?"**, paste your style guide, starting with: *"When writing on my behalf, use this personal writing style:"*.
+- In the box that asks something like **"Custom Instructions"** or **"What traits should ChatGPT have?"**, paste your style guide, starting with: *"When writing on my behalf, use this personal writing style:"*. ChatGPT limits your instructions to only 500 characters, so you may have to ask your GenAI tool to summarize your custom instruction to fit the 500 character limit.
 - Click **Save**. Your style guide will now apply to new conversations. As with the other tools, test it by asking for a short email in a fresh chat.
 {: .step }
 
