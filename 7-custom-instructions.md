@@ -29,9 +29,9 @@ Step 1
 {: .label .label-step }
 
 - You can use any Generative AI tool that supports saved custom instructions. The three most common options all have this feature:
-  * [ChatGPT](https://chatgpt.com/): under **Settings** you'll find **Custom instructions** (sometimes called **Personalization**).
-  * [Claude](https://claude.ai/): custom instructions live under **Settings** as **Profile** preferences, and you can also create per-project instructions.
-  * [Google Gemini](https://gemini.google.com/) (free with Gmail): open **Settings** and look for **Saved info** (sometimes called **Personal context**).
+  * [Claude](https://claude.ai/){:target="_blank" rel="noopener"}: custom instructions live under **Settings** as **Profile** preferences, and you can also create per-project instructions.
+  * [Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"} (free with Gmail): open **Settings** and look for **Saved info** (sometimes called **Personal context**).
+  * [ChatGPT](https://chatgpt.com/){:target="_blank" rel="noopener"}: under **Settings** you'll find **Custom instructions** (sometimes called **Personalization**).
 - For this activity we'll use ChatGPT as the example, but the same instructions work in any of these tools. Pick whichever one you use most.
 {: .step }
 
