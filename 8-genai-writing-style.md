@@ -116,7 +116,8 @@ Step 8A - Add Your Style Guide to Google Gemini
 
 - Open [Google Gemini](https://gemini.google.com/){:target="_blank"} and click on your **profile picture or the gear icon** in the corner, then choose **Settings**, and then **Saved info** (on some accounts this appears as "Personal context", "Saved information", "Personal Intelligence" or "Instructions for Gemini").
 - Turn on the option to let Gemini use your saved info, then click **Add** and paste in your style guide. It helps to start the entry with a short instruction like: *"When I ask you to write something, use this personal writing style:"* followed by the guide.
-- Click **Save**. From now on Gemini will automatically consider your style guide in new conversations. To test it, start a new chat and ask Gemini to draft a short email, without pasting the guide in, and see if your voice comes through.
+- Click **Save**. From now on Gemini will automatically consider your style guide in new conversations. **NOTE**: Your style might too long for Genmini's Instruction box, if so you can add it to Gemini's Instructions one section at a time.
+- To test it, start a new chat and ask Gemini to draft a short email, without pasting the guide in, and see if your voice comes through.
 {: .step }
 
 ![Adding the style guide to Gemini's Saved info](images/8-gemini-instructions.png)
@@ -124,12 +125,12 @@ Step 8A - Add Your Style Guide to Google Gemini
 Step 8B - Add Your Style Guide to Claude
 {: .label .label-step }
 
-- Open [Claude](https://claude.ai/){:target="_blank"} and click on your **initials or profile icon** in the bottom corner, then choose **Settings**, and look for the **Profile** section with the box labelled something like **"What personal preferences should Claude consider in responses?"**
+- Open [Claude](https://claude.ai/){:target="_blank"} and click on your **initials or profile icon** in the bottom corner, then choose **Settings**, and look for the **Profile** section with the box labelled something like **"Instructions for Claude"**
 - Paste your style guide into that box, starting with a line such as: *"When writing on my behalf, use this personal writing style:"*. Your preferences are saved automatically and will apply to new conversations.
 - **Bonus**: If you have a paid Claude plan, you can instead create a **Project** for your writing, paste the style guide into the Project's custom instructions, and even attach your original writing samples as Project knowledge. Claude also has a **Styles** feature (in the menu near the message box) where you can create a custom style directly from writing samples.
 {: .step }
 
-![Adding the style guide to Claude's profile preferences](images/style-09-claude-preferences.png)
+![Adding the style guide to Claude's profile preferences](images/8-claude-instructions.png)
 <!-- Screenshot: Claude's Settings > Profile screen with the style guide pasted into the preferences box. Annotate with: (1) circle around Settings > Profile in the menu, (2) arrow to the preferences text box with the guide pasted in. -->
 
 Step 8C - Add Your Style Guide to ChatGPT
@@ -140,7 +141,7 @@ Step 8C - Add Your Style Guide to ChatGPT
 - Click **Save**. Your style guide will now apply to new conversations. As with the other tools, test it by asking for a short email in a fresh chat.
 {: .step }
 
-![Adding the style guide to ChatGPT's custom instructions](images/style-10-chatgpt-custom-instructions.png)
+![Adding the style guide to ChatGPT's custom instructions](images/8-chatgpt-instructions.png)
 <!-- Screenshot: ChatGPT's Customize ChatGPT dialog with the style guide pasted into the response preferences box. Annotate with: (1) circle around the profile menu > Customize ChatGPT, (2) arrow to the pasted guide, (3) arrow to the Save button. -->
 
 Congratulations on creating your personal writing style guide! Your GenAI drafts should now sound quite a bit more like you, and quite a bit less like everyone else's.
