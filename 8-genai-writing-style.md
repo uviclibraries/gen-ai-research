@@ -8,7 +8,7 @@ last_modified_date: 2026-07-21
 ---
 
 # Create a Personal Writing Style Guide for Your GenAI Tools!
-<img src="images/8-genai-instructions-logo.png" style="float:right;width:320px;padding:6px;" alt="decorative">
+<img src="images/8-genai-instructions-logo.png" style="float:right;width:350px;padding:6px;" alt="decorative">
 
 Generative AI tools are wonderful writing assistants, but out of the box they all sound a little bit the same: polished, generic, and not quite like you. Fortunately, there is a simple fix. If you give a GenAI tool a few examples of your own writing, it can create a summary of your writing style, and you can then give that summary back to the tool so its drafts sound much more like your authentic voice.
 
