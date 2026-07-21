@@ -1,6 +1,6 @@
 ---
 layout: default
-title: 8 - GenAI & Your Writing Style
+title: 8 - Your GenAI Writing Style
 nav_order: 9
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
