@@ -7,7 +7,7 @@ customjs: http://code.jquery.com/jquery-1.4.2.min.js
 last_modified_date: 2026-07-21 
 ---
 
-![decorative](images/genai-instructions-logo.png)
+![decorative](images/8-genai-instructions-logo.png)
 
 # Create a Personal Writing Style Guide for Your GenAI Tools!
 
@@ -27,9 +27,6 @@ Step 1
 - Aim for documents that are at least a few paragraphs long each (500 or more words is ideal). Short one-line emails don't give the AI enough to work with.
 - **Privacy note**: Before uploading anything, remove or replace confidential information such as other people's names, student records, health details, or anything covered by a confidentiality agreement. A quick find-and-replace with placeholder names works well.
 {: .step }
-
-![Three example documents gathered in a folder](images/style-01-gather-documents.png)
-<!-- Screenshot: A file manager window showing a folder named "my-writing-samples" containing three files (e.g. annual-report-excerpt.docx, cycling-blog-post.pdf, welcome-email.txt). Annotate with: (1) arrow pointing to the folder name, (2) callout noting "At least 3 documents, written 100% by you". -->
 
 Step 2
 {: .label .label-step }
