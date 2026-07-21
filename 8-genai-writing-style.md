@@ -114,13 +114,12 @@ Step 7
 Step 8A - Add Your Style Guide to Google Gemini
 {: .label .label-step }
 
-- Open [Google Gemini](https://gemini.google.com/){:target="_blank"} and click on your **profile picture or the gear icon** in the corner, then choose **Settings**, and then **Saved info** (on some accounts this appears as "Personal context" or "Saved information").
+- Open [Google Gemini](https://gemini.google.com/){:target="_blank"} and click on your **profile picture or the gear icon** in the corner, then choose **Settings**, and then **Saved info** (on some accounts this appears as "Personal context", "Saved information", "Personal Intelligence" or "Instructions for Gemini").
 - Turn on the option to let Gemini use your saved info, then click **Add** and paste in your style guide. It helps to start the entry with a short instruction like: *"When I ask you to write something, use this personal writing style:"* followed by the guide.
 - Click **Save**. From now on Gemini will automatically consider your style guide in new conversations. To test it, start a new chat and ask Gemini to draft a short email, without pasting the guide in, and see if your voice comes through.
 {: .step }
 
-![Adding the style guide to Gemini's Saved info](images/style-08-gemini-saved-info.png)
-<!-- Screenshot: Gemini's Settings > Saved info screen with the style guide pasted into a new entry. Annotate with: (1) circle around the Settings/Saved info menu items, (2) arrow to the pasted style guide, (3) arrow to the Save button. -->
+![Adding the style guide to Gemini's Saved info](images/8-gemini-instructions.png)
 
 Step 8B - Add Your Style Guide to Claude
 {: .label .label-step }
