@@ -40,14 +40,7 @@ Pick **one** you can sign into easily:
 <a href="https://www.youtube.com/watch?v=kpjqxalCKdg&t=10s" target="_blank" rel="noopener">Open in YouTube</a><br>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/kpjqxalCKdg?start=10" title="Generative AI in Education" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
-### Quick readiness checks (5–6 min)
-- You can **log into one tool** and open a new chat.  
-- You have a **practice paragraph** ready to paste.  
-- You can state your **goal** in one sentence (e.g., “Summarize for a first-year reader”).  
-- You know how to **copy a link** or reference a source you used.  
-- You can explain **one integrity rule** you must follow in your course.
-
-### Data safety rules (2 min)
+### Data safety rules
 - **Do not paste** confidential, personal, or proprietary information.  
 - **Redact** names/emails/IDs using role placeholders (e.g., `[Researcher_A]`, `[Email_1]`).  
 - **Cite** sources for specific facts or quotations.  
