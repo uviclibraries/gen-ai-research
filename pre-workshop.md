@@ -18,11 +18,9 @@ This workshop is mostly hands-on. Do these light prep steps so you can jump stra
 
 ### Choose your tool (3–5 min)
 Pick **one** you can sign into easily:
-- [Perplexity](https://www.perplexity.ai/){:target="_blank" rel="noopener"} (general purpose)
-- [ChatGPT](https://chat.openai.com/){:target="_blank" rel="noopener"} (general purpose)
-- [Meta.ai](https://meta.ai){:target="_blank" rel="noopener"} (general purpose, strong free images)
-- [Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"} (general purpose)
 - [Claude](https://claude.ai/){:target="_blank" rel="noopener"} (general purpose)
+- [ChatGPT](https://chat.openai.com/){:target="_blank" rel="noopener"} (general purpose)
+- [Google Gemini](https://gemini.google.com/){:target="_blank" rel="noopener"} (general purpose)
 - [Microsoft Copilot (UVic licensed)](https://copilot.microsoft.com){:target="_blank" rel="noopener"} (general purpose)
 
 > Tip: If sign-in is blocked on your device, use a different one from the list or your UVic-licensed option.
