@@ -1,12 +1,4 @@
----
-layout: default
-title: 6 - Assignment Feedback (Pre-Submit Check)
-nav_order: 7
-parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
-description: "Rubric-first feedback you can audit: structured comments, a concrete fix plan, and integrity notes—step by step."
-last_modified_date: 2025-11-09
----
+
 
 # Assignment Feedback (Pre-Submit Check)
 <img src="images/6-genai-feedback-2.png" style="float:right;width:300px;padding:6px;" alt="Student reviewing structured feedback before submitting an assignment">
