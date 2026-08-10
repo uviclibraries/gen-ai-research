@@ -12,7 +12,10 @@ last_modified_date: 2026-07-21
 
 Generative AI tools are wonderful writing assistants, but out of the box they all sound a little bit the same: polished, generic, and not quite like you. Fortunately, there is a simple fix. If you give a GenAI tool a few examples of your own writing, it can create a summary of your writing style, and you can then give that summary back to the tool so its drafts sound much more like your authentic voice.
 
-> **A reminder on ethics & transparency: A style guide helps AI drafts sound more like your own voice, but the words are still machine-generated. Always follow your instructor's, school's or workplace's guidelines about using and disclosing when you've used AI to generate text. If you are permitted to use AI for a specific assignment or task, carefully read AI drafts before publishing or submitting them.**
+> ### A Reminder About Ethics & Transparency: 
+> - **A style guide helps AI drafts sound more like your own voice, but the words are still machine-generated.**
+> - **Always follow your instructor's, school's or workplace's guidelines about using and disclosing when you've used AI to generate text.**
+> - **If you are permitted to use AI for a specific assignment or task, carefully read AI drafts before publishing or submitting them.**
 
 In this activity you will gather at least 3 documents you wrote yourself without any GenAI help (the more documents the better), have a GenAI tool analyze them, refine the resulting style guide, and then learn how to save that guide in [Google Gemini](https://gemini.google.com/){:target="_blank"}, [Claude](https://claude.ai/){:target="_blank"}, and [ChatGPT](https://chatgpt.com/){:target="_blank"} so every future conversation starts with your voice already loaded.
 
