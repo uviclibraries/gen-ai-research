@@ -12,6 +12,8 @@ last_modified_date: 2026-07-21
 
 Generative AI tools are wonderful writing assistants, but out of the box they all sound a little bit the same: polished, generic, and not quite like you. Fortunately, there is a simple fix. If you give a GenAI tool a few examples of your own writing, it can create a summary of your writing style, and you can then give that summary back to the tool so its drafts sound much more like your authentic voice.
 
+> **A reminder on ethics and transparency**: A style guide helps AI drafts sound like you, but the words are still machine-generated until you revise and approve them. Always read AI drafts carefully before sending them, and follow your school's or workplace's guidelines about disclosing when you've used AI assistance. Menu names and settings in these tools change fairly often, so if a menu described above has moved, a quick search for the tool name plus "custom instructions" will point you to the current location.
+
 In this activity you will gather at least 3 documents you wrote yourself without any GenAI help (the more documents the better), have a GenAI tool analyze them, refine the resulting style guide, and then learn how to save that guide in [Google Gemini](https://gemini.google.com/){:target="_blank"}, [Claude](https://claude.ai/){:target="_blank"}, and [ChatGPT](https://chatgpt.com/){:target="_blank"} so every future conversation starts with your voice already loaded.
 
 If you get stuck, please ask your instructor for assistance, and don't forget to have fun!
@@ -148,7 +150,7 @@ Step 9
 {: .label .label-step }
 Congratulations on creating your personal writing style guide! Your GenAI drafts should now sound quite a bit more like you, and quite a bit less like everyone else's.
 
-**A note on ethics and transparency**: A style guide helps AI drafts sound like you, but the words are still machine-generated until you revise and approve them. Always read AI drafts carefully before sending them, and follow your school's or workplace's guidelines about disclosing when you've used AI assistance. Menu names and settings in these tools change fairly often, so if a menu described above has moved, a quick search for the tool name plus "custom instructions" will point you to the current location.
+**A reminder about ethics and transparency**: A style guide helps AI drafts sound like you, but the words are still machine-generated until you revise and approve them. Always read AI drafts carefully before sending them, and follow your school's or workplace's guidelines about disclosing when you've used AI assistance. Menu names and settings in these tools change fairly often, so if a menu described above has moved, a quick search for the tool name plus "custom instructions" will point you to the current location.
 {: .step }
 
 Step 10 - Stretch Activities
