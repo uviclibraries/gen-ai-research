@@ -160,7 +160,7 @@ Return a table: Criterion | Pass/Fail | Fix`
 - Constraints: `Family-friendly; avoid superlatives; 6 words max per tagline.`
 
 9) **Image generation (availability varies by tool/tier)**
-- Try **[Meta.ai](https://meta.ai){:target="_blank" rel="noopener"}** or **[Copilot](https://copilot.microsoft.com){:target="_blank" rel="noopener"}**.
+- Try **[Gemini](https://gemini.google.com){:target="_blank" rel="noopener"}** or **[Copilot](https://copilot.microsoft.com){:target="_blank" rel="noopener"}**.
 - Prompt: `Create an image of a Grade 2 student learning about the weather in a classroom.`  
 - Constraints: `Check for artifacts (extra fingers, text gibberish, anatomy errors) before using.`
 
