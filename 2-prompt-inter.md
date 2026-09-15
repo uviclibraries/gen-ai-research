@@ -108,11 +108,11 @@ Chaining beats one giant prompt. You get less chaos and more control.
 `Create a structured answer on <topic>. Format: 6 bullets with headings. Include 2 sources.`
 
 **Step 2: Critique**
-`Check your answer against these Definitions of Done:
-- Has a clear definition (1 sentence)
-- Has 2 verifiable sources (URLs)
-- No claims without evidence
-- Max 120 words
+`Check your answer against these Definitions of Done:`
+`- Has a clear definition (1 sentence)`
+`- Has 2 verifiable sources (URLs)`
+`- No claims without evidence`
+`- Max 120 words
 Return a table: Criterion | Pass/Fail | Fix`
 
 **Step 3: Revise**
