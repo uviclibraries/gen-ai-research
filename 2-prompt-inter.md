@@ -43,6 +43,7 @@ Use **CRAFT** and add constraints/evidence when facts matter.
 - **Constraints**: limits + must include/avoid (reduces errors + fluff)
 - **Evidence**: citations/URLs when facts matter
 - **Definition of Done**: what a correct answer must include
+
 ---
 
 ## Patterns library (copy/paste)
