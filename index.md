@@ -27,7 +27,6 @@ By the end of this **introductory** workshop, you will be able to:
 3. **Run a basic fact-check loop** (ask for claims → verify with two sources → correct errors).  
 4. **Adjust privacy settings** and read terms and conditions with a safety mindset.  
 5. **Use GenAI for practical tasks** (brainstorming, outlining, formatting) without breaching integrity.  
-6. **Give pre-submit feedback** on your own assignments using a simple rubric.  
 7. **Evaluate output quality** for accuracy, relevance, bias, and missing context.
 8. **Custom Instructions** for Your GenAI Tools to help make them more reliable and less sycophantic.
 9. **Follow UVic expectations** for academic integrity and responsible use.
