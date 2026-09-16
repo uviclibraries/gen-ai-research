@@ -4,7 +4,6 @@ title: 5 - Privacy & Environment
 nav_order: 7
 parent: Workshop Activities
 customjs: http://code.jquery.com/jquery-1.4.2.min.js
-description: "Practical privacy, redaction, and sustainable GenAI use—with hands-on drills and step-by-step toggles for Copilot, ChatGPT, and Perplexity."
 last_modified_date: 2025-11-09
 ---
 
