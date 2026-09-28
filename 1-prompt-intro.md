@@ -59,6 +59,8 @@ Use **CRAFT**:
 
 ## Bad → Better → Best (weather lesson)
 
+Please read through this section. You will practice using the CRAFT framework below.
+
 **Bad (too vague)**
 `Tell me about the weather.`
 
@@ -90,8 +92,6 @@ _Why it fails:_ No audience, no goal, no format. You’ll get generic fluff.
 - **Reality controls:** whether it’s true (so you must verify when facts matter)
 
 ---
-
----
 ## Let’s practice!
 
 ### 1) Test a poor prompt 
@@ -115,7 +115,7 @@ Copy/paste this:
 
 <img src="images/1-prompt-weather-lesson.png" alt="Copilot producing a structured Grade 2 weather lesson plan"><br>
 
-**Discuss:**
+**Reflect:**
 - How is this response better than the vague prompt?  
 - Do you have the **weather expertise** to check the facts?  
 - Do you have the **teaching expertise** to judge if the plan is realistic for Grade 2?
