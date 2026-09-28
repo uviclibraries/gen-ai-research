@@ -53,7 +53,7 @@ Use **CRAFT**:
 5. **Target Audience** — Who is this for? Adjust tone and level.  
   _Example:_ `Write at a Grade 2 reading level.`
 
-> **CRAFT+ (recommended):** Add **Constraints** (time, word count, must include/avoid), and **Evidence** (citations/URLs) when facts matter.
+> Even better is to use **CRAFT + Constraints** (time, word count, must include/avoid), & **Evidence** (citations/URLs) when facts matter.
 
 ---
 
