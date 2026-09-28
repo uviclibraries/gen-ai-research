@@ -1,10 +1,10 @@
----
-layout: default
-title: 8 - Your GenAI Writing Style
-nav_order: 9
-parent: Workshop Activities
-customjs: http://code.jquery.com/jquery-1.4.2.min.js
-last_modified_date: 2026-07-21 
+// ---
+// layout: default
+// title: 8 - Your GenAI Writing Style
+// nav_order: 9
+// parent: Workshop Activities
+// customjs: http://code.jquery.com/jquery-1.4.2.min.js
+// last_modified_date: 2026-07-21 
 ---
 
 <img src="images/8-genai-instructions-logo.png" style="float:right;width:350px;padding:6px;" alt="decorative">
